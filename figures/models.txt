@@ -1,0 +1,143 @@
+Abbreviation	Package	Full name	Group	Note	Description	Paper
+PD	Scikit-Clean	Partitioning Detector	Ensemble	data variation	"Partitions dataset into n subsets, trains a classifier on each. Trained models are then used to predict on entire dataset.
+"	Improving software quality prediction by noise filtering techniques.
+MCS	Scikit-Clean	Markov Chain Sampling framework	Single		Detects noise using a sequential Markov Chain Monte Carlo sampling algorithm. Tested for binary classification, multi-class classification sometimes perform poorly.	 Classification with label noise: a markov chain sampling framework. 
+IH	Scikit-Clean	Instance Hardness	Ensemble		A set of classifiers are used to predict labels of each sample using cross-validation. conf_score of a sample is percentage classifiers that correctly predict it’s label.	
+RkDN	Scikit-Clean		Similarity		For each sample, the percentage of it’s nearest neighbors with same label serves as it’s conf_score. Euclidean distance is used to find the nearest neighbors.	
+FKDN	Scikit-Clean		Similarity		"Like KDN, but a trained Random Forest is used to compute pairwise similarity.
+Specifically, for a pair of samples, their similarity is the percentage of times they belong to the same leaf. "	
+RFD	Scikit-Clean		Ensemble		Trains a Random Forest first- for each sample, only trees that didn’t select it for training (via bootstrapping) are used to predict it’s label. Percentage of trees that correctly predicted the label is the sample’s conf_score.	
+KDN	Scikit-Clean		Similarity		For each sample, the percentage of it’s nearest neighbors with same label serves as it’s conf_score. Euclidean distance is used to find the nearest neighbors.	
+C45votingFilter	NoiseFiltersR	C45-based voting Filter	Ensemble	data variation	"C45votingFilter splits the dataset into nfolds folds, building and testing a C4.5 tree on every
+combination of nfolds-1 folds. Thus nfolds-1 votes are gathered for each instance. Removal is
+carried out by majority or consensus voting schemes."	
+ORBoostFilter	NoiseFiltersR	Outlier Removal Boosting Filter	Ensemble		"In general
+terms, a weak classifier is built in each iteration, and misclassified instances have their weight
+increased for the next round. Instances are removed when their weight exceeds the threshold d, i.e.
+they have been misclassified in consecutive rounds"	
+CVCF	NoiseFiltersR	Cross-Validated Committees Filter	Ensemble		"Dataset is split in
+nfolds folds, a base classifiers (C4.5 in this implementation) is built over every combination of
+nfolds-1 folds, and then tested on the whole dataset. Finally, consensus or majority voting scheme
+is applied to remove noisy instances."	
+C45iteratedVotingFilter	NoiseFiltersR	C45-based iterated Voting Filter	Ensemble	data variation	"C45iteratedVotingFilter somehow combines the two previous filter, since it iterates C45votingFilter
+until no more noisy instances are removed."	
+IPF	NoiseFiltersR	Iterative Partitioning Filter	Ensemble		"A base classifier
+is built in each of the nfolds partitions of data. Then, they are tested in the whole dataset, and
+the removal of noisy instances is decided via consensus or majority voting schemes. Finally, a
+proportion of good instances (i.e. those whose label agrees with all the base classifiers) is stored
+and removed for the next iteration. The process stops after s iterations with not enough (according
+to the proportion p) noisy instances removed. In this implementation, the base classifier used is
+C4.5."	
+CNN	NoiseFiltersR	Condensed Nearest Neighbors	Similarity		"CNN searches for a ’consistent subset’ of the provided dataset, i.e. a subset that is enough for
+correctly classifying the rest of instances by means of 1-NN. To do so, CNN stores the first instance
+and goes for a first sweep over the dataset, adding to the stored bag those instances which are not
+correctly classified by 1-NN taking the stored bag as training set. Then, the process is iterated until
+all non-stored instances are correctly classified.
+Although CNN is not strictly a label noise filter, it is included here for completeness, since the origins
+of noise filters are connected with instance selection algorithms."	
+C45robustFilter	NoiseFiltersR	C45 based robust Filter	Single		"C45robustFilter builds a C4.5 decision tree from the training data, and then removes those instances
+misclassfied by this tree. The process is repeated until no instances are removed."	
+HARF	NoiseFiltersR	High Agreement Random Forest	Ensemble		"Making use of a nfolds-folds cross validation scheme, instances are identified as noise and removed
+when a random forest provides little confidence for the actual instance’s label (namely, less
+than 1-agreementLevel). The value of agreementLevel allows to tune the precision and recall of
+the filter, getting the best trade-off when moving between 0.7 and 0.8"	
+BBNR	NoiseFiltersR	Blame Based Noise Reduction	Similarity		"BBNR removes an instance ’X’ if: (i) it participates in the misclassification of other instance (i.e. ’X’
+is among the k nearest neighbors of a misclassified instance and has a different class); and (ii) its
+removal does not produce a misclassification in instances that, initially, were correctly classified by
+’X’ (i.e. ’X’ was initially among the k nearest neighbors and had the same class)."	
+CleanLab	CleanLab	CleanLab	Single			
+PRISM	NoiseFiltersR	PReprocessing Instances that Should be Misclassified	Similarity		"PRISM identifies ISMs (Instances that Should be Misclassified) and removes them from the dataset.
+In order to do so, it combines five heuristics based on varied approaches by means of a formula. One
+heuristic relies on class distribution among nearest neighbors, two heuristics are based on the class
+distribution in a leaf node of a C4.5 tree (either pruned or unpruned), and the other two are based on
+the class likelihood for an instance, assuming gaussian distribution for continuous variables when
+necessary."	
+TomekLinks	NoiseFiltersR	Tomek Links	Similarity		"The function TomekLinks removes ""TomekLink points"" from the dataset. These are introduced in
+[Tomek, 1976], and are expected to lie on the border between classes. Removing such points is a
+typical procedure for cleaning noise [Lorena, 2002]."	
+PF	NoiseFiltersR	Partitioning Filter	Ensemble		"A PART rules
+set (from RWeka) is built in each of the nfolds partitions of data. After a ’good rules selection’
+process based on the accuracy of each rule, the subsequent good rules sets are tested in the whole
+dataset, and the removal of noisy instances is decided via consensus or majority voting schemes.
+Finally, a proportion of good instances (i.e. those whose label agrees with all the base classifiers)
+is stored and not considered in subsequent iterations. The process stops after s iterations with not
+enough (according to the proportion p) noisy instances removed."	
+hybridRepairFilter	NoiseFiltersR	Hybrid Repair-Remove Filter	Ensemble		"As presented in (Miranda et al., 2009), hybridRepairFilter builds on the dataset an ensemble
+of four classifiers: SVM, Neural Network, CART, KNN (combining k=1,3,5). According to their
+predictions and majority or consensus voting schemes, a subset of instances are labeled as noise.
+These are removed if noiseAction equals ""remove"", their class is changed into the most voted
+among the ensemble if noiseAction equals ""repair"", and when the latter is set to ""hybrid"", the vote
+of KNN decides whether remove or repair.
+All this procedure is repeated while the accuracy (over the original dataset) of the ensemble trained
+with the processed dataset increases."	
+dynamicCF	NoiseFiltersR	Dynamic Classification Filter	Ensemble	classifier variation	"dynamicCF (Garcia et al., 2012) follows the same approach as EF, but the ensemble of classifiers
+is not fixed beforehand. Namely, dynamicCF trains 9 well-known classifiers in the dataset to be
+filtered, and selects for the ensemble those with the m best predictions. Then, a nfolds-folds cross
+voting scheme is applied, with consensus or majority strategies depending on parameter consensus.
+The nine (standard) classifiers handled by dynamicCF are SVM, 3-KNN, 5-KNN, 9-KNN, CART,
+C4.5, Random Forest, Naive Bayes and Multilayer Perceptron Neural Network."	
+INFFC	NoiseFiltersR	Iterative Noise Filter based on the Fusion of Classifiers	Ensemble		"A ’preliminary filtering’
+is carried out with a fusion of classifiers (FC), including C4.5, 3NN, and logistic regression.
+Then, potentially noisy instances are identified in a ’noise free filtering’ process building the FC on
+the (preliminary) filtered instances. Finally, a ’noise score’ is computed on these potentially noisy
+instances, removing those exceeding the threshold value. The process stops after s iterations with
+not enough (according to the proportion p) noisy instances removed."	
+DROP1	NoiseFiltersR	Decremental Reduction Optimization Procedures	Similarity		"DROP1 goes over the dataset in the provided order, and removes those instances whose removal does
+not decrease the accuracy of the 1-NN rule in the remaining dataset."	
+EF	NoiseFiltersR	Ensemble Filter	Ensemble	classifier variation	"Dataset is split in
+nfolds folds, an ensemble of three different base classifiers (C4.5, 1-KNN, LDA) is built over every
+combination of nfolds-1 folds, and then tested on the other one. Finally, consensus or majority
+voting scheme is applied to remove noisy instances."	
+DROP2	NoiseFiltersR	Decremental Reduction Optimization Procedures	Similarity		"DROP2 introduces two modifications against DROP1. Regarding the order of processing instances,
+DROP2 starts with those which are furthest from their nearest ""enemy"" (two instances are said to be
+""enemies"" if they belong to different classes). Moreover, DROP2 removes an instance if its removal
+does not decrease the accuracy of the 1-NN rule in the original dataset (rather than the remaining
+dataset as in DROP1)."	
+GE	NoiseFiltersR	Generalized Edition	Similarity		"GE is a generalization of ENN that integrates the possibility of ’repairing’ or ’relabeling’ instances
+rather than only ’removing’. For each instance, GE considers its k-1 neighbors and the instance
+itself. If there are at least kk examples from the same class, the instance is relabeled with that class
+(which could be its own). Otherwise, it is removed."	
+DROP3	NoiseFiltersR	Decremental Reduction Optimization Procedures	Similarity		"DROP3 is identical to DROP2, but it includes a preprocessing step to clean the borders between classes.
+It consists of applying the ENN method: any instance misclassified by its k nearest neighbors is
+removed."	
+consensusSF	NoiseFiltersR	Saturation Filters	Single	data complexity	"consensusSF splits the dataset in nfolds folds, and applies saturationFilter to every combination
+of nfolds-1 folds. Those instances with (at least) consensusLevel ’noisy votes’ are removed."	
+classifSF	NoiseFiltersR	Saturation Filters	Single	data complexity	"classifSF combines saturationFilter with a nfolds-folds cross validation scheme (the latter
+in the spirit of filters such as EF, CVCF). Namely, the dataset is split in nfolds folds and, for every
+combination of nfolds-1 folds, saturationFilter is applied and a classifier (we implement a
+standard C4.5 tree) is built. Instances from the excluded fold are removed according to this classifier."	
+edgeBoostFilter	NoiseFiltersR	Edge Boosting Filter	Similarity		"An AdaBoost scheme (Freund & Schapire) is applied with a default C4.5 tree as weak classifier.
+After m iterations, those instances with larger (according to the constraints percent and threshold)
+edge values (Wheway, Freund & Schapire) are considered noisy and thus removed."	
+AENN	NoiseFiltersR	All-k Edited Nearest Neighbors	Similarity		"AENN applies the Edited Nearest Neighbor algorithm ENN for all integers between 1 and k on the
+whole dataset. At the end, any instance considered noisy by some ENN is removed."	
+RNN	NoiseFiltersR	Reduced Nearest Neighbors	Similarity		"RNN is an extension of CNN. The latter provides a ’consistent subset’, i.e. it is enough for correctly
+classifying the rest of instances by means of 1-NN. Then, in the given order, RNN removes instances
+as long as the remaining do not loss the property of being a ’consistent subset’.
+Although RNN is not strictly a class noise filter, it is included here for completeness, since the origins
+of noise filters are connected with instance selection algorithms."	
+ModeFilter	NoiseFiltersR	Mode Filter	Similarity		"ModeFilter estimates the most appropriate class for each instance based on the similarity metric
+and the provided label. This can be addressed in three different ways (argument ’type’):
+In the classical approach, all labels are tried for all instances, and the one maximizing a metric based
+on similarity is chosen. In the iterative approach, the same scheme is repeated until the proportion
+of modified instances is less than epsilon or the maximum number of iterations maxIter is reached.
+The weighted approach extends the classical one by assigning a weight for each instance, which
+quantifies the reliability on its label. This weights is utilized in the computation of the metric to be
+maximized."	
+ENG	NoiseFiltersR	Editing with Neighbor Graphs	Similarity	graph-based	"ENG builds a neighborhood graph which can be either Gabriel Graph (GG) or Relative Neighborhood
+Graph (RNG) [S\’anchez et al., 1997]. Then, an instance is considered as ’potentially noisy’ if
+most of its neighbors have a different class. To decide whether such an instance ’X’ is removed, let
+S be the subset given by ’X’ together with its neighbors from the same class. Compute the majority
+class ’C’ among the neighbors of examples in S, and remove ’X’ if its class is not ’C’."	
+saturationFilter	NoiseFiltersR	Saturation Filters	Single	data complexity	"Based on theoretical studies about data complexity (Gamberger&Lavrac, 1997), saturationFilter
+removes those instances which most enable to reduce the CLCH (Complexity of the Least Complex
+Hypotheses) of the training dataset. The full method can be looked up in (Gamberger et al., 1999),
+and the previous step of literals extraction is detailed in (Gamberger et al., 1996)."	
+EWF	NoiseFiltersR	Edge Weight Filter	Similarity	graph-based	"EWF builds up a Relative Neighborhood Graph (RNG) from the dataset. Then, it identifies as ’suspicious’
+those instances with a significant value of itslocal cut edge weight statistic, which intuitively
+means that they are surrounded by examples from a different class.
+Namely, the aforementioned statistic is the sum of the weights of edges joining the instance (in
+the RNG graph) with instances from a different class. Under the null hypothesis of the class label
+being independent of the event ’being neighbors in the RNG graph’, the distribution of this statistic
+can be approximated by a gaussian one. Then, the p-value for the observed value is computed and
+contrasted with the provided threshold."	

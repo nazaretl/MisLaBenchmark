@@ -1,0 +1,23 @@
+# ignore ALL .log files
+logs/
+
+# ignore ALL files in ANY directory named temp
+*temp/
+
+dataProduced/
+dataRaw/
+datasets/
+delete/
+output/
+temp/
+RModels/
+validation/
+
+
+.ipynb_checkpoints/
+.snakemake/
+.DS_Store/
+._.DS_Store
+
+_output/
+NotBalanced_output/

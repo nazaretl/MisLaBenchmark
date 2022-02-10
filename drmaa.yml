@@ -1,0 +1,8 @@
+__default__:
+  mem: '4000'
+  time: '4:00'
+  threads: 1
+  queue: short
+  error: '/fast/users/nazaretl_c/scratch/logs/%x_%j_{rule}_%N.err'
+  output: '/fast/users/nazaretl_c/scratch/logs/%x_%j_%N.log'
+

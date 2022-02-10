@@ -1,0 +1,18 @@
+Name	Size	Number of classes	Number of features	Number of dummied features	Distibution of classes	Description
+Adult	32561	2	14	108	{0: 0.76, 1: 0.24}	
+DryBean	13611	6	16	16	{5: 0.27, 4: 0.2, 0: 0.15, 3: 0.15, 2: 0.12, 1: 0.1}	
+Chess	28056	9	6	23	{7: 0.18, 6: 0.17, 5: 0.14, 4: 0.11, 0: 0.11, 8: 0.09, 3: 0.08, 2: 0.07, 1: 0.06}	
+Magic	19020	2	10	10	{0: 0.65, 1: 0.35}	
+Iris	150	3	4	4	{0: 0.33, 1: 0.33, 2: 0.33}	
+ClinVarReal	681665	3	103	132	{0: 0.52, 1: 0.36, 2: 0.12}	
+ClinVarArt	681665	3	103	132	{0: 0.52, 1: 0.36, 2: 0.12}	
+Encode	44313	2	5	5	{1: 0.57, 0: 0.43}	
+RNA1						
+RNA2						
+RNA3						
+RNA1						
+RNA2						
+RNA3						
+RNA1						
+RNA2						
+RNA3						

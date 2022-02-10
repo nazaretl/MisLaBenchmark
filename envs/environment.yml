@@ -1,0 +1,9 @@
+conda:
+    - pip
+    - pandas
+    - rpy2
+    - contextlib
+    - cleanlab
+    - umap
+pip:
+    - scikit-clean
