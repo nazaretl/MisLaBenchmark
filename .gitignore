@@ -11,8 +11,8 @@ delete/
 output/
 temp/
 RModels/
-validation/
 BU_output/
+figures/
 
 .ipynb_checkpoints/
 .snakemake/

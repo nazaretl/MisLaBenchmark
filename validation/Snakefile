@@ -1,0 +1,39 @@
+noise =  [0.05, 0.1, 0.2, 0.3, 0.4,  0.5, 0.6, 0.7]
+dataset = ['Iris']
+modelsR = [ 'AENN(df)' 
+            ,'BBNR(df, k = k)'
+           ,'C45robustFilter(df)'
+           ,'CNN(df)'
+           ,'CVCF(df, nfolds = nfolds, consensus = FALSE)'
+           ,'dynamicCF(df, nfolds = nfolds, consensus = FALSE, m = 3)'
+           ,'edgeBoostFilter(df, m = 15, percent = 0.05, threshold = 0.2)'
+           ,'EF(df, nfolds = nfolds, consensus = FALSE)'
+           ,'ENG(df, graph = "RNG")'
+           ,'GE(df, k = k, kk = ceiling(k/2))'
+           ,'HARF(df, nfolds = nfolds, agreementLevel = 0.7, ntrees = 500)'
+           ,'hybridRepairFilter(df, consensus = FALSE, noiseAction = "remove")'
+           ,'IPF(df, nfolds = nfolds, consensus = FALSE, p = 0.01, s = 3, y = 0.5)'
+           ,'ORBoostFilter(df, N = 20, d = 11, Naux = max(20, N), useDecisionStump = FALSE)'
+           ,'PF(df, nfolds = nfolds, consensus = FALSE, p = 0.01, s = 3, y = 0.5, theta = 0.7)'
+           ,'PRISM(df)'
+           ,'RNN(df)'
+]
+
+
+
+rule all:
+    input:
+        expand("temp/{dataset}_predictions_{model}_{noise}.csv", dataset = dataset, model = modelsR, noise = noise)
+   
+
+rule runAll: 
+    input:
+         expand("{dataset}.csv", dataset = dataset),
+         expand("{dataset}_NoisyLabels.csv", dataset = dataset)
+    output:
+        temp("temp/{dataset}_predictions_{model}_{noise}.csv")
+    script:
+        """test.R"""
+
+
+
