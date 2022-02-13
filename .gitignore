@@ -12,7 +12,7 @@ output/
 temp/
 RModels/
 validation/
-
+BU_output/
 
 .ipynb_checkpoints/
 .snakemake/
