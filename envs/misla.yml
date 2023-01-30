@@ -1,0 +1,20 @@
+name: MisLa
+dependencies:
+    - snakemake
+    - jupyter
+    - mamba
+    - drmaa
+    - pytorch
+    - numpy==1.23.*
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - tensorflow
+    - cleanlab==1.0.1
+    - time
+    - rpy2
+    - orange3
+    - pip
+    - seaborn
+    - pip:
+        - scikit-clean

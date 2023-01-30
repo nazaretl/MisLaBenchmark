@@ -25,12 +25,12 @@ modelsR = [
            ,'EWF(df, threshold = 0.25, noiseAction = "remove")'
            ,'GE(df, k = k, kk = ceiling(k/2))'
            ,'HARF(df, nfolds = nfolds, agreementLevel = 0.7, ntrees = 500)'
-           ,'hybridRepairFilter(df, consensus = FALSE, noiseAction = "remove")'
+           ,'hybridRepairFilter(df, consensus = TRUE, noiseAction = "remove")'
            ,'INFFC(df, consensus = FALSE, p = 0.01, s = 3, k = k, threshold = 0)'
            ,'IPF(df, nfolds = nfolds, consensus = FALSE, p = 0.01, s = 3, y = 0.5)'
            ,'ModeFilter(df, type = "classical", noiseAction = "remove", epsilon = 0.05, maxIter = 100, alpha = 1, beta = 1)'
-           ,'ORBoostFilter(df, N = 20, d = 11, Naux = max(20, N), useDecisionStump = FALSE)'
-           ,'PF(df, nfolds = nfolds, consensus = FALSE, p = 0.01, s = 3, y = 0.5, theta = 0.7)'
+           ,'ORBoostFilter(df, N = 10, d = 11, Naux = max(20, N), useDecisionStump = FALSE)'
+           ,'PF(df, nfolds = nfolds, consensus = FALSE, p = 0.01, s = 5, y = 0.3, theta = 0.3)'
            ,'PRISM(df)'
            ,'RNN(df)'
            ,'saturationFilter(df, noiseThreshold = noiseThreshold)'
@@ -63,7 +63,9 @@ def getRModel(dR, y, noisyLabels,model):
     models = chooseFilters(model, modelsR)
     filt = models[0]
     print(model)
-    ind = filt.split('(')[0]
+    #ind = filt.split('(')#[0]
     filteredNoiseInd = runOneRModel(filt, dR, y, noisyLabels )
-    
+    if len(filteredNoiseInd)!=0:
+        if filteredNoiseInd[0]!='failed!':
+            filteredNoiseInd = pd.Series(filteredNoiseInd).astype(int)-1
     return filteredNoiseInd

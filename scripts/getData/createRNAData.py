@@ -5,8 +5,9 @@ sys.path.insert(0, 'scripts/')
 from utils import *
 import numpy as np
 
-umap = pd.read_csv('rnaUMAP.csv',sep = '\t', header = None)
-labels = pd.read_csv('dataRaw/RNA-seq/atlas/meta.tab',sep = '\t',low_memory=False)
+umap = pd.read_csv('dataProduced/rnaUMAP.csv.gz',sep = '\t', header = None,
+                  compression = 'zip')
+labels = pd.read_csv('dataRaw/atlas/meta.tab',sep = '\t',low_memory=False)
 
 ind = labels[~labels['cluster'].isna()].index
 umap = umap.iloc[ind,:50]
@@ -20,4 +21,4 @@ for i,gr in enumerate(foundGroups):
     a = df['Label'].unique()
     repl = dict(zip(a,list(range(len(a)))))
     df.loc[:,'Label'] = df.loc[:,'Label'].replace(repl).astype(int)
-    df.to_csv('datasets/RNA'+str(i)+'.csv.gz',sep = '\t', index = False, compression = 'gzip')
+    df.to_csv('dataProduced/RNA'+str(i)+'.csv.gz',sep = '\t', index = False, compression = 'zip')

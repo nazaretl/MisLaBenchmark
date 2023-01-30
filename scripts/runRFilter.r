@@ -19,17 +19,17 @@ runRFilters<- function(string, df) {
         li = list()
         #sink("/dev/null")
        # out = 'failed' 
-       # out = eval(parse(text = string))$remIdx
+        out = eval(parse(text = string))$remIdx
                       
     
-out = tryCatch({
-            eval(parse(text = string))$remIdx}, 
-                       
-                error = function(e){
-                            message('Caught an error!')
-                            message(e)
-                    return('failed!')
-                                   })
+#out = tryCatch({
+#            eval(parse(text = string))$remIdx}, 
+#                       
+#                error = function(e){
+#                            message('Caught an error!')
+#                            message(e)
+#                    return(paste('failed!',e,sep = ' '))
+#                                   })
                    
                    
     

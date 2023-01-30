@@ -1,23 +1,25 @@
-# ignore ALL .log files
+# ignore ALL log files
 logs/
 
 # ignore ALL files in ANY directory named temp
 *temp/
+*delete/
+
+output/*Extended*
 
 dataProduced/
 dataRaw/
 datasets/
 delete/
-output/
 temp/
-RModels/
-BU_output/
-figures/
+
+Notebooks/AE-for-Sebastian.ipynb
+
+ForEverything.ipynb
 
 .ipynb_checkpoints/
 .snakemake/
 .DS_Store/
 ._.DS_Store
 
-_output/
-NotBalanced_output/
+

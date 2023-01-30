@@ -1,4 +1,4 @@
-conda:
+dependencies:
     - pip
     - pandas
     - rpy2

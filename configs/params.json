@@ -1,24 +1,44 @@
 {
     "implementation" : {
         "Python": ["KDN", "FKDN", "RkDN", "PD", "MCS", "IH", "RFD"],
-        "R" : ['C45votingFilter', 'ORBoostFilter', 'CVCF', 'C45iteratedVotingFilter', 'IPF', 'CNN', 'C45robustFilter', 'HARF', 'BBNR', 'PRISM', 'PF', 'hybridRepairFilter', 'dynamicCF', 'EF', 'GE', 'edgeBoostFilter', 'AENN', 'RNN'],
-        "CleanLab" : ["CleanLab"]
+        "R" : ['C45votingFilter', 'ORBoostFilter', 'CVCF', 'C45iteratedVotingFilter', 'IPF', 'CNN', 'C45robustFilter', 'HARF', 'BBNR', 'AENN'],
+     #   "R" : ['AENN'],
+        # hybridRepairFilter
+        "CleanLab" : ["CleanLab"],
+        "DNN" : ["ERL"]
+      #  "DNN" : ['AE']
     },
     
     "parameters" : {
        # "noiseLevels" : [0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7],
-        "noiseLevels" : [0.05, 0.1, 0.2, 0.3, 0.4,  0.5, 0.6, 0.7],
-      #  "datasetSizes" : [100,300,500,1000],
-        "datasetSizes" : [100,300,500,1000,3000,5000,10000],
-        "repeats" : 1},
+        #"noiseLevels" : [0.05, 0.1, 0.2, 0.3, 0.4,  0.5, 0.6, 0.7,0.8,0.9],
+       "noiseLevels" : [0.3],
+       # "datasetSizes" : [100000],
+        "datasetSizes" : [
+            #   100, 300,500,
+            1000, 
+            #               3000,5000,10000,
+           # 1000000
+                         ],
+        "repeats" : 10},
      "realNoise" : {"type" : ["Real"],
-                   # "data" : ["EncodeReal"]
-                       "data" : ["ClinVarReal", "EncodeReal"]
+                     "data" : [ "ClinVarReal"]
+                     #  "data" : ["ClinVarReal", "EncodeReal"]
         },
 
      "artNoise" : {"type" : ["Sym","Asym"],
-                  # "data" : ["EncodeArt"]}
-                     "data" : ["Adult","DryBean","Chess","Magic","ClinVarArt","EncodeArt"]}
+                  
+                     "data": ["Adult","DryBean","Chess","Magic","ClinVarArt","RNA0","RNA1","RNA2", "HEPMASS","Pokerhand", "IFD"]
+                  #      "data": ["Adult","Magic","DryBean", "IFD"]
+                                 },
+    "extra_info" : {
+                    "beta" : 0.6,
+                    "plursLayers" : 3,
+                     "learningRate" : 0.001,
+                     "scaling" : "True",
+                      "loss" : "ERL"
+                   }
+
 
 }
 

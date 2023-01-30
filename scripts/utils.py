@@ -35,8 +35,10 @@ def confusionMatrixScikit(y,noiseInd,filteredNoiseInd):
     y_pred = y.copy()
     y_pred[y.index.isin(filteredNoiseInd)]=1
     y_pred[~y.index.isin(filteredNoiseInd)]=0
-    if y_pred.sum()==0 & y_true.sum()==0:
-        li = [np.nan,np.nan,np.nan,np.nan]
+    tn = len(y)-len(noiseInd)
+    fn = len(noiseInd)
+    if len(filteredNoiseInd)==0:
+        li = [tn,0,fn,0]
     else:
         li = confusion_matrix(y_true, y_pred ).ravel()
         
@@ -61,35 +63,45 @@ def confusionMatrixScikit(y,noiseInd,filteredNoiseInd):
 def getData(dfAll,name, a, noise_level,size):
     N = min(len(dfAll), size)
     ind = random.sample(range(len(dfAll)), N)
-    if name in ['ClinVarReal', 'Encode']:
+    if name in ['ClinVarReal', 'EncodeReal']:
         
         nErrors = int(noise_level*N)
         dfClean = dfAll[dfAll['LabelNew']==dfAll['LabelOld']]
         dfNoisy = dfAll[dfAll['LabelNew']!=dfAll['LabelOld']]
-        indClean = random.sample(list(dfClean.index), N-nErrors) # random.choice for replacement
-        indNoisy = random.sample(list(dfNoisy.index), nErrors)   # random.choice
+        
+        if (len(dfClean)-N-nErrors) > 0:
+            indClean = random.sample(list(dfClean.index), N-nErrors)
+        else:
+            indClean = random.choices(list(dfClean.index),k = N-nErrors)
+
+        if (len(dfNoisy) - nErrors) > 0:
+            indNoisy = random.sample(list(dfNoisy.index), nErrors)
+        else:
+            indNoisy = random.choices(list(dfNoisy.index), k = nErrors)
+            
         ind = indClean + indNoisy
         df = dfAll.iloc[ind,:].reset_index(drop = True).sample(frac=1)
 
         X = df.iloc[:,:-2]
-        y = df.iloc[:,-2].astype(int)
-        noisyLabels = df.iloc[:,-1].astype(int)#.reset_index(drop = True)
+        y = df.loc[:,'LabelNew'].astype(int)
+        noisyLabels = df.loc[:,'LabelOld'].astype(int)#.reset_index(drop = True)
         no = (y!=noisyLabels).sum()
        # print('Number of errors: ', no) 
     else:
 
         df = dfAll.iloc[ind,:].reset_index(drop = True)
         X = df.iloc[:,:-1]#.reset_index(drop = True)
-        y = df.iloc[:,-1].astype(int)#.reset_index(drop = True)
-        uniform, cc, bcn = addNoiseScikit(X, y, noise_level = noise_level)
+        y = df.loc[:,'Label'].astype(int)#.reset_index(drop = True)
+        uniform, cc, bcn = addNoiseScikit(X.fillna(0), y, noise_level = noise_level)
         if a=='Sym':
             noisyLabels = pd.Series(uniform)
         else:
             noisyLabels = pd.Series(bcn)
             
-    X = X[X.columns[X.nunique() > 1]]     #delete columns w/o variability    
+    # must do it in the main script because of scaling         
+   # X = X[X.columns[X.nunique() > 1]]     #delete columns w/o variability    
             
-    return X, y, noisyLabels
+    return X.reset_index(drop = True), y.reset_index(drop = True), noisyLabels.reset_index(drop = True)
 
 
 
