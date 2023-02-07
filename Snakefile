@@ -1,28 +1,20 @@
 import pandas as pd
-#include: "/fast/groups/ag_kircher/CADD/projects/bStatistic/github_repo_fork/scripts/pipeline/SnakefileSKMisLa"
 configfile: "configs/params.json"
-#configfile: "configs/testParams.json"
 
 #imps = ['Python', 'CleanLab','R','DNN']
 imps = ['DNN']
 noiseTypes=["realNoise", "artNoise"]
 #noiseTypes=["realNoise"]
 
-#rule getTempFiles:
-#rule preAll:
- #   expand("temp/{dataset}_{noiseLevel}_{datasetSizes}_{noiseType}_{model}_{imp}.tmp", )
-'''
-def repeat():
-    return pd.read_csv('repeatsReal.csv',header = None)[0].to_list()
+Test = True
+datasets = ["Adult","DryBean","Chess","Magic","ClinVarArt","ClinVarReal","RNA0","RNA1","RNA2", "HEPMASS","Pokerhand", "IFD"]
 
-rule all:
-    input:
-        repeat()
-       
-rule test:
-    input:
-        "temp/DryBean_0.2_1000_Sym_ERL_DNN.tmp"
-'''  
+
+
+def repeat():
+    return pd.read_csv('repeats.csv',header = None)[0].to_list()
+
+  
     
 rule all:
     input:
@@ -30,9 +22,8 @@ rule all:
         
         
 
-rule All:
+rule getRunParams:
     input:
-     #   expand("output/{dataset}_{imp}.csv",dataset = config['parameters']['datasets'],imp = imps),
         lambda wc: expand("temp/{dataset}_{noiseLevel}_{datasetSize}_{noiseType}_{model}_{imp}.tmp", 
                           model = config['implementation'][wc.imp], 
                             noiseLevel = config['parameters']['noiseLevels'],
@@ -42,7 +33,17 @@ rule All:
                                             imp = wc.imp)
     output:
         touch(temp("done_{noiseTypes}_{imp}.txt"))
-rule runParallelShort:
+
+## run all run from the file repeats.csv (is creacted in the notebook Auswertung if needed)
+# rule all: 
+#     input:
+#         repeat()
+       
+# rule test:
+#     input:
+#         "temp/DryBean_0.2_1000_Sym_ERL_DNN.tmp"        
+        
+rule runParallel:
     input:
         "datasets/{dataset}.csv.gz"
     output:
@@ -56,30 +57,101 @@ rule runParallelShort:
         loss = config['extra_info']['loss']
     conda:
         "envs/misla.yml"
-
+    resources: 
+        mem_mb=lambda wc: int(wc['datasetSizes'])*3 
     script:
         """scripts/runFiltersAllParallel.py"""       
         
         
-'''
-rule runParallelLong:
+        
+
+######## CREATE DATASETS ##########
+rule allDatasets:
     input:
-        "datasets/{dataset}.csv.gz"
+        expand("datasets/{dataset}.csv.gz",dataset = datasets)
+
+       
+rule createFinalDataSets:
+    input:
+        expand( "dataProduced/{dataset}.csv.gz",dataset = datasets)
+
     output:
-        temp("temp/{dataset}_{noiseLevel}_{datasetSizes}_{noiseType}_{model}_{imp}.tmp")
+        expand( "datasets/{dataset}.csv.gz", dataset = datasets),
+        expand("datasetsSample/{dataset}.csv.gz", dataset = datasets)
+    script:
+        """scripts/getData/cleanAndSample.py"""
+      
+rule prepareData:
+    input:
+        "rawData.downloaded.txt",
+        "dataProduced/ClinVarAnnoLabels.csv.gz",
+        "dataProduced/rnaUMAP.csv.gz"
+    output:
+        temp(expand("dataProduced/{dataset}.csv.gz", dataset = datasets))
     params:
-        repeats = config['parameters']['repeats']
+        test = Test
     script:
-        """scripts/runFiltersAllParallel.py"""                                                  
-        
-        
-        
-                                
-
-rule createDataSets:
+        """scripts/getData/prepareData.py"""    
+    
+    
+rule annotateClinVarWithCADD:
+    input:
+        cv = "dataProduced/ClinVarTwoLabels.csv.gz",
+        cadd = "dataRaw/all_SNV_inclAnno.tsv.gz",
+        caddInd = "dataRaw/all_SNV_inclAnno.tsv.gz.tbi"
     output:
-        "datasets/{dataset}.csv.gz",
+        "dataProduced/ClinVarAnnoLabels.csv.gz"
+    params:
+        test = Test
     script:
-        """scripts/createDataSets.py"""
+        """scripts/getData/annotateClinVarWithCADD.py"""
+    
+rule downloadCADDWholeGenome:
+    input:
+        
+    output:
+        "dataRaw/all_SNV_inclAnno.tsv.gz",
+        "dataRaw/all_SNV_inclAnno.tsv.gz.tbi"
+    params:
+        download = False
+    shell:
+        """scripts/getData/downloadCADDData.sh {params.download}"""
+        
+    
+    
+rule prepareClinVarLabels:
+    input:
+        "Clinvar.downloaded.txt"
+    output:
+        "dataProduced/ClinVarTwoLabels.csv.gz",
+        "dataProduced/ClinVarAllLabels.csv.gz"
+    params:
+        test = Test
+    script:
+        """scripts/getData/createClinVarOldNewLabels.py"""
+        
+rule runRNAUmap:
+    input:
+        "dataRaw/atlas/raw_counts.mtx"
+    output:
+        "dataProduced/rnaUMAP.csv.gz"
+    params:
+        test = Test
+  #  resources:
+   #     mem_mb = 4000
+    script:
+        "scripts/getData/rnaUMAP.py"
+        
+rule downloadClinVarData:
+    output:
+        temp('Clinvar.downloaded.txt')
+    shell:
+        """scripts/getData/downloadClinVarData.sh {output}"""        
 
-'''
+rule downloadData:
+    output:
+        temp('rawData.downloaded.txt'),
+        "dataRaw/atlas/raw_counts.mtx"
+    shell:
+        """scripts/getData/downloadData.sh {output}"""
+

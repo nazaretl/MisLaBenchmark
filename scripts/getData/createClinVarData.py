@@ -4,22 +4,31 @@ sys.path.insert(0, 'scripts/')
 
 from utils import *
 
+test = sys.argv[1]
+
+
+if eval(test):
+    nrows = 2000
+else: 
+    nrows = 1000000000
+print("Processing {} rows ".format(nrows))
 
 df = pd.read_csv('dataProduced/ClinVarAnnoLabels.csv.gz', sep = '\t',
-                 index_col = 'Unnamed: 0', compression = 'zip'
-               # nrows=10000
+               #  index_col = 'Unnamed: 0', 
+                 compression = 'zip',
+                 nrows = nrows
                 )
 
 #cv.columns.get_loc("ConsDetail")
 # ConsScore delete
-cv = df.iloc[:,43:]
+cv = df.iloc[:,6:]
 cv['dbscSNV-rf_score'] = cv['dbscSNV-rf_score'].replace('.',np.nan).astype(float)
 cv['cHmm_E6'] = cv.loc[:,'cHmm_E6'].astype(float)
 #cols = cv.columns[[2,3,7,31,50,113,117]].to_list() + cv.columns[10:18].to_list() 
-cols = ['AnnoType', 'Consequence', 'ConsDetail', 'motifEName', 'oAA', 'nAA',
-       'GeneID_df21', 'FeatureID', 'GeneName', 'CCDS', 'Intron', 'Exon',
+cols = ['AnnoType', 'Consequence', 'ConsDetail', 'motifEName', 'oAA', 'nAA', 'FeatureID', 'GeneName', 
+        'CCDS', 'Intron', 'Exon','GeneID',
        'Domain', 'Dst2SplType', 'SIFTcat', 'PolyPhenCat',
-       'EnsembleRegulatoryFeature', 'dbscSNV-rf_score', 'Labels']
+       'EnsembleRegulatoryFeature', 'dbscSNV-rf_score']
 
 print('Deleting columns ', cols)
 cv = cv.drop(columns = cols)#.value_counts()

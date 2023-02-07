@@ -4,6 +4,7 @@ sys.path.insert(0, 'scripts/')
 from utils import *
 import subprocess
 
+test = snakemake.params.test
 
 # Some of the dataProduced need preprocessing 
 
@@ -66,5 +67,5 @@ df = pd.read_csv('dataRaw/magic04.data',skiprows = 0
 df.to_csv('dataProduced/Magic.csv.gz', sep = '\t',
                                        index = None, compression = 'zip' )
 
-subprocess.run("python scripts/getData/createRNAData.py 1", shell=True)
-subprocess.run("python scripts/getData/createClinVarData.py 1", shell=True)
+subprocess.run("python scripts/getData/createRNAData.py  {}".format(test), shell=True)
+subprocess.run("python scripts/getData/createClinVarData.py  {}".format(test), shell=True)

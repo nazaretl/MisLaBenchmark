@@ -39,8 +39,8 @@ for i,name in enumerate(names):
     data = data.fillna(0)
     print(name, data.shape)
     print(data.iloc[:,-1].value_counts())
- #   data.to_csv('datasets/'+name+'.csv.gz',sep = '\t', index = None, 
-  #           compression = 'zip')
+    data.to_csv('datasets/'+name+'.csv.gz',sep = '\t', index = None, 
+             compression = 'zip')
     data = data.sample(n=min(len(data),10000))
     data.to_csv('datasetsSample/'+name+'.csv.gz',sep = '\t', index = None, 
              compression = 'zip')

@@ -16,5 +16,7 @@ dependencies:
     - orange3
     - pip
     - seaborn
+    - pysam
+    - umap-learn
     - pip:
         - scikit-clean

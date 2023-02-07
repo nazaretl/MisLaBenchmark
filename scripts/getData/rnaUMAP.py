@@ -4,9 +4,16 @@ import pandas as pd
 import numpy as np
 from scipy.sparse import csc_matrix
 
-file = 'dataRaw/atlas/raw_counts.mtx'
+file = str(snakemake.input)
+output = str(snakemake.output)
+test = snakemake.params.test
+if test:
+    nrows = 9000000
+else:
+    nrows = 1000000000
+    
 df = pd.read_csv(file,sep = ' ', skiprows = 2, header = None, 
-               #  nrows = 2000000, 
+                 nrows = nrows, 
                  dtype = {0: 'int16', 1: 'int32', 2: 'int16'})
 
 
@@ -26,5 +33,5 @@ n_components = 50
 reducer = umap.UMAP(n_components = n_components)
 scaled_data = StandardScaler().fit_transform(d.values)
 embedding = reducer.fit_transform(scaled_data)
-pd.DataFrame(embedding).to_csv('dataProduced/rnaUMAP.csv.gz',sep = '\t', index = None, 
+pd.DataFrame(embedding).to_csv(output,sep = '\t', index = None, 
                                header = None, compression = 'zip')
