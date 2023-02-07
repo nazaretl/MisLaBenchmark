@@ -4,7 +4,7 @@ logs/
 # ignore ALL files in ANY directory named temp
 *temp/
 *delete/
-
+*/__pycache__/
 output/*Extended*
 
 dataProduced/
