@@ -11,6 +11,7 @@ from utils import *
 
 
 names = ['Adult','DryBean','Chess','Magic','ClinVarReal','ClinVarArt','RNA0','RNA1','RNA2', 'HEPMASS','Pokerhand', 'IFD']
+names = ['ClinVarReal']
 
 for i,name in enumerate(names):
     print(name)
@@ -37,6 +38,7 @@ for i,name in enumerate(names):
     data = data.join(labels)
     #data = balance(data)
     data = data.fillna(0)
+    data = data.sample(n = len(data))
     print(name, data.shape)
     print(data.iloc[:,-1].value_counts())
     data.to_csv('datasets/'+name+'.csv.gz',sep = '\t', index = None, 

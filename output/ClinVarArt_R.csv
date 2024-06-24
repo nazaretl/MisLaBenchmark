@@ -17029,3 +17029,860 @@
 ['ClinVarArt', 'AENN', 0.9, 'Sym', 10000, 2]	S	5512	763	237	3488	3363.8033	0.8784	0.6124	0.7217	
 ['ClinVarArt', 'AENN', 0.9, 'Sym', 10000, 3]	S	5476	779	221	3524	3459.8462	0.8755	0.6084	0.7179	
 ['ClinVarArt', 'AENN', 0.9, 'Sym', 10000, 4]	S	5610	754	246	3390	3366.8626	0.8815	0.6233	0.7303	
+['ClinVarArt', 'PF', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	5.0165	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 5000, 0]	S	1251	1211	2289	249	22.7604	0.5081	0.834	0.6315	{'Selection': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 100, 0]	S	9	27	43	21	9.4106	0.25	0.3	0.2727	{'Selection': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 3000, 0]	S	641	299	1801	259	43.8125	0.6819	0.7122	0.6967	{'Selection': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 300, 0]	S	38	45	165	52	10.4411	0.4578	0.4222	0.4393	{'Selection': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 100, 0]	S	4	14	56	26	5.7052	0.2222	0.1333	0.1667	{'Selection': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 5000, 0]	S	1068	478	3022	432	67.8079	0.6908	0.712	0.7012	{'Selection': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 10000, 0]	S	2228	896	6104	772	147.1188	0.7132	0.7427	0.7276	{'Selection': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 300, 0]	S	10	60	150	80	21.3254	0.1429	0.1111	0.125	{'Selection': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 10000, 0]	S	2454	1789	5211	546	360.0446	0.5784	0.818	0.6776	{'Selection': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 300, 0]	S	68	127	83	22	593.9526	0.3487	0.7556	0.4772	{'Selection': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 100, 0]	S	6	9	61	24	7.72	0.4	0.2	0.2667	{'Selection': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 500, 0]	S	5	2	348	145	4.9519	0.7143	0.0333	0.0637	{'Selection': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 500, 0]	S	122	226	124	28	1001.4503	0.3506	0.8133	0.49	{'Selection': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 1000, 0]	S	242	469	231	58	6243.7306	0.3404	0.8067	0.4787	{'Selection': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 300, 0]	S	65	28	182	25	7.1201	0.6989	0.7222	0.7104	{'Selection': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 300, 0]	S	46	67	143	44	8.9827	0.4071	0.5111	0.4532	{'Selection': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 100, 0]	S	22	51	19	8	27.0271	0.3014	0.7333	0.4272	{'Selection': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 300, 0]	N	0	0	210	90	2.7102	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 1000, 0]	S	46	225	475	254	84.9102	0.1697	0.1533	0.1611	{'Selection': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 1000, 0]	S	160	202	498	140	29.8254	0.442	0.5333	0.4834	{'Selection': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	77.6387	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 1000, 0]	S	178	106	594	122	15.8378	0.6268	0.5933	0.6096	{'Selection': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 500, 0]	N	0	0	350	150	5.181	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 500, 0]	S	111	155	195	39	36.3912	0.4173	0.74	0.5337	{'Selection': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 300, 0]	S	68	38	172	22	10.9178	0.6415	0.7556	0.6939	{'Selection': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 100, 0]	S	19	20	50	11	10.6512	0.4872	0.6333	0.5507	{'Selection': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 300, 0]	S	48	25	185	42	13.0769	0.6575	0.5333	0.589	{'Selection': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 300, 0]	S	68	115	95	22	18.7174	0.3716	0.7556	0.4982	{'Selection': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 500, 0]	S	28	96	254	122	22.7931	0.2258	0.1867	0.2044	{'Selection': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	191.2669	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 100, 0]	S	18	24	46	12	179.5341	0.4286	0.6	0.5	{'Selection': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	3.412	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'EF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 500, 0]	S	110	96	254	40	11.2243	0.534	0.7333	0.618	{'Selection': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 500, 0]	S	82	67	283	68	18.8524	0.5503	0.5467	0.5485	{'Selection': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 1000, 0]	S	222	345	355	78	127.8445	0.3915	0.74	0.5121	{'Selection': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	332.7342	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 100, 0]	S	12	27	43	18	8.7869	0.3077	0.4	0.3478	{'Selection': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 100, 0]	N	0	0	70	30	3.0078	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 100, 0]	S	16	14	56	14	4.7687	0.5333	0.5333	0.5333	{'Selection': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 1000, 0]	S	204	117	583	96	33.3175	0.6355	0.68	0.657	{'Selection': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 1000, 0]	S	19	8	692	281	8.055	0.7037	0.0633	0.1162	{'Selection': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 1000, 0]	S	220	143	557	80	16.0078	0.6061	0.7333	0.6637	{'Selection': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	298.3279	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 100, 0]	S	18	36	34	12	10.0971	0.3333	0.6	0.4286	{'Selection': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 300, 0]	S	17	58	152	73	30.0835	0.2267	0.1889	0.2061	{'Selection': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 100, 0]	S	18	20	50	12	1945.0116	0.4737	0.6	0.5294	{'Selection': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	1887.5258	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 300, 0]	S	41	75	135	49	1862.2938	0.3534	0.4556	0.3981	{'Selection': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 500, 0]	S	24	110	240	126	43.0817	0.1791	0.16	0.169	{'Selection': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 500, 0]	S	90	42	308	60	6.2193	0.6818	0.6	0.6383	{'Selection': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 100, 0]	S	1	0	70	29	7.0829	1.0	0.0333	0.0645	{'Selection': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 300, 0]	S	38	30	180	52	6.5958	0.5588	0.4222	0.481	{'Selection': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 100, 0]	S	2	10	60	28	7.0759	0.1667	0.0667	0.0952	{'Selection': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 1000, 0]	S	45	192	508	255	164.1081	0.1899	0.15	0.1676	{'Selection': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 300, 0]	S	5	2	208	85	5.2799	0.7143	0.0556	0.1031	{'Selection': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 500, 0]	S	96	72	278	54	7.3603	0.5714	0.64	0.6038	{'Selection': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 500, 0]	S	72	85	265	78	22.3027	0.4586	0.48	0.4691	{'Selection': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	1098.4881	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	9.1177	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 500, 0]	S	87	161	189	63	4947.9573	0.3508	0.58	0.4372	{'Selection': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 1000, 0]	S	175	152	548	125	7.3509	0.5352	0.5833	0.5582	{'Selection': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 500, 0]	S	83	155	195	67	5429.7417	0.3487	0.5533	0.4278	{'Selection': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 100, 0]	S	6	1	69	24	8.3614	0.8571	0.2	0.3243	{'Selection': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 100, 0]	S	12	18	52	18	64.0068	0.4	0.4	0.4	{'Selection': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 1000, 0]	S	15	5	695	285	6.2521	0.75	0.05	0.0938	{'Selection': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 1000, 0]	S	124	227	473	176	16.9677	0.3533	0.4133	0.381	{'Selection': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 1000, 0]	S	208	127	573	92	11443.8722	0.6209	0.6933	0.6551	{'Selection': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	11824.0158	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 100, 0]	S	24	57	13	6	1927.2057	0.2963	0.8	0.4324	{'Selection': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 100, 0]	S	12	38	32	18	125.9278	0.24	0.4	0.3	{'Selection': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 300, 0]	S	56	128	82	34	1190.0582	0.3043	0.6222	0.4088	{'Selection': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 300, 0]	S	33	22	188	57	237.6156	0.6	0.3667	0.4552	{'Selection': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 500, 0]	S	6	5	345	144	8.3497	0.5455	0.04	0.0745	{'Selection': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 300, 0]	S	54	67	143	36	21811.2567	0.4463	0.6	0.5118	{'Selection': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	85.6684	0.0	0.0	0.0	{'Selection': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 500, 0]	S	69	54	296	81	1763.8322	0.561	0.46	0.5055	{'Selection': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 300, 0]	S	7	6	204	83	7.2144	0.5385	0.0778	0.1359	{'Selection': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 1000, 0]	S	134	277	423	166	25379.0505	0.326	0.4467	0.3769	{'Selection': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 1000, 0]	S	171	349	351	129	27979.8848	0.3288	0.57	0.4171	{'Selection': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 300, 0]	S	82	164	46	8	25373.9648	0.3333	0.9111	0.4881	{'Selection': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'ENG', 0.3, 'Asym', 500, 0]	S	97	112	238	53	68128.6314	0.4641	0.6467	0.5404	{'Selection': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 500, 0]	S	135	271	79	15	65631.3937	0.3325	0.9	0.4856	{'Selection': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 300, 0]	S	56	30	180	34	6.1967	0.6512	0.6222	0.6364	{'SelectionNew': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 300, 0]	S	43	60	150	47	9.9716	0.4175	0.4778	0.4456	{'SelectionNew': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 100, 0]	S	3	13	57	27	7.1165	0.1875	0.1	0.1304	{'SelectionNew': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 100, 0]	N	0	0	70	30	3.6387	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 300, 0]	N	0	0	210	90	2.9785	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	73.2517	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 100, 0]	S	7	4	66	23	10.4922	0.6364	0.2333	0.3415	{'SelectionNew': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 1000, 0]	S	11	10	690	289	8.0502	0.5238	0.0367	0.0685	{'SelectionNew': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 300, 0]	S	62	126	84	28	17.898	0.3298	0.6889	0.446	{'SelectionNew': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 100, 0]	S	19	25	45	11	15.669	0.4318	0.6333	0.5135	{'SelectionNew': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 500, 0]	N	0	0	350	150	2.9738	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 500, 0]	S	109	154	196	41	33.572	0.4144	0.7267	0.5278	{'SelectionNew': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 500, 0]	S	23	90	260	127	31.4008	0.2035	0.1533	0.1749	{'SelectionNew': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	160.9064	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 300, 0]	S	24	22	188	66	8.1245	0.5217	0.2667	0.3529	{'SelectionNew': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 300, 0]	S	64	74	136	26	11.7495	0.4638	0.7111	0.5614	{'SelectionNew': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	257.4912	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 100, 0]	S	14	31	39	16	171.0119	0.3111	0.4667	0.3733	{'SelectionNew': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 100, 0]	S	18	35	35	12	7.3577	0.3396	0.6	0.4337	{'SelectionNew': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 1000, 0]	S	155	193	507	145	29.1552	0.4454	0.5167	0.4784	{'SelectionNew': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	3.1846	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 1000, 0]	S	222	357	343	78	73.5231	0.3834	0.74	0.5051	{'SelectionNew': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 500, 0]	S	85	60	290	65	21.8206	0.5862	0.5667	0.5763	{'SelectionNew': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 500, 0]	S	108	77	273	42	11.0078	0.5838	0.72	0.6448	{'SelectionNew': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	413.5223	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 100, 0]	S	14	20	50	16	4.3503	0.4118	0.4667	0.4375	{'SelectionNew': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 300, 0]	S	76	136	74	14	306.581	0.3585	0.8444	0.5033	{'SelectionNew': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 100, 0]	S	16	16	54	14	2.9184	0.5	0.5333	0.5161	{'SelectionNew': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 1000, 0]	S	201	113	587	99	26.9072	0.6401	0.67	0.6547	{'SelectionNew': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	1762.3754	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 1000, 0]	S	226	161	539	74	12.3087	0.584	0.7533	0.6579	{'SelectionNew': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 300, 0]	S	42	83	127	48	1665.1361	0.336	0.4667	0.3907	{'SelectionNew': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	65.1424	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 1000, 0]	S	202	101	599	98	11.012	0.6667	0.6733	0.67	{'SelectionNew': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 100, 0]	S	18	27	43	12	2344.2462	0.4	0.6	0.48	{'SelectionNew': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 300, 0]	S	17	47	163	73	21.7578	0.2656	0.1889	0.2208	{'SelectionNew': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 1000, 0]	S	44	186	514	256	70.8462	0.1913	0.1467	0.166	{'SelectionNew': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 100, 0]	S	8	13	57	22	4.6785	0.381	0.2667	0.3137	{'SelectionNew': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 500, 0]	S	21	98	252	129	49.7816	0.1765	0.14	0.1561	{'SelectionNew': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 500, 0]	S	81	35	315	69	1233.7042	0.6983	0.54	0.609	{'SelectionNew': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 500, 0]	S	8	4	346	142	6.5425	0.6667	0.0533	0.0988	{'SelectionNew': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 500, 0]	S	89	175	175	61	3719.9724	0.3371	0.5933	0.43	{'SelectionNew': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 100, 0]	S	23	48	22	7	28.2769	0.3239	0.7667	0.4554	{'SelectionNew': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 100, 0]	S	0	1	69	30	4.339	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 300, 0]	S	36	41	169	54	5.6886	0.4675	0.4	0.4311	{'SelectionNew': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 500, 0]	S	121	235	115	29	899.423	0.3399	0.8067	0.4783	{'SelectionNew': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 1000, 0]	S	50	186	514	250	158.8952	0.2119	0.1667	0.1866	{'SelectionNew': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 300, 0]	S	6	2	208	84	4.4209	0.75	0.0667	0.1224	{'SelectionNew': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 500, 0]	S	56	74	276	94	6.0859	0.4308	0.3733	0.4	{'SelectionNew': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 500, 0]	S	76	110	240	74	13.3976	0.4086	0.5067	0.4524	{'SelectionNew': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 100, 0]	S	3	15	55	27	6.8081	0.1667	0.1	0.125	{'SelectionNew': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 300, 0]	S	43	60	150	47	6.232	0.4175	0.4778	0.4456	{'SelectionNew': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 500, 0]	S	6	3	347	144	4.8984	0.6667	0.04	0.0755	{'SelectionNew': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 500, 0]	S	71	112	238	79	4858.6965	0.388	0.4733	0.4264	{'SelectionNew': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	636.6856	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 1000, 0]	S	202	182	518	98	7.9827	0.526	0.6733	0.5906	{'SelectionNew': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 1000, 0]	S	249	447	253	51	3432.4838	0.3578	0.83	0.5	{'SelectionNew': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 100, 0]	S	27	55	15	3	2628.1097	0.3293	0.9	0.4821	{'SelectionNew': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 1000, 0]	S	7	4	696	293	7.7236	0.6364	0.0233	0.045	{'SelectionNew': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 500, 0]	S	96	52	298	54	7.281	0.6486	0.64	0.6443	{'SelectionNew': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	8.7024	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	11444.2902	0.0	0.0	0.0	{'SelectionNew': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 100, 0]	S	8	9	61	22	64.521	0.4706	0.2667	0.3404	{'SelectionNew': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 100, 0]	S	3	0	70	27	5.7159	1.0	0.1	0.1818	{'SelectionNew': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 100, 0]	S	11	41	29	19	203.1809	0.2115	0.3667	0.2683	{'SelectionNew': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 1000, 0]	S	193	141	559	107	16243.7409	0.5778	0.6433	0.6088	{'SelectionNew': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 1000, 0]	S	132	164	536	168	25.5629	0.4459	0.44	0.443	{'SelectionNew': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 300, 0]	S	8	49	161	82	21.7305	0.1404	0.0889	0.1088	{'SelectionNew': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 500, 0]	S	55	92	258	95	9.9896	0.3741	0.3667	0.3704	{'SelectionNew': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 1000, 0]	S	130	249	451	170	24658.0871	0.343	0.4333	0.3829	{'SelectionNew': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 300, 0]	S	52	118	92	38	18199.2681	0.3059	0.5778	0.4	{'SelectionNew': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 300, 0]	S	63	113	97	27	1122.7615	0.358	0.7	0.4737	{'SelectionNew': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 300, 0]	S	6	3	207	84	4.4979	0.6667	0.0667	0.1212	{'SelectionNew': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 300, 0]	S	36	28	182	54	294.2742	0.5625	0.4	0.4675	{'SelectionNew': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 1000, 0]	S	157	279	421	143	26906.8023	0.3601	0.5233	0.4266	{'SelectionNew': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 300, 0]	S	48	86	124	42	33731.6319	0.3582	0.5333	0.4286	{'SelectionNew': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 300, 0]	S	84	159	51	6	20267.4389	0.3457	0.9333	0.5045	{'SelectionNew': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'ENG', 0.3, 'Asym', 500, 0]	S	93	110	240	57	73516.6457	0.4581	0.62	0.5269	{'SelectionNew': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 300, 0]	S	60	33	177	30	7.0389	0.6452	0.6667	0.6557	{'SelectionFinal': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 100, 0]	S	3	16	54	27	7.977	0.1579	0.1	0.1224	{'SelectionFinal': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 300, 0]	S	39	64	146	51	10.8378	0.3786	0.4333	0.4041	{'SelectionFinal': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 1000, 0]	S	23	4	696	277	6.1291	0.8519	0.0767	0.1407	{'SelectionFinal': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 100, 0]	N	0	0	70	30	3.5705	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 300, 0]	N	0	0	210	90	3.004	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	87.1746	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 300, 0]	S	61	96	114	29	28.9568	0.3885	0.6778	0.4939	{'SelectionFinal': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	121.1801	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 100, 0]	S	1	1	69	29	7.1287	0.5	0.0333	0.0625	{'SelectionFinal': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 100, 0]	S	18	21	49	12	12.726	0.4615	0.6	0.5217	{'SelectionFinal': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	162.2402	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 500, 0]	S	34	105	245	116	32.8135	0.2446	0.2267	0.2353	{'SelectionFinal': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 500, 0]	N	0	0	350	150	3.737	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 500, 0]	S	111	173	177	39	52.0768	0.3908	0.74	0.5115	{'SelectionFinal': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 300, 0]	S	50	43	167	40	21.9535	0.5376	0.5556	0.5464	{'SelectionFinal': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 100, 0]	S	10	24	46	20	264.1968	0.2941	0.3333	0.3125	{'SelectionFinal': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 300, 0]	S	55	64	146	35	14.5284	0.4622	0.6111	0.5263	{'SelectionFinal': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	251.2188	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 100, 0]	S	21	30	40	9	1760.679	0.4118	0.7	0.5185	{'SelectionFinal': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	1849.162	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 100, 0]	S	22	44	26	8	6.6965	0.3333	0.7333	0.4583	{'SelectionFinal': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 1000, 0]	S	147	196	504	153	29.9594	0.4286	0.49	0.4572	{'SelectionFinal': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 1000, 0]	S	224	345	355	76	74.5747	0.3937	0.7467	0.5155	{'SelectionFinal': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	3.3611	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 500, 0]	S	63	49	301	87	12.9165	0.5625	0.42	0.4809	{'SelectionFinal': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 500, 0]	S	101	109	241	49	12.3744	0.481	0.6733	0.5611	{'SelectionFinal': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 300, 0]	S	50	86	124	40	1688.0889	0.3676	0.5556	0.4425	{'SelectionFinal': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 500, 0]	S	103	201	149	47	3293.5174	0.3388	0.6867	0.4537	{'SelectionFinal': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 100, 0]	S	10	24	46	20	4.3876	0.2941	0.3333	0.3125	{'SelectionFinal': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 300, 0]	S	73	135	75	17	357.0396	0.351	0.8111	0.4899	{'SelectionFinal': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 100, 0]	S	17	15	55	13	3.7954	0.5312	0.5667	0.5484	{'SelectionFinal': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 500, 0]	S	26	24	326	124	76.4771	0.52	0.1733	0.26	{'SelectionFinal': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 1000, 0]	S	218	136	564	82	29.0759	0.6158	0.7267	0.6667	{'SelectionFinal': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 1000, 0]	S	217	159	541	83	10.5924	0.5771	0.7233	0.642	{'SelectionFinal': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	104.4145	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 1000, 0]	S	185	78	622	115	14.2114	0.7034	0.6167	0.6572	{'SelectionFinal': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 300, 0]	S	17	63	147	73	21.7937	0.2125	0.1889	0.2	{'SelectionFinal': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 500, 0]	S	86	46	304	64	1908.0642	0.6515	0.5733	0.6099	{'SelectionFinal': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 1000, 0]	S	46	173	527	254	41.762	0.21	0.1533	0.1773	{'SelectionFinal': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 100, 0]	S	1	21	49	29	11.0464	0.0455	0.0333	0.0385	{'SelectionFinal': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 100, 0]	S	11	14	56	19	4.7212	0.44	0.3667	0.4	{'SelectionFinal': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 500, 0]	S	19	87	263	131	47.0324	0.1792	0.1267	0.1484	{'SelectionFinal': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 500, 0]	S	76	155	195	74	4966.4328	0.329	0.5067	0.399	{'SelectionFinal': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 500, 0]	S	11	6	344	139	4.7208	0.6471	0.0733	0.1317	{'SelectionFinal': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 500, 0]	S	122	248	102	28	702.0944	0.3297	0.8133	0.4692	{'SelectionFinal': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 500, 0]	S	99	52	298	51	6.0457	0.6556	0.66	0.6578	{'SelectionFinal': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 100, 0]	S	0	2	68	30	7.0439	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 300, 0]	S	55	40	170	35	5.2955	0.5789	0.6111	0.5946	{'SelectionFinal': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 1000, 0]	S	44	206	494	256	159.4089	0.176	0.1467	0.16	{'SelectionFinal': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 1000, 0]	S	201	129	571	99	17230.4474	0.6091	0.67	0.6381	{'SelectionFinal': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 300, 0]	S	4	2	208	86	4.8388	0.6667	0.0444	0.0833	{'SelectionFinal': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 500, 0]	S	69	72	278	81	6.119	0.4894	0.46	0.4742	{'SelectionFinal': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 100, 0]	S	23	62	8	7	29.333	0.2706	0.7667	0.4	{'SelectionFinal': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 1000, 0]	S	171	330	370	129	17674.3977	0.3413	0.57	0.427	{'SelectionFinal': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 1000, 0]	S	233	436	264	67	4092.6115	0.3483	0.7767	0.4809	{'SelectionFinal': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 300, 0]	S	35	60	150	55	6.9864	0.3684	0.3889	0.3784	{'SelectionFinal': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 500, 0]	S	9	3	347	141	4.7789	0.75	0.06	0.1111	{'SelectionFinal': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	7021.2244	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	679.6085	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 100, 0]	S	30	53	17	0	1735.1258	0.3614	1.0	0.531	{'SelectionFinal': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 1000, 0]	S	182	207	493	118	16.0132	0.4679	0.6067	0.5283	{'SelectionFinal': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 1000, 0]	S	154	301	399	146	24180.3814	0.3385	0.5133	0.4079	{'SelectionFinal': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	17.4453	0.0	0.0	0.0	{'SelectionFinal': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	15.0864	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 1000, 0]	S	151	141	559	149	10.6134	0.5171	0.5033	0.5101	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 500, 0]	S	101	69	281	49	25.1657	0.5941	0.6733	0.6312	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 100, 0]	S	1	3	67	29	6.1211	0.25	0.0333	0.0588	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 1000, 0]	S	198	102	598	102	28.4643	0.66	0.66	0.66	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	250.2813	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 500, 0]	S	38	14	336	112	112.4063	0.7308	0.2533	0.3762	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	1032.8281	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 1000, 0]	S	203	107	593	97	15.4975	0.6548	0.6767	0.6656	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 300, 0]	S	2	2	208	88	6.9288	0.5	0.0222	0.0426	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 100, 0]	S	6	17	53	24	8.514	0.2609	0.2	0.2264	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	157.5075	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	2888.1326	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 1000, 0]	S	119	185	515	181	24.1038	0.3914	0.3967	0.394	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 500, 0]	S	11	7	343	139	5.0137	0.6111	0.0733	0.131	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 300, 0]	S	15	60	150	75	13.5982	0.2	0.1667	0.1818	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'EF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	4.3561	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 1000, 0]	S	53	203	497	247	222.5824	0.207	0.1767	0.1906	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	83.4226	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 500, 0]	S	99	44	306	51	6.5556	0.6923	0.66	0.6758	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 300, 0]	S	40	25	185	50	279.5196	0.6154	0.4444	0.5161	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 300, 0]	S	38	22	188	52	11.6438	0.6333	0.4222	0.5067	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 1000, 0]	S	14	9	691	286	5.6939	0.6087	0.0467	0.0867	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	257.4765	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 500, 0]	S	24	98	252	126	20.9552	0.1967	0.16	0.1765	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 500, 0]	S	55	54	296	95	5.8415	0.5046	0.3667	0.4247	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 1000, 0]	S	245	279	421	55	7.1883	0.4676	0.8167	0.5947	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 100, 0]	S	10	14	56	20	48.8316	0.4167	0.3333	0.3704	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	9.9286	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 1000, 0]	S	49	204	496	251	45.0536	0.1937	0.1633	0.1772	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 300, 0]	S	5	2	208	85	5.338	0.7143	0.0556	0.1031	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	7268.5069	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 100, 0]	N	0	0	70	30	5.1061	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 500, 0]	S	68	49	301	82	1893.4431	0.5812	0.4533	0.5094	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 100, 0]	S	3	13	57	27	10.5388	0.1875	0.1	0.1304	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 1000, 0]	S	250	458	242	50	3927.8545	0.3531	0.8333	0.496	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 100, 0]	S	16	24	46	14	1730.087	0.4	0.5333	0.4571	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 100, 0]	S	11	19	51	19	185.7948	0.3667	0.3667	0.3667	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 300, 0]	S	46	60	150	44	32329.6114	0.434	0.5111	0.4694	{'SelectionFinal': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 500, 0]	S	8	2	348	142	7.165	0.8	0.0533	0.1	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 300, 0]	S	48	67	143	42	13.0181	0.4174	0.5333	0.4683	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 300, 0]	N	0	0	210	90	3.6407	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 1000, 0]	S	213	142	558	87	11494.7262	0.6	0.71	0.6504	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 300, 0]	S	12	61	149	78	22.5502	0.1644	0.1333	0.1472	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 1000, 0]	S	24	5	695	276	5.556	0.8276	0.08	0.1459	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 1000, 0]	S	182	375	325	118	15857.4262	0.3268	0.6067	0.4247	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 100, 0]	S	15	20	50	15	11.0929	0.4286	0.5	0.4615	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 500, 0]	S	79	99	251	71	14.1848	0.4438	0.5267	0.4817	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 100, 0]	S	13	35	35	17	130.0678	0.2708	0.4333	0.3333	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 300, 0]	S	61	64	146	29	12.7886	0.488	0.6778	0.5674	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 1000, 0]	S	154	197	503	146	30.5924	0.4387	0.5133	0.4731	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 100, 0]	S	25	57	13	5	1687.8778	0.3049	0.8333	0.4464	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 100, 0]	S	20	42	28	10	7.2747	0.3226	0.6667	0.4348	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 500, 0]	S	28	101	249	122	47.625	0.2171	0.1867	0.2007	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 100, 0]	S	12	26	44	18	4.6028	0.3158	0.4	0.3529	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 100, 0]	S	17	15	55	13	3.1852	0.5312	0.5667	0.5484	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 100, 0]	S	4	5	65	26	4.6414	0.4444	0.1333	0.2051	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 300, 0]	S	55	77	133	35	1197.4492	0.4167	0.6111	0.4955	{'SelectionBench': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 100, 0]	S	7	16	54	23	11.5362	0.3043	0.2333	0.2642	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 300, 0]	S	46	99	111	44	1710.8682	0.3172	0.5111	0.3915	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 500, 0]	N	0	0	350	150	3.1095	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 300, 0]	S	36	46	164	54	6.1175	0.439	0.4	0.4186	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	50.7265	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 100, 0]	S	25	57	13	5	23.039	0.3049	0.8333	0.4464	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 1000, 0]	S	209	184	516	91	11.8131	0.5318	0.6967	0.6032	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 300, 0]	S	65	115	95	25	17.6518	0.3611	0.7222	0.4815	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 500, 0]	S	111	174	176	39	31.9499	0.3895	0.74	0.5103	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 300, 0]	S	59	121	89	31	500.4701	0.3278	0.6556	0.437	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 100, 0]	S	1	2	68	29	4.5828	0.3333	0.0333	0.0606	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 500, 0]	S	82	154	196	68	3638.528	0.3475	0.5467	0.4249	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 1000, 0]	S	214	358	342	86	76.4453	0.3741	0.7133	0.4908	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	3.3253	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 500, 0]	S	128	222	128	22	921.3722	0.3657	0.8533	0.512	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 500, 0]	S	105	92	258	45	11.6783	0.533	0.7	0.6052	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 300, 0]	S	51	32	178	39	4.6115	0.6145	0.5667	0.5896	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 500, 0]	S	71	131	219	79	4878.7528	0.3515	0.4733	0.4034	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 300, 0]	S	42	65	145	48	37027.0625	0.3925	0.4667	0.4264	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 300, 0]	S	83	160	50	7	21139.9451	0.3416	0.9222	0.4985	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 1000, 0]	S	100	190	510	200	25795.741	0.3448	0.3333	0.339	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 500, 0]	S	80	102	248	70	111001.8788	0.4396	0.5333	0.4819	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 500, 0]	S	87	198	152	63	129086.5712	0.3053	0.58	0.4	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 500, 0]	S	139	272	78	11	126363.9392	0.3382	0.9267	0.4955	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 1000, 0]	S	265	560	140	35	334241.7642	0.3212	0.8833	0.4711	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 1000, 0]	S	182	210	490	118	321424.9083	0.4643	0.6067	0.526	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 1000, 0]	S	277	542	158	23	380906.605	0.3382	0.9233	0.4951	{'SelectionFinal': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 100, 0]	S	8	19	51	22	8.4048	0.2963	0.2667	0.2807	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 100, 0]	S	19	44	26	11	10.4195	0.3016	0.6333	0.4086	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 300, 0]	S	46	56	154	44	15.2403	0.451	0.5111	0.4792	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 500, 0]	S	65	101	249	85	17.798	0.3916	0.4333	0.4114	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 1000, 0]	S	146	196	504	154	33.2293	0.4269	0.4867	0.4548	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 300, 0]	S	4	3	207	86	6.1647	0.5714	0.0444	0.0825	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 100, 0]	S	4	16	54	26	7.6671	0.2	0.1333	0.16	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 300, 0]	S	51	41	169	39	9.5037	0.5543	0.5667	0.5604	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 300, 0]	S	41	56	154	49	10.5182	0.4227	0.4556	0.4385	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 1000, 0]	S	20	8	692	280	5.7515	0.7143	0.0667	0.122	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	74.9765	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 100, 0]	S	18	36	34	12	128.6439	0.3333	0.6	0.4286	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 0]	S	113	155	195	37	13.733	0.4216	0.7533	0.5407	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 500, 0]	S	13	3	347	137	5.0552	0.8125	0.0867	0.1566	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 1000, 0]	S	44	176	524	256	159.8025	0.2	0.1467	0.1692	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	9.0867	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 0]	S	211	334	366	89	30.181	0.3872	0.7033	0.4994	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 100, 0]	S	1	2	68	29	5.1456	0.3333	0.0333	0.0606	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	131.0056	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 300, 0]	S	35	39	171	55	5.6591	0.473	0.3889	0.4268	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 100, 0]	S	14	22	48	16	5.011	0.3889	0.4667	0.4242	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 1000, 0]	S	130	137	563	170	14.6328	0.4869	0.4333	0.4586	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 300, 0]	S	43	27	183	47	10.7219	0.6143	0.4778	0.5375	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	639.7169	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 500, 0]	S	68	92	258	82	8.0852	0.425	0.4533	0.4387	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	6.747	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 500, 0]	S	107	90	260	43	15.4568	0.5431	0.7133	0.6167	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 100, 0]	S	26	51	19	4	2527.4289	0.3377	0.8667	0.486	{'SelectionBench': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 500, 0]	S	87	67	283	63	18.5801	0.5649	0.58	0.5724	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 100, 0]	N	0	0	70	30	3.4657	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 1000, 0]	S	169	186	514	131	7.6275	0.4761	0.5633	0.516	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 300, 0]	S	16	57	153	74	24.4255	0.2192	0.1778	0.1963	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	1728.947	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 1000, 0]	S	10	4	696	290	5.5709	0.7143	0.0333	0.0637	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	144.3424	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 500, 0]	N	0	0	350	150	6.3736	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 1000, 0]	S	0	1	699	300	7167.5329	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 100, 0]	S	16	16	54	14	8.1255	0.5	0.5333	0.5161	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	270.5117	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 100, 0]	S	4	14	56	26	8.3726	0.2222	0.1333	0.1667	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	3.674	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 100, 0]	S	18	16	54	12	3.0519	0.5294	0.6	0.5625	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 300, 0]	S	63	104	106	27	18.038	0.3772	0.7	0.4903	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 300, 0]	S	56	108	102	34	1106.6933	0.3415	0.6222	0.4409	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 500, 0]	S	23	88	262	127	21.5475	0.2072	0.1533	0.1762	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 1000, 0]	S	215	143	557	85	11923.3136	0.6006	0.7167	0.6535	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 1000, 0]	S	230	163	537	70	13.5568	0.5852	0.7667	0.6638	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 500, 0]	S	84	144	206	66	8138.8121	0.3684	0.56	0.4444	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 1000, 0]	S	219	147	553	81	33.5316	0.5984	0.73	0.6577	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 300, 0]	N	0	0	210	90	3.9893	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 1000, 0]	S	239	290	410	61	12.1925	0.4518	0.7967	0.5766	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 100, 0]	S	5	4	66	25	41.8592	0.5556	0.1667	0.2564	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 1000, 0]	S	42	199	501	258	87.7661	0.1743	0.14	0.1553	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 300, 0]	S	34	79	131	56	1590.3322	0.3009	0.3778	0.335	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 300, 0]	S	61	37	173	29	4.4166	0.6224	0.6778	0.6489	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 300, 0]	S	77	147	63	13	277.0914	0.3438	0.8556	0.4904	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	44.0123	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 100, 0]	N	0	0	70	30	6.1339	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 300, 0]	S	71	160	50	19	18850.4819	0.3074	0.7889	0.4424	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 500, 0]	S	98	58	292	52	6.3736	0.6282	0.6533	0.6405	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 500, 0]	S	120	203	147	30	1523.5637	0.3715	0.8	0.5074	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 100, 0]	S	13	22	48	17	6.4259	0.3714	0.4333	0.4	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 100, 0]	S	13	33	37	17	296.721	0.2826	0.4333	0.3421	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 500, 0]	S	19	94	256	131	67.8229	0.1681	0.1267	0.1445	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 300, 0]	S	14	59	151	76	15.9896	0.1918	0.1556	0.1718	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 500, 0]	S	70	42	308	80	2058.8271	0.625	0.4667	0.5344	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 0]	S	21	32	38	9	7.0762	0.3962	0.7	0.506	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 1000, 0]	S	92	47	653	208	195.2592	0.6619	0.3067	0.4191	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 300, 0]	S	4	7	203	86	5.4493	0.3636	0.0444	0.0792	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 1000, 0]	S	181	113	587	119	11.9259	0.6156	0.6033	0.6094	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 1000, 0]	S	245	487	213	55	3347.7552	0.3347	0.8167	0.4748	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 0]	S	69	108	102	21	10.5081	0.3898	0.7667	0.5169	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 500, 0]	S	71	121	229	79	6420.6884	0.3698	0.4733	0.4152	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 500, 0]	S	104	209	141	46	31.4864	0.3323	0.6933	0.4492	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 500, 0]	S	8	3	347	142	15.2797	0.7273	0.0533	0.0994	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 300, 0]	S	17	15	195	73	234.6409	0.5312	0.1889	0.2787	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 100, 0]	S	26	44	26	4	35.1352	0.3714	0.8667	0.52	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 1000, 0]	S	205	369	331	95	77.3948	0.3571	0.6833	0.4691	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 100, 0]	S	18	22	48	12	3619.4898	0.45	0.6	0.5143	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'EF', 0.3, 'Asym', 500, 0]	S	110	147	203	40	8.7923	0.428	0.7333	0.5405	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 1000, 0]	S	148	265	435	152	23657.6931	0.3584	0.4933	0.4151	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 300, 0]	S	50	75	135	40	24444.3649	0.4	0.5556	0.4651	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 1000, 0]	S	139	277	423	161	18508.4808	0.3341	0.4633	0.3883	{'SelectionBench': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'ENG', 0.3, 'Asym', 500, 0]	S	77	109	241	73	68115.0502	0.414	0.5133	0.4583	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 500, 0]	S	126	260	90	24	72295.9637	0.3264	0.84	0.4701	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 300, 0]	N	0	0	210	90	5.8456	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 500, 0]	N	0	0	350	150	6.1678	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 100, 0]	S	8	19	51	22	10.3962	0.2963	0.2667	0.2807	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 300, 0]	S	13	51	159	77	19.3419	0.2031	0.1444	0.1688	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 300, 0]	S	70	32	178	20	9.661	0.6863	0.7778	0.7292	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 300, 0]	S	65	85	125	25	7.7981	0.4333	0.7222	0.5417	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	4.6274	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 1000, 0]	S	226	161	539	74	47.0419	0.584	0.7533	0.6579	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 300, 0]	S	4	4	206	86	4.7256	0.5	0.0444	0.0816	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 300, 0]	S	63	103	107	27	18.0051	0.3795	0.7	0.4922	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 100, 0]	S	18	18	52	12	4.0757	0.5	0.6	0.5455	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 500, 0]	S	19	96	254	131	30.6387	0.1652	0.1267	0.1434	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 100, 0]	S	16	40	30	14	193.2988	0.2857	0.5333	0.3721	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 500, 0]	S	65	98	252	85	20.9645	0.3988	0.4333	0.4153	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 1000, 0]	S	235	275	425	65	9.7352	0.4608	0.7833	0.5802	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 1000, 0]	S	220	150	550	80	15.3504	0.5946	0.7333	0.6567	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 300, 0]	S	55	36	174	35	6.0799	0.6044	0.6111	0.6077	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 100, 0]	S	6	2	68	24	33.6773	0.75	0.2	0.3158	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 500, 0]	S	104	191	159	46	48.5481	0.3525	0.6933	0.4674	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 1000, 0]	S	37	203	497	263	65.9557	0.1542	0.1233	0.137	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	171.0192	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 300, 0]	S	42	102	108	48	1984.9397	0.2917	0.4667	0.359	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 1000, 0]	S	221	373	327	79	104.8083	0.3721	0.7367	0.4944	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 300, 0]	S	37	25	185	53	407.0592	0.5968	0.4111	0.4868	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 300, 0]	S	41	66	144	49	2649.2969	0.3832	0.4556	0.4162	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	74.135	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 100, 0]	S	1	0	70	29	4.3803	1.0	0.0333	0.0645	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	49.8706	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 500, 0]	S	92	44	306	58	6.2718	0.6765	0.6133	0.6434	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 500, 0]	S	126	235	115	24	1449.5966	0.349	0.84	0.4932	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 300, 0]	S	72	131	79	18	308.0977	0.3547	0.8	0.4915	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 500, 0]	S	88	175	175	62	3518.0254	0.3346	0.5867	0.4262	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 100, 0]	S	20	23	47	10	3127.2577	0.4651	0.6667	0.5479	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	675.4592	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 0]	S	23	41	29	7	6.3991	0.3594	0.7667	0.4894	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 100, 0]	S	13	22	48	17	4.9158	0.3714	0.4333	0.4	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 500, 0]	S	109	99	251	41	12.988	0.524	0.7267	0.6089	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	203.2993	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 300, 0]	S	6	2	208	84	5.2271	0.75	0.0667	0.1224	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 1000, 0]	S	185	101	599	115	11.6481	0.6469	0.6167	0.6314	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 100, 0]	S	19	30	40	11	177.9429	0.3878	0.6333	0.481	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 1000, 0]	S	49	189	511	251	166.1786	0.2059	0.1633	0.1822	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 500, 0]	S	72	38	312	78	1972.5601	0.6545	0.48	0.5538	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 100, 0]	N	0	0	70	30	6.9789	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 1000, 0]	S	252	423	277	48	4667.661	0.3733	0.84	0.5169	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 100, 0]	S	26	59	11	4	3051.8833	0.3059	0.8667	0.4522	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 100, 0]	S	2	1	69	28	8.2735	0.6667	0.0667	0.1212	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 1000, 0]	S	12	9	691	288	8.0678	0.5714	0.04	0.0748	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 100, 0]	S	15	14	56	15	6.6674	0.5172	0.5	0.5085	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 500, 0]	S	9	5	345	141	6.9891	0.6429	0.06	0.1098	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 100, 0]	S	26	50	20	4	43.51	0.3421	0.8667	0.4906	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 1000, 0]	F									
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 300, 0]	N	0	0	210	90	8.4422	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 1000, 0]	S	165	188	512	135	44.7054	0.4674	0.55	0.5054	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	11671.959	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 300, 0]	S	32	23	187	58	6.8983	0.5818	0.3556	0.4414	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	16.823	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 300, 0]	S	39	19	191	51	10.895	0.6724	0.4333	0.527	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 500, 0]	S	85	87	263	65	11.3265	0.4942	0.5667	0.528	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 300, 0]	S	36	79	131	54	15.2719	0.313	0.4	0.3512	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 500, 0]	S	73	61	289	77	27.0208	0.5448	0.4867	0.5141	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 100, 0]	N	0	0	70	30	3.7822	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 1000, 0]	S	173	191	509	127	12.6833	0.4753	0.5767	0.5211	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 100, 0]	S	7	17	53	23	12.7103	0.2917	0.2333	0.2593	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 0]	S	77	109	101	13	12.3965	0.414	0.8556	0.558	{'SelectionBench': True}
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 300, 0]	S	13	64	146	77	33.5661	0.1688	0.1444	0.1557	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 0]	S	116	154	196	34	14.7164	0.4296	0.7733	0.5524	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 300, 0]	S	51	77	133	39	20713.1405	0.3984	0.5667	0.4679	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 1000, 0]	S	10	4	696	290	6.9716	0.7143	0.0333	0.0637	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 1000, 0]	S	155	315	385	145	27275.2446	0.3298	0.5167	0.4026	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 500, 0]	S	61	123	227	89	8299.3466	0.3315	0.4067	0.3653	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 1000, 0]	S	202	143	557	98	11379.1646	0.5855	0.6733	0.6264	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 500, 0]	S	26	104	246	124	71.7385	0.2	0.1733	0.1857	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 0]	S	229	312	388	71	45.5042	0.4233	0.7633	0.5446	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 100, 0]	S	20	43	27	10	10.955	0.3175	0.6667	0.4301	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 100, 0]	S	25	27	43	5	18.0645	0.4808	0.8333	0.6098	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'EF', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 500, 0]	S	17	3	347	133	7.0915	0.85	0.1133	0.2	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 1000, 0]	N	0	0	700	300	311.715	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 100, 0]	F									
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	10.1183	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 100, 0]	S	16	8	62	14	8.9153	0.6667	0.5333	0.5926	{'SelectionBench': True}
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 300, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 300, 0]	S	81	172	38	9	23454.3891	0.3202	0.9	0.4723	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 500, 0]	N	0	0	350	150	1790.193	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 1000, 0]	S	105	225	475	195	22458.6724	0.3182	0.35	0.3333	{'SelectionBench': True}
+['ClinVarArt', 'classifSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'consensusSF', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'saturationFilter', 0.3, 'Asym', 500, 0]	F									
+['ClinVarArt', 'EWF', 0.3, 'Asym', 500, 0]	S	139	275	75	11	65029.1002	0.3357	0.9267	0.4929	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 500, 0]	S	93	132	218	57	134397.9402	0.4133	0.62	0.496	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 1000, 0]	S	284	576	124	16	312800.9856	0.3302	0.9467	0.4897	{'SelectionBench': True}
+['ClinVarArt', 'ENG', 0.3, 'Asym', 1000, 0]	S	184	224	476	116	374640.7457	0.451	0.6133	0.5198	{'SelectionBench': True}
+['ClinVarArt', 'EWF', 0.3, 'Asym', 1000, 0]	S	278	553	147	22	383800.6754	0.3345	0.9267	0.4916	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 5000, 0]	N	0	0	3500	1500	63.4111	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	44.2646	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 10000, 0]	S	2336	2302	4698	664	78.311	0.5037	0.7787	0.6117	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	5.2892	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 10000, 0]	S	2391	1648	5352	609	35.1912	0.592	0.797	0.6794	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 3000, 0]	S	644	611	1489	256	42.2201	0.5131	0.7156	0.5977	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 10000, 0]	S	2242	882	6118	758	148.8074	0.7177	0.7473	0.7322	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 5000, 0]	S	1068	421	3079	432	64.3359	0.7173	0.712	0.7146	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 10000, 0]	S	2564	2489	4511	436	54.2401	0.5074	0.8547	0.6368	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 3000, 0]	S	49	12	2088	851	8.0513	0.8033	0.0544	0.102	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 5000, 0]	N	0	0	3500	1500	8.2266	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 5000, 0]	S	1091	1739	1761	409	1749.133	0.3855	0.7273	0.5039	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 10000, 0]	S	455	2169	4831	2545	2702.4712	0.1734	0.1517	0.1618	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 5000, 0]	S	466	274	3226	1034	6493.2447	0.6297	0.3107	0.4161	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 5000, 0]	S	60	28	3472	1440	10.5095	0.6818	0.04	0.0756	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 10000, 0]	S	967	480	6520	2033	18794.2779	0.6683	0.3223	0.4349	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 10000, 0]	N	0	0	7000	3000	22.8361	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 5000, 0]	S	1067	1056	2444	433	27.856	0.5026	0.7113	0.589	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 3000, 0]	S	0	1	2099	900	63393.2657	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 10000, 0]	S	2226	3459	3541	774	5035.201	0.3916	0.742	0.5126	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 3000, 0]	S	274	156	1944	626	1297.246	0.6372	0.3044	0.412	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 3000, 0]	S	666	1058	1042	234	629.7328	0.3863	0.74	0.5076	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 5000, 0]	S	1181	879	2621	319	25.0452	0.5733	0.7873	0.6635	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 10000, 0]	N	0	0	7000	3000	143.386	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 5000, 0]	S	85	42	3458	1415	12.4101	0.6693	0.0567	0.1045	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'ENN', 0.3, 'Asym', 3000, 0]	S	687	990	1110	213	193.512	0.4097	0.7633	0.5332	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 5000, 0]	S	744	958	2542	756	523.398	0.4371	0.496	0.4647	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 10000, 0]	S	155	71	6929	2845	19.1181	0.6858	0.0517	0.0961	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 3000, 0]	S	50	18	2082	850	13.8899	0.7353	0.0556	0.1033	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 3000, 0]	S	613	1131	969	287	66.6081	0.3515	0.6811	0.4637	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 5000, 0]	N	0	0	3500	1500	93.3611	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 5000, 0]	S	1211	818	2682	289	129.257	0.5968	0.8073	0.6863	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 5000, 0]	N	0	0	3500	1500	9.4193	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'IPF', 0.3, 'Asym', 10000, 0]	S	2364	1547	5453	636	34.3913	0.6044	0.788	0.6841	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	7.2106	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 10000, 0]	S	2290	2247	4753	710	52.0312	0.5047	0.7633	0.6077	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 5000, 0]	S	246	1051	2449	1254	1107.4276	0.1897	0.164	0.1759	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 3000, 0]	S	574	581	1519	326	19.255	0.497	0.6378	0.5586	{'SelectionBench': True}
+['ClinVarArt', 'CNN', 0.3, 'Asym', 3000, 0]	S	158	645	1455	742	261.2726	0.1968	0.1756	0.1856	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 5000, 0]	S	70	33	3467	1430	9.7728	0.6796	0.0467	0.0873	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 3000, 0]	S	469	574	1526	431	242.2726	0.4497	0.5211	0.4828	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'ENN', 0.3, 'Asym', 10000, 0]	S	2236	3151	3849	764	1804.6454	0.4151	0.7453	0.5332	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 3000, 0]	S	166	151	1949	734	2144.8795	0.5237	0.1844	0.2728	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 5000, 0]	S	1090	1741	1759	410	1425.7526	0.385	0.7267	0.5033	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 10000, 0]	N	0	0	7000	3000	128.1832	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 10000, 0]	S	149	98	6902	2851	23.4131	0.6032	0.0497	0.0918	{'SelectionBench': True}
+['ClinVarArt', 'AENN', 0.3, 'Asym', 10000, 0]	S	2215	3479	3521	785	6705.0897	0.389	0.7383	0.5095	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 5000, 0]	S	440	224	3276	1060	7284.4671	0.6627	0.2933	0.4067	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 10000, 0]	F									
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 3000, 0]	S	704	460	1640	196	71.7993	0.6048	0.7822	0.6822	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 5000, 0]	S	221	972	2528	1279	11008.0478	0.1852	0.1473	0.1641	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	493.0631	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 5000, 0]	F									
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'GE', 0.3, 'Asym', 10000, 0]	N	0	0	7000	3000	16.2931	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 10000, 0]	S	1091	488	6512	1909	25121.4617	0.6909	0.3637	0.4765	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	63119.8903	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 10000, 0]	S	2	1	6999	2998	778.3929	0.6667	0.0007	0.0013	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 3000, 0]	S	636	271	1829	264	37.3138	0.7012	0.7067	0.7039	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 3000, 0]	S	49	27	2073	851	10.5879	0.6447	0.0544	0.1004	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 3000, 0]	S	675	522	1578	225	19.7465	0.5639	0.75	0.6438	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'HARF', 0.3, 'Asym', 3000, 0]	S	658	280	1820	242	46.1452	0.7015	0.7311	0.716	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 3000, 0]	S	743	762	1338	157	19.3151	0.4937	0.8256	0.6179	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	44.1311	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 3000, 0]	S	440	606	1494	460	174.0354	0.4207	0.4889	0.4522	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 3000, 0]	S	691	506	1594	209	113.4157	0.5773	0.7678	0.659	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'ENN', 0.3, 'Asym', 3000, 0]	S	673	1008	1092	227	243.9751	0.4004	0.7478	0.5215	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 3000, 0]	S	144	617	1483	756	233.6252	0.1892	0.16	0.1734	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	9.2059	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 3000, 0]	S	39	15	2085	861	12.9115	0.7222	0.0433	0.0818	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 3000, 0]	S	621	559	1541	279	16.8277	0.5263	0.69	0.5971	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 3000, 0]	S	661	1095	1005	239	651.7123	0.3764	0.7344	0.4977	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	837.3119	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 3000, 0]	S	146	608	1492	754	2083.3365	0.1936	0.1622	0.1765	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	66242.2202	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 3000, 0]	S	712	1206	894	188	78072.4534	0.3712	0.7911	0.5053	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 3000, 0]	S	752	773	1327	148	18.6492	0.4931	0.8356	0.6202	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 3000, 0]	S	712	521	1579	188	17.206	0.5775	0.7911	0.6676	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 3000, 0]	S	52	20	2080	848	11.1185	0.7222	0.0578	0.107	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 3000, 0]	S	725	478	1622	175	78.1342	0.6027	0.8056	0.6895	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 3000, 0]	S	613	282	1818	287	38.4285	0.6849	0.6811	0.683	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 3000, 0]	S	459	617	1483	441	183.1104	0.4266	0.51	0.4646	{'SelectionBench': True}
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 3000, 0]	S	616	668	1432	284	24.4646	0.4798	0.6844	0.5641	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 3000, 0]	S	135	628	1472	765	254.9253	0.1769	0.15	0.1624	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 3000, 0]	S	685	983	1117	215	253.199	0.4107	0.7611	0.5335	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	7.3487	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 3000, 0]	S	39	19	2081	861	7.7612	0.6724	0.0433	0.0814	{'SelectionBench': True}
+['ClinVarArt', 'PF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 3000, 0]	S	643	1027	1073	257	698.2434	0.385	0.7144	0.5004	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	72.0152	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	887.362	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'RNN', 0.3, 'Asym', 3000, 0]	S	157	619	1481	743	2102.81	0.2023	0.1744	0.1874	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 3000, 0]	S	263	151	1949	637	2401.5628	0.6353	0.2922	0.4003	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 3000, 0]	S	745	1303	797	155	78758.6928	0.3638	0.8278	0.5054	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	106443.8649	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 3000, 0]	S	699	461	1639	201	346646.3349	0.6026	0.7767	0.6786	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 3000, 0]	S	403	809	1291	497	446004.0785	0.3325	0.4478	0.3816	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 3000, 0]	S	342	637	1463	558	452989.7804	0.3493	0.38	0.364	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 3000, 0]	S	682	488	1612	218	281389.5344	0.5829	0.7578	0.6589	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 3000, 0]	S	470	881	1219	430	442754.8827	0.3479	0.5222	0.4176	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 3000, 0]	S	395	772	1328	505	583140.6119	0.3385	0.4389	0.3822	{'SelectionBench': True}
+['ClinVarArt', 'C45votingFilter', 0.3, 'Asym', 3000, 0]	S	52	25	2075	848	8.1479	0.6753	0.0578	0.1064	{'SelectionBench': True}
+['ClinVarArt', 'IPF', 0.3, 'Asym', 3000, 0]	S	688	534	1566	212	23.2789	0.563	0.7644	0.6484	{'SelectionBench': True}
+['ClinVarArt', 'HARF', 0.3, 'Asym', 3000, 0]	S	639	299	1801	261	34.6356	0.6812	0.71	0.6953	{'SelectionBench': True}
+['ClinVarArt', 'C45iteratedVotingFilter', 0.3, 'Asym', 3000, 0]	S	654	442	1658	246	92.8097	0.5967	0.7267	0.6553	{'SelectionBench': True}
+['ClinVarArt', 'ORBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	39.7024	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'TomekLinks', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'C45robustFilter', 0.3, 'Asym', 3000, 0]	S	614	622	1478	286	19.408	0.4968	0.6822	0.5749	{'SelectionBench': True}
+['ClinVarArt', 'CVCF', 0.3, 'Asym', 3000, 0]	S	41	17	2083	859	7.782	0.7069	0.0456	0.0856	{'SelectionBench': True}
+['ClinVarArt', 'GE', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	5.072	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 3000, 0]	S	661	1015	1085	239	185.4779	0.3944	0.7344	0.5132	{'SelectionBench': True}
+['ClinVarArt', 'hybridRepairFilter', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'PF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'AENN', 0.3, 'Asym', 3000, 0]	S	646	1084	1016	254	479.4673	0.3734	0.7178	0.4913	{'SelectionBench': True}
+['ClinVarArt', 'EF', 0.3, 'Asym', 3000, 0]	S	752	795	1305	148	13.0742	0.4861	0.8356	0.6146	{'SelectionBench': True}
+['ClinVarArt', 'edgeBoostFilter', 0.3, 'Asym', 3000, 0]	N	0	0	2100	900	604.4064	0.0	0.0	0.0	{'SelectionBench': True}
+['ClinVarArt', 'dynamicCF', 0.3, 'Asym', 3000, 0]	F									
+['ClinVarArt', 'CNN', 0.3, 'Asym', 3000, 0]	S	162	591	1509	738	239.2894	0.2151	0.18	0.196	{'SelectionBench': True}
+['ClinVarArt', 'BBNR', 0.3, 'Asym', 3000, 0]	S	450	554	1546	450	175.0382	0.4482	0.5	0.4727	{'SelectionBench': True}
+['ClinVarArt', 'PRISM', 0.3, 'Asym', 3000, 0]	S	215	142	1958	685	1740.1334	0.6022	0.2389	0.3421	{'SelectionBench': True}
+['ClinVarArt', 'RNN', 0.3, 'Asym', 3000, 0]	S	146	629	1471	754	2669.0646	0.1884	0.1622	0.1743	{'SelectionBench': True}
+['ClinVarArt', 'ModeFilter', 0.3, 'Asym', 3000, 0]	S	1	0	2100	899	63603.4658	1.0	0.0011	0.0022	{'SelectionBench': True}
+['ClinVarArt', 'DROP3', 0.3, 'Asym', 3000, 0]	S	760	1381	719	140	73431.6308	0.355	0.8444	0.4998	{'SelectionBench': True}
+['ClinVarArt', 'INFFC', 0.3, 'Asym', 3000, 0]	S	687	466	1634	213	277333.4787	0.5958	0.7633	0.6693	{'SelectionBench': True}
+['ClinVarArt', 'DROP1', 0.3, 'Asym', 3000, 0]	S	459	965	1135	441	401403.8113	0.3223	0.51	0.395	{'SelectionBench': True}
+['ClinVarArt', 'DROP2', 0.3, 'Asym', 3000, 0]	S	339	595	1505	561	438847.228	0.363	0.3767	0.3697	{'SelectionBench': True}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 0]	S	26	37	33	4	4.5862	0.4127	0.8667	0.5591	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 1]	S	21	35	35	9	1.7267	0.375	0.7	0.4884	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 2]	S	19	41	29	11	1.7633	0.3167	0.6333	0.4222	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 3]	S	21	35	35	9	1.7295	0.375	0.7	0.4884	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 4]	S	23	41	29	7	1.7428	0.3594	0.7667	0.4894	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 5]	S	21	36	34	9	1.8594	0.3684	0.7	0.4828	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 6]	S	22	42	28	8	1.6583	0.3438	0.7333	0.4681	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 7]	S	21	43	27	9	1.608	0.3281	0.7	0.4468	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 8]	S	21	32	38	9	1.7536	0.3962	0.7	0.506	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 100, 9]	S	20	47	23	10	1.6708	0.2985	0.6667	0.4124	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 0]	S	1125	1605	1895	375	504.987	0.4121	0.75	0.5319	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 1]	S	1081	1558	1942	419	482.484	0.4096	0.7207	0.5223	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 2]	S	1117	1620	1880	383	482.5103	0.4081	0.7447	0.5273	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 3]	S	1101	1646	1854	399	484.1753	0.4008	0.734	0.5185	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 4]	S	1124	1595	1905	376	481.3991	0.4134	0.7493	0.5328	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 5]	S	1138	1632	1868	362	476.3883	0.4108	0.7587	0.533	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 6]	S	1123	1639	1861	377	473.8481	0.4066	0.7487	0.527	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 7]	S	1125	1628	1872	375	458.1893	0.4086	0.75	0.529	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 8]	S	1140	1598	1902	360	452.0336	0.4164	0.76	0.538	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 5000, 9]	S	1113	1551	1949	387	454.0808	0.4178	0.742	0.5346	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 0]	S	64	101	109	26	10.6544	0.3879	0.7111	0.502	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 1]	S	61	122	88	29	5.9159	0.3333	0.6778	0.4469	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 2]	S	57	90	120	33	5.9457	0.3878	0.6333	0.481	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 3]	S	70	92	118	20	5.9156	0.4321	0.7778	0.5556	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 4]	S	65	112	98	25	5.9417	0.3672	0.7222	0.4869	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 5]	S	72	95	115	18	5.8954	0.4311	0.8	0.5603	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 6]	S	65	91	119	25	5.965	0.4167	0.7222	0.5285	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 7]	S	64	102	108	26	5.8608	0.3855	0.7111	0.5	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 8]	S	68	89	121	22	5.871	0.4331	0.7556	0.5506	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 300, 9]	S	74	109	101	16	5.8924	0.4044	0.8222	0.5421	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 0]	S	218	320	380	82	31.7445	0.4052	0.7267	0.5203	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 1]	S	227	331	369	73	26.8383	0.4068	0.7567	0.5291	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 2]	S	218	320	380	82	26.8248	0.4052	0.7267	0.5203	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 3]	S	213	325	375	87	26.8679	0.3959	0.71	0.5084	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 4]	S	232	332	368	68	26.8898	0.4113	0.7733	0.537	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 5]	S	204	301	399	96	26.815	0.404	0.68	0.5068	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 6]	S	229	374	326	71	26.9391	0.3798	0.7633	0.5072	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 7]	S	207	353	347	93	26.779	0.3696	0.69	0.4814	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 8]	S	211	300	400	89	26.8675	0.4129	0.7033	0.5203	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 1000, 9]	S	201	350	350	99	26.8218	0.3648	0.67	0.4724	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 0]	S	101	190	160	49	16.4736	0.3471	0.6733	0.458	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 1]	S	100	178	172	50	9.8483	0.3597	0.6667	0.4673	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 2]	S	111	176	174	39	9.6356	0.3868	0.74	0.508	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 3]	S	119	155	195	31	9.9322	0.4343	0.7933	0.5613	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 4]	S	112	176	174	38	9.7894	0.3889	0.7467	0.5114	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 5]	S	98	169	181	52	9.7621	0.367	0.6533	0.47	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 6]	S	102	152	198	48	9.9102	0.4016	0.68	0.505	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 7]	S	113	173	177	37	9.8144	0.3951	0.7533	0.5183	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 8]	S	116	167	183	34	9.6579	0.4099	0.7733	0.5358	{}
+['ClinVarArt', 'ENN', 0.3, 'Asym', 500, 9]	S	105	171	179	45	9.8165	0.3804	0.7	0.493	{}

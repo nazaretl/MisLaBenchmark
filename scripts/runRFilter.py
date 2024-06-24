@@ -37,6 +37,7 @@ modelsR = [
            ,'consensusSF(df, nfolds = nfolds, consensusLevel = nfolds - 1, noiseThreshold = noiseThreshold)'
            ,'classifSF(df, nfolds = nfolds, noiseThreshold = noiseThreshold)'
            ,'TomekLinks(df)'
+           , 'ENN(df, k = 3)'
 ]
 
 path='scripts/'

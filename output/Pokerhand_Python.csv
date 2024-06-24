@@ -19598,3 +19598,419 @@
 ['Pokerhand', 'RkDN', 0.5, 'Sym', 5000, 7]	S	1061	1091	1409	1439	0.276	0.493	0.4244	0.4561	
 ['Pokerhand', 'RkDN', 0.5, 'Sym', 5000, 8]	S	1068	1017	1483	1432	0.2708	0.5122	0.4272	0.4659	
 ['Pokerhand', 'RkDN', 0.5, 'Sym', 5000, 9]	S	1053	1100	1400	1447	0.2727	0.4891	0.4212	0.4526	
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	6	33	37	24	0.0038	0.1538	0.2	0.1739	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 300, 0]	S	36	85	125	54	0.0302	0.2975	0.4	0.3412	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	8	32	38	22	0.0034	0.2	0.2667	0.2286	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	14	34	36	16	0.0035	0.2917	0.4667	0.359	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	17	29	41	13	0.0033	0.3696	0.5667	0.4474	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	9	28	42	21	0.0034	0.2432	0.3	0.2687	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 300, 0]	S	33	73	137	57	0.0051	0.3113	0.3667	0.3367	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 300, 0]	S	42	99	111	48	0.0052	0.2979	0.4667	0.3636	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 300, 0]	S	39	89	121	51	0.0052	0.3047	0.4333	0.3578	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 300, 0]	S	41	90	120	49	0.0051	0.313	0.4556	0.371	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	81	172	178	69	0.0084	0.3202	0.54	0.402	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	82	160	190	68	0.0083	0.3388	0.5467	0.4184	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	73	169	181	77	0.0083	0.3017	0.4867	0.3724	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 300, 0]	S	38	114	96	52	0.1628	0.25	0.4222	0.314	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	75	174	176	75	0.0082	0.3012	0.5	0.3759	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 300, 0]	S	40	103	107	50	0.1631	0.2797	0.4444	0.3433	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	75	167	183	75	0.0082	0.3099	0.5	0.3827	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 300, 0]	S	51	108	102	39	0.1714	0.3208	0.5667	0.4096	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 300, 0]	S	47	101	109	43	0.1625	0.3176	0.5222	0.395	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 300, 0]	S	50	102	108	40	0.174	0.3289	0.5556	0.4132	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 500, 0]	S	67	132	218	83	0.0095	0.3367	0.4467	0.384	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	39	82	128	51	0.0916	0.3223	0.4333	0.3697	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 500, 0]	S	66	141	209	84	0.009	0.3188	0.44	0.3697	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	31	82	128	59	0.0898	0.2743	0.3444	0.3054	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 500, 0]	S	69	126	224	81	0.0092	0.3538	0.46	0.4	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	32	72	138	58	0.0926	0.3077	0.3556	0.3299	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 500, 0]	S	68	130	220	82	0.0107	0.3434	0.4533	0.3908	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	27	81	129	63	0.1085	0.25	0.3	0.2727	{}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 500, 0]	S	66	137	213	84	0.0104	0.3251	0.44	0.3739	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	37	75	135	53	0.1073	0.3304	0.4111	0.3663	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	59	128	222	91	0.0975	0.3155	0.3933	0.3501	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	54	141	209	96	0.1019	0.2769	0.36	0.313	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	53	138	212	97	0.0978	0.2775	0.3533	0.3109	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	73	135	215	77	0.0952	0.351	0.4867	0.4078	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	74	136	214	76	0.0943	0.3524	0.4933	0.4111	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 100, 0]	S	1	9	61	29	0.1867	0.1	0.0333	0.05	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 100, 0]	S	0	7	63	30	0.1819	0.0	0.0	0.0	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 100, 0]	S	4	6	64	26	0.1863	0.4	0.1333	0.2	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 100, 0]	S	3	10	60	27	0.1865	0.2308	0.1	0.1395	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 100, 0]	S	1	5	65	29	0.1807	0.1667	0.0333	0.0556	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 100, 0]	S	6	27	43	24	0.0993	0.1818	0.2	0.1905	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 100, 0]	S	10	20	50	20	0.1077	0.3333	0.3333	0.3333	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 100, 0]	S	13	21	49	17	0.1065	0.3824	0.4333	0.4062	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 100, 0]	S	10	23	47	20	0.0907	0.303	0.3333	0.3175	{}
+['Pokerhand', 'MCS', 0.3, 'Asym', 100, 0]	S	11	23	47	19	0.1182	0.3235	0.3667	0.3438	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 100, 0]	S	18	30	40	12	0.143	0.375	0.6	0.4615	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 100, 0]	S	20	32	38	10	0.1438	0.3846	0.6667	0.4878	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 100, 0]	S	10	20	50	20	0.1434	0.3333	0.3333	0.3333	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 100, 0]	S	13	43	27	17	0.1448	0.2321	0.4333	0.3023	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 100, 0]	S	10	31	39	20	0.1433	0.2439	0.3333	0.2817	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 300, 0]	S	49	96	114	41	0.0071	0.3379	0.5444	0.417	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 300, 0]	S	49	102	108	41	0.0053	0.3245	0.5444	0.4066	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 300, 0]	S	47	95	115	43	0.0056	0.331	0.5222	0.4052	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 300, 0]	S	47	87	123	43	0.0052	0.3507	0.5222	0.4196	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 300, 0]	S	52	101	109	38	0.0056	0.3399	0.5778	0.428	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 100, 0]	S	19	34	36	11	0.0491	0.3585	0.6333	0.4578	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 100, 0]	S	17	23	47	13	0.0487	0.425	0.5667	0.4857	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 100, 0]	S	18	40	30	12	0.0482	0.3103	0.6	0.4091	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 100, 0]	S	13	36	34	17	0.0656	0.2653	0.4333	0.3291	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 100, 0]	S	16	30	40	14	0.0494	0.3478	0.5333	0.4211	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	14	37	33	16	0.0056	0.2745	0.4667	0.3457	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	18	35	35	12	0.0052	0.3396	0.6	0.4337	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	18	37	33	12	0.0055	0.3273	0.6	0.4235	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	14	44	26	16	0.005	0.2414	0.4667	0.3182	{}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	16	25	45	14	0.0053	0.3902	0.5333	0.4507	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 300, 0]	S	46	88	122	44	0.037	0.3433	0.5111	0.4107	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 300, 0]	S	47	96	114	43	0.0368	0.3287	0.5222	0.4034	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 300, 0]	S	47	96	114	43	0.0369	0.3287	0.5222	0.4034	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 300, 0]	S	48	111	99	42	0.0375	0.3019	0.5333	0.3855	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 300, 0]	S	45	107	103	45	0.0359	0.2961	0.5	0.3719	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 300, 0]	S	14	34	176	76	0.1597	0.2917	0.1556	0.2029	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 300, 0]	S	17	27	183	73	0.1463	0.3864	0.1889	0.2537	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	63	144	206	87	0.0067	0.3043	0.42	0.3529	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 300, 0]	S	14	31	179	76	0.1453	0.3111	0.1556	0.2074	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	74	157	193	76	0.0062	0.3203	0.4933	0.3885	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 300, 0]	S	15	28	182	75	0.1456	0.3488	0.1667	0.2256	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	72	135	215	78	0.0062	0.3478	0.48	0.4034	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 300, 0]	S	12	24	186	78	0.1463	0.3333	0.1333	0.1905	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	55	143	207	95	0.0064	0.2778	0.3667	0.3161	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	71	147	203	79	0.0062	0.3257	0.4733	0.3859	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 500, 0]	S	42	75	275	108	0.158	0.359	0.28	0.3146	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 500, 0]	S	30	78	272	120	0.1592	0.2778	0.2	0.2326	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 500, 0]	S	34	91	259	116	0.157	0.272	0.2267	0.2473	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 500, 0]	S	39	68	282	111	0.1582	0.3645	0.26	0.3035	{}
+['Pokerhand', 'FKDN', 0.3, 'Asym', 500, 0]	S	36	85	265	114	0.157	0.2975	0.24	0.2657	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	37	99	111	53	0.0091	0.2721	0.4111	0.3274	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	43	92	118	47	0.0088	0.3185	0.4778	0.3822	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	35	89	121	55	0.009	0.2823	0.3889	0.3271	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	35	104	106	55	0.009	0.2518	0.3889	0.3057	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	40	95	115	50	0.0089	0.2963	0.4444	0.3556	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 500, 0]	S	70	183	167	80	0.0439	0.2767	0.4667	0.3474	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 500, 0]	S	76	165	185	74	0.0411	0.3154	0.5067	0.3887	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 500, 0]	S	88	169	181	62	0.0412	0.3424	0.5867	0.4324	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 500, 0]	S	74	174	176	76	0.0429	0.2984	0.4933	0.3719	{}
+['Pokerhand', 'IH', 0.3, 'Asym', 500, 0]	S	74	172	178	76	0.0448	0.3008	0.4933	0.3737	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 100, 0]	S	11	24	46	19	0.0065	0.3143	0.3667	0.3385	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 100, 0]	S	15	24	46	15	0.0066	0.3846	0.5	0.4348	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 100, 0]	S	7	21	49	23	0.0062	0.25	0.2333	0.2414	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 100, 0]	S	12	24	46	18	0.0061	0.3333	0.4	0.3636	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 100, 0]	S	9	20	50	21	0.0069	0.3103	0.3	0.3051	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	76	169	181	74	0.2753	0.3102	0.5067	0.3848	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	73	159	191	77	0.2845	0.3147	0.4867	0.3822	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	76	159	191	74	0.2536	0.3234	0.5067	0.3948	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	71	156	194	79	0.2698	0.3128	0.4733	0.3767	{}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	71	165	185	79	0.2737	0.3008	0.4733	0.3679	{}
+['Pokerhand', 'IH', 0.1, 'Asym', 500, 0]	S	26	221	229	24	0.0486	0.1053	0.52	0.1751	{}
+['Pokerhand', 'MCS', 0.1, 'Asym', 500, 0]	S	21	170	280	29	0.128	0.1099	0.42	0.1743	{}
+['Pokerhand', 'IH', 0.1, 'Asym', 500, 0]	S	30	212	238	20	0.0455	0.124	0.6	0.2055	{}
+['Pokerhand', 'MCS', 0.1, 'Asym', 500, 0]	S	21	192	258	29	0.0617	0.0986	0.42	0.1597	{}
+['Pokerhand', 'IH', 0.1, 'Asym', 500, 0]	S	27	207	243	23	0.0452	0.1154	0.54	0.1901	{}
+['Pokerhand', 'MCS', 0.1, 'Asym', 500, 0]	S	17	186	264	33	0.0738	0.0837	0.34	0.1344	{}
+['Pokerhand', 'MCS', 0.1, 'Asym', 500, 0]	S	17	180	270	33	0.0759	0.0863	0.34	0.1377	{}
+['Pokerhand', 'IH', 0.1, 'Asym', 500, 0]	S	29	208	242	21	0.0452	0.1224	0.58	0.2021	{}
+['Pokerhand', 'MCS', 0.1, 'Asym', 500, 0]	S	20	173	277	30	0.0674	0.1036	0.4	0.1646	{}
+['Pokerhand', 'IH', 0.1, 'Asym', 500, 0]	S	31	214	236	19	0.0461	0.1265	0.62	0.2102	{}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	8	30	50	12	0.0598	0.2105	0.4	0.2759	{}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	8	24	56	12	0.0565	0.25	0.4	0.3077	{}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	6	23	57	14	0.0572	0.2069	0.3	0.2449	{}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	6	27	53	14	0.0558	0.1818	0.3	0.2264	{}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	3	28	52	17	0.0696	0.0968	0.15	0.1176	{}
+['Pokerhand', 'IH', 0.05, 'Asym', 500, 0]	S	12	235	240	13	0.0552	0.0486	0.48	0.0882	{}
+['Pokerhand', 'IH', 0.05, 'Asym', 500, 0]	S	16	234	241	9	0.0446	0.064	0.64	0.1164	{}
+['Pokerhand', 'IH', 0.05, 'Asym', 500, 0]	S	12	243	232	13	0.0413	0.0471	0.48	0.0857	{}
+['Pokerhand', 'IH', 0.05, 'Asym', 500, 0]	S	13	215	260	12	0.0433	0.057	0.52	0.1028	{}
+['Pokerhand', 'IH', 0.05, 'Asym', 500, 0]	S	16	238	237	9	0.0429	0.063	0.64	0.1147	{}
+['Pokerhand', 'PD', 0.4, 'Asym', 300, 0]	S	49	73	107	71	0.0067	0.4016	0.4083	0.405	{}
+['Pokerhand', 'PD', 0.4, 'Asym', 300, 0]	S	59	78	102	61	0.0062	0.4307	0.4917	0.4591	{}
+['Pokerhand', 'IH', 0.2, 'Asym', 300, 0]	S	27	120	120	33	0.0578	0.1837	0.45	0.2609	{}
+['Pokerhand', 'PD', 0.4, 'Asym', 300, 0]	S	52	72	108	68	0.0062	0.4194	0.4333	0.4262	{}
+['Pokerhand', 'IH', 0.2, 'Asym', 300, 0]	S	31	112	128	29	0.0549	0.2168	0.5167	0.3054	{}
+['Pokerhand', 'PD', 0.4, 'Asym', 300, 0]	S	42	83	97	78	0.0064	0.336	0.35	0.3429	{}
+['Pokerhand', 'PD', 0.4, 'Asym', 300, 0]	S	49	68	112	71	0.0063	0.4188	0.4083	0.4135	{}
+['Pokerhand', 'IH', 0.2, 'Asym', 300, 0]	S	28	110	130	32	0.0589	0.2029	0.4667	0.2828	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	63	162	188	87	0.0094	0.28	0.42	0.336	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	75	151	199	75	0.0092	0.3319	0.5	0.3989	{}
+['Pokerhand', 'KDN', 0.4, 'Asym', 500, 0]	S	104	131	169	96	0.0102	0.4426	0.52	0.4782	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	62	165	185	88	0.0091	0.2731	0.4133	0.3289	{}
+['Pokerhand', 'KDN', 0.4, 'Asym', 500, 0]	S	92	142	158	108	0.0085	0.3932	0.46	0.424	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	60	144	206	90	0.009	0.2941	0.4	0.339	{}
+['Pokerhand', 'KDN', 0.4, 'Asym', 500, 0]	S	93	143	157	107	0.0085	0.3941	0.465	0.4266	{}
+['Pokerhand', 'KDN', 0.4, 'Asym', 500, 0]	S	89	145	155	111	0.0083	0.3803	0.445	0.4101	{}
+['Pokerhand', 'PD', 0.3, 'Asym', 500, 0]	S	73	152	198	77	0.0094	0.3244	0.4867	0.3893	{}
+['Pokerhand', 'KDN', 0.4, 'Asym', 500, 0]	S	87	125	175	113	0.0083	0.4104	0.435	0.4223	{}
+['Pokerhand', 'PD', 0.4, 'Asym', 100, 0]	S	13	28	32	27	0.0089	0.3171	0.325	0.321	{}
+['Pokerhand', 'PD', 0.2, 'Asym', 100, 0]	S	10	26	54	10	0.0066	0.2778	0.5	0.3571	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 500, 0]	S	12	179	296	13	0.078	0.0628	0.48	0.1111	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 100, 0]	S	7	34	46	13	0.0062	0.1707	0.35	0.2295	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 500, 0]	S	12	184	291	13	0.061	0.0612	0.48	0.1086	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 100, 0]	S	8	24	56	12	0.0065	0.25	0.4	0.3077	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 500, 0]	S	13	187	288	12	0.065	0.065	0.52	0.1156	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 100, 0]	S	6	24	56	14	0.0061	0.2	0.3	0.24	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 500, 0]	S	6	185	290	19	0.0599	0.0314	0.24	0.0556	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 100, 0]	S	10	36	44	10	0.0064	0.2174	0.5	0.303	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 500, 0]	S	9	194	281	16	0.0729	0.0443	0.36	0.0789	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Asym', 500, 0]	S	11	90	360	39	0.2468	0.1089	0.22	0.1457	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Asym', 500, 0]	S	14	96	354	36	0.1674	0.1273	0.28	0.175	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Asym', 500, 0]	S	10	98	352	40	0.1643	0.0926	0.2	0.1266	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Asym', 500, 0]	S	11	100	350	39	0.1661	0.0991	0.22	0.1366	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Asym', 500, 0]	S	12	99	351	38	0.1671	0.1081	0.24	0.1491	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 500, 0]	S	118	122	128	132	0.1806	0.4917	0.472	0.4816	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 500, 0]	S	109	116	134	141	0.1944	0.4844	0.436	0.4589	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 500, 0]	S	130	118	132	120	0.1774	0.5242	0.52	0.5221	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 500, 0]	S	129	115	135	121	0.1769	0.5287	0.516	0.5223	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 500, 0]	S	130	140	110	120	0.1768	0.4815	0.52	0.5	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 300, 0]	S	4	106	179	11	0.0637	0.0364	0.2667	0.064	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 300, 0]	S	7	111	174	8	0.0578	0.0593	0.4667	0.1053	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 300, 0]	S	7	94	191	8	0.0593	0.0693	0.4667	0.1207	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 300, 0]	S	4	99	186	11	0.0585	0.0388	0.2667	0.0678	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 300, 0]	S	6	94	191	9	0.0641	0.06	0.4	0.1043	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 300, 0]	S	28	96	144	32	0.0065	0.2258	0.4667	0.3043	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 300, 0]	S	28	94	146	32	0.0064	0.2295	0.4667	0.3077	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 300, 0]	S	26	96	144	34	0.0063	0.2131	0.4333	0.2857	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 300, 0]	S	29	109	131	31	0.0066	0.2101	0.4833	0.2929	{'SmallSample': True}
+['Pokerhand', 'PD', 0.2, 'Asym', 300, 0]	S	25	113	127	35	0.0063	0.1812	0.4167	0.2525	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 300, 0]	S	14	113	157	16	0.0066	0.1102	0.4667	0.1783	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 300, 0]	S	12	104	166	18	0.0066	0.1034	0.4	0.1644	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 300, 0]	S	12	114	156	18	0.0065	0.0952	0.4	0.1538	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 300, 0]	S	10	112	158	20	0.0066	0.082	0.3333	0.1316	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 300, 0]	S	15	120	150	15	0.0065	0.1111	0.5	0.1818	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 300, 0]	S	68	83	67	82	0.1763	0.4503	0.4533	0.4518	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 300, 0]	S	83	83	67	67	0.1655	0.5	0.5533	0.5253	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 300, 0]	S	66	69	81	84	0.1648	0.4889	0.44	0.4632	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 300, 0]	S	86	72	78	64	0.1742	0.5443	0.5733	0.5584	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.5, 'Asym', 300, 0]	S	71	68	82	79	0.1627	0.5108	0.4733	0.4913	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 500, 0]	S	19	187	263	31	0.0062	0.0922	0.38	0.1484	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 500, 0]	S	19	184	266	31	0.006	0.0936	0.38	0.1502	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 500, 0]	S	19	212	238	31	0.0061	0.0823	0.38	0.1352	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 500, 0]	S	19	202	248	31	0.0062	0.086	0.38	0.1402	{'SmallSample': True}
+['Pokerhand', 'PD', 0.1, 'Asym', 500, 0]	S	31	187	263	19	0.0061	0.1422	0.62	0.2313	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 100, 0]	S	0	28	67	5	0.062	0.0	0.0	0.0	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 100, 0]	S	2	28	67	3	0.0632	0.0667	0.4	0.1143	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 100, 0]	S	2	37	58	3	0.0621	0.0513	0.4	0.0909	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 100, 0]	S	1	29	66	4	0.062	0.0333	0.2	0.0571	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.05, 'Asym', 100, 0]	S	2	30	65	3	0.0588	0.0625	0.4	0.1081	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 500, 0]	S	48	176	224	52	0.0084	0.2143	0.48	0.2963	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 500, 0]	S	46	173	227	54	0.0087	0.21	0.46	0.2884	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 500, 0]	S	50	160	240	50	0.0084	0.2381	0.5	0.3226	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 500, 0]	S	46	172	228	54	0.0134	0.211	0.46	0.2893	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 500, 0]	S	45	156	244	55	0.0084	0.2239	0.45	0.299	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.05, 'Asym', 500, 0]	S	15	218	257	10	0.1959	0.0644	0.6	0.1163	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.05, 'Asym', 500, 0]	S	18	204	271	7	0.1838	0.0811	0.72	0.1457	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.05, 'Asym', 500, 0]	S	6	220	255	19	0.1863	0.0265	0.24	0.0478	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.05, 'Asym', 500, 0]	S	14	194	281	11	0.1832	0.0673	0.56	0.1202	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.05, 'Asym', 500, 0]	S	12	207	268	13	0.1826	0.0548	0.48	0.0984	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 500, 0]	S	49	71	229	151	0.1638	0.4083	0.245	0.3062	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 500, 0]	S	44	72	228	156	0.1592	0.3793	0.22	0.2785	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 500, 0]	S	49	72	228	151	0.1594	0.405	0.245	0.3053	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 500, 0]	S	56	72	228	144	0.1579	0.4375	0.28	0.3415	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 500, 0]	S	48	63	237	152	0.1586	0.4324	0.24	0.3087	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	11	31	39	19	0.0037	0.2619	0.3667	0.3056	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	14	27	43	16	0.0036	0.3415	0.4667	0.3944	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	11	28	42	19	0.0039	0.2821	0.3667	0.3188	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	13	28	42	17	0.0036	0.3171	0.4333	0.3662	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.3, 'Asym', 100, 0]	S	18	34	36	12	0.0035	0.3462	0.6	0.439	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 300, 0]	S	33	108	132	27	0.005	0.234	0.55	0.3284	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 300, 0]	S	32	98	142	28	0.005	0.2462	0.5333	0.3368	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 300, 0]	S	38	121	119	22	0.0051	0.239	0.6333	0.347	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 300, 0]	S	34	113	127	26	0.0049	0.2313	0.5667	0.3285	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 300, 0]	S	25	117	123	35	0.0049	0.1761	0.4167	0.2475	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 100, 0]	S	3	6	54	37	0.1221	0.3333	0.075	0.1224	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 100, 0]	S	2	5	55	38	0.1209	0.2857	0.05	0.0851	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 100, 0]	S	2	6	54	38	0.1215	0.25	0.05	0.0833	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 100, 0]	S	1	5	55	39	0.1224	0.1667	0.025	0.0435	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 100, 0]	S	2	7	53	38	0.1253	0.2222	0.05	0.0816	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 300, 0]	S	14	20	160	106	0.1385	0.4118	0.1167	0.1818	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 300, 0]	S	15	16	164	105	0.1389	0.4839	0.125	0.1987	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 300, 0]	S	19	26	154	101	0.1392	0.4222	0.1583	0.2303	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 300, 0]	S	10	29	151	110	0.1397	0.2564	0.0833	0.1258	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.4, 'Asym', 300, 0]	S	11	22	158	109	0.1371	0.3333	0.0917	0.1438	{'SmallSample': True}
+['Pokerhand', 'IH', 0.2, 'Asym', 100, 0]	S	7	46	34	13	0.0366	0.1321	0.35	0.1918	{'SmallSample': True}
+['Pokerhand', 'IH', 0.2, 'Asym', 100, 0]	S	12	34	46	8	0.033	0.2609	0.6	0.3636	{'SmallSample': True}
+['Pokerhand', 'IH', 0.2, 'Asym', 100, 0]	S	7	34	46	13	0.0364	0.1707	0.35	0.2295	{'SmallSample': True}
+['Pokerhand', 'IH', 0.2, 'Asym', 100, 0]	S	9	33	47	11	0.0424	0.2143	0.45	0.2903	{'SmallSample': True}
+['Pokerhand', 'IH', 0.2, 'Asym', 100, 0]	S	9	32	48	11	0.0355	0.2195	0.45	0.2951	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	31	73	137	59	0.0563	0.2981	0.3444	0.3196	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	38	84	126	52	0.0566	0.3115	0.4222	0.3585	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	28	86	124	62	0.0669	0.2456	0.3111	0.2745	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	30	83	127	60	0.0563	0.2655	0.3333	0.2956	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 300, 0]	S	39	74	136	51	0.0603	0.3451	0.4333	0.3842	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	53	143	207	97	0.1016	0.2704	0.3533	0.3064	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	56	132	218	94	0.0673	0.2979	0.3733	0.3314	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	56	143	207	94	0.0734	0.2814	0.3733	0.3209	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	53	136	214	97	0.0665	0.2804	0.3533	0.3127	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.3, 'Asym', 500, 0]	S	67	122	228	83	0.0766	0.3545	0.4467	0.3953	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Asym', 100, 0]	S	16	18	32	34	0.0599	0.4706	0.32	0.381	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Asym', 100, 0]	S	19	13	37	31	0.0561	0.5938	0.38	0.4634	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Asym', 100, 0]	S	18	12	38	32	0.0574	0.6	0.36	0.45	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Asym', 100, 0]	S	16	19	31	34	0.057	0.4571	0.32	0.3765	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Asym', 100, 0]	S	17	11	39	33	0.0588	0.6071	0.34	0.4359	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 300, 0]	S	82	74	76	68	0.0049	0.5256	0.5467	0.5359	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 300, 0]	S	77	68	82	73	0.0049	0.531	0.5133	0.522	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 300, 0]	S	83	75	75	67	0.0049	0.5253	0.5533	0.539	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 300, 0]	S	78	68	82	72	0.0051	0.5342	0.52	0.527	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 300, 0]	S	71	76	74	79	0.0048	0.483	0.4733	0.4781	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 500, 0]	S	77	114	186	123	0.0639	0.4031	0.385	0.3939	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 500, 0]	S	69	125	175	131	0.0615	0.3557	0.345	0.3503	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 500, 0]	S	88	104	196	112	0.065	0.4583	0.44	0.449	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 500, 0]	S	78	113	187	122	0.0725	0.4084	0.39	0.399	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 500, 0]	S	79	115	185	121	0.0611	0.4072	0.395	0.401	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 500, 0]	S	132	118	132	118	0.0871	0.528	0.528	0.528	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 500, 0]	S	131	120	130	119	0.0091	0.5219	0.524	0.523	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 500, 0]	S	125	113	137	125	0.009	0.5252	0.5	0.5123	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 500, 0]	S	137	129	121	113	0.0089	0.515	0.548	0.531	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.5, 'Asym', 500, 0]	S	136	109	141	114	0.0091	0.5551	0.544	0.5495	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 500, 0]	S	6	109	366	19	0.377	0.0522	0.24	0.0857	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 300, 0]	S	35	111	129	25	0.17	0.2397	0.5833	0.3398	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 300, 0]	S	27	115	125	33	0.1808	0.1901	0.45	0.2673	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 300, 0]	S	25	115	125	35	0.1664	0.1786	0.4167	0.25	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 300, 0]	S	33	128	112	27	0.1789	0.205	0.55	0.2986	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 300, 0]	S	31	95	145	29	0.1626	0.246	0.5167	0.3333	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 500, 0]	S	5	94	381	20	0.185	0.0505	0.2	0.0806	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 500, 0]	S	7	94	381	18	0.1787	0.0693	0.28	0.1111	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 500, 0]	S	7	114	361	18	0.1827	0.0579	0.28	0.0959	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 500, 0]	S	8	83	392	17	0.171	0.0879	0.32	0.1379	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	6	27	53	14	0.1713	0.1818	0.3	0.2264	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	5	22	58	15	0.0556	0.1852	0.25	0.2128	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	4	24	56	16	0.0576	0.1429	0.2	0.1667	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	8	27	53	12	0.0567	0.2286	0.4	0.2909	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.2, 'Asym', 100, 0]	S	6	25	55	14	0.0561	0.1935	0.3	0.2353	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.4, 'Asym', 300, 0]	S	46	87	93	74	0.0069	0.3459	0.3833	0.3636	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.4, 'Asym', 300, 0]	S	62	78	102	58	0.0057	0.4429	0.5167	0.4769	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.4, 'Asym', 300, 0]	S	61	79	101	59	0.0059	0.4357	0.5083	0.4692	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.4, 'Asym', 300, 0]	S	44	65	115	76	0.0055	0.4037	0.3667	0.3843	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.4, 'Asym', 300, 0]	S	54	77	103	66	0.0055	0.4122	0.45	0.4303	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 300, 0]	S	43	68	112	77	0.0848	0.3874	0.3583	0.3723	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 300, 0]	S	51	77	103	69	0.0631	0.3984	0.425	0.4113	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 300, 0]	S	49	59	121	71	0.0681	0.4537	0.4083	0.4298	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 300, 0]	S	44	78	102	76	0.0618	0.3607	0.3667	0.3636	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.4, 'Asym', 300, 0]	S	45	63	117	75	0.0649	0.4167	0.375	0.3947	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 300, 0]	S	59	100	80	61	0.232	0.3711	0.4917	0.4229	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 300, 0]	S	64	79	101	56	0.1608	0.4476	0.5333	0.4867	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 300, 0]	S	56	78	102	64	0.1606	0.4179	0.4667	0.4409	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 300, 0]	S	68	88	92	52	0.1609	0.4359	0.5667	0.4928	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 300, 0]	S	57	89	91	63	0.1603	0.3904	0.475	0.4286	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Asym', 500, 0]	S	24	214	236	26	0.0142	0.1008	0.48	0.1667	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Asym', 500, 0]	S	26	222	228	24	0.0219	0.1048	0.52	0.1745	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Asym', 500, 0]	S	33	219	231	17	0.0142	0.131	0.66	0.2185	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Asym', 500, 0]	S	19	233	217	31	0.0141	0.0754	0.38	0.1258	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Asym', 500, 0]	S	24	193	257	26	0.0186	0.1106	0.48	0.1798	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Asym', 100, 0]	S	13	27	33	27	0.0054	0.325	0.325	0.325	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Asym', 100, 0]	S	20	35	25	20	0.0054	0.3636	0.5	0.4211	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Asym', 100, 0]	S	25	36	24	15	0.0053	0.4098	0.625	0.495	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Asym', 100, 0]	S	18	32	28	22	0.0054	0.36	0.45	0.4	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Asym', 100, 0]	S	24	28	32	16	0.0072	0.4615	0.6	0.5217	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 100, 0]	S	11	40	40	9	0.2093	0.2157	0.55	0.3099	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 100, 0]	S	9	43	37	11	0.2114	0.1731	0.45	0.25	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 100, 0]	S	9	47	33	11	0.2336	0.1607	0.45	0.2368	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 100, 0]	S	9	37	43	11	0.2197	0.1957	0.45	0.2727	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.2, 'Asym', 100, 0]	S	12	35	45	8	0.2082	0.2553	0.6	0.3582	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 100, 0]	S	11	28	52	9	0.0039	0.2821	0.55	0.3729	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 100, 0]	S	16	32	48	4	0.0037	0.3333	0.8	0.4706	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 100, 0]	S	10	39	41	10	0.0036	0.2041	0.5	0.2899	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 100, 0]	S	10	37	43	10	0.0037	0.2128	0.5	0.2985	{'SmallSample': True}
+['Pokerhand', 'RkDN', 0.2, 'Asym', 100, 0]	S	9	36	44	11	0.0038	0.2	0.45	0.2769	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 300, 0]	S	4	34	251	11	0.1411	0.1053	0.2667	0.1509	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 300, 0]	S	2	27	258	13	0.1471	0.069	0.1333	0.0909	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 300, 0]	S	2	23	262	13	0.1546	0.08	0.1333	0.1	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 300, 0]	S	3	32	253	12	0.1404	0.0857	0.2	0.12	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.05, 'Asym', 300, 0]	S	3	41	244	12	0.1428	0.0682	0.2	0.1017	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 500, 0]	S	93	139	161	107	0.1774	0.4009	0.465	0.4306	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 500, 0]	S	108	150	150	92	0.1911	0.4186	0.54	0.4716	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 500, 0]	S	91	144	156	109	0.1891	0.3872	0.455	0.4184	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 500, 0]	S	104	144	156	96	0.1936	0.4194	0.52	0.4643	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Asym', 500, 0]	S	79	141	159	121	0.1897	0.3591	0.395	0.3762	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 100, 0]	S	12	39	41	8	0.0041	0.2353	0.6	0.338	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 100, 0]	S	11	44	36	9	0.0044	0.2	0.55	0.2933	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 100, 0]	S	11	31	49	9	0.0041	0.2619	0.55	0.3548	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 100, 0]	S	11	32	48	9	0.0042	0.2558	0.55	0.3492	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Asym', 100, 0]	S	11	38	42	9	0.0042	0.2245	0.55	0.3188	{'SmallSample': True}
+['Pokerhand', 'IH', 0.5, 'Asym', 500, 0]	S	119	117	133	131	0.0445	0.5042	0.476	0.4897	{'SmallSample': True}
+['Pokerhand', 'IH', 0.5, 'Asym', 500, 0]	S	121	114	136	129	0.0438	0.5149	0.484	0.499	{'SmallSample': True}
+['Pokerhand', 'IH', 0.5, 'Asym', 500, 0]	S	119	123	127	131	0.042	0.4917	0.476	0.4837	{'SmallSample': True}
+['Pokerhand', 'IH', 0.5, 'Asym', 500, 0]	S	140	123	127	110	0.0421	0.5323	0.56	0.5458	{'SmallSample': True}
+['Pokerhand', 'IH', 0.5, 'Asym', 500, 0]	S	132	131	119	118	0.0424	0.5019	0.528	0.5146	{'SmallSample': True}
+['Pokerhand', 'PD', 0.5, 'Asym', 500, 0]	S	93	111	139	157	0.0066	0.4559	0.372	0.4097	{'SmallSample': True}
+['Pokerhand', 'PD', 0.5, 'Asym', 500, 0]	S	107	109	141	143	0.0066	0.4954	0.428	0.4592	{'SmallSample': True}
+['Pokerhand', 'PD', 0.5, 'Asym', 500, 0]	S	125	112	138	125	0.0064	0.5274	0.5	0.5133	{'SmallSample': True}
+['Pokerhand', 'PD', 0.5, 'Asym', 500, 0]	S	101	103	147	149	0.0063	0.4951	0.404	0.4449	{'SmallSample': True}
+['Pokerhand', 'PD', 0.5, 'Asym', 500, 0]	S	116	102	148	134	0.0065	0.5321	0.464	0.4957	{'SmallSample': True}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	43	87	123	47	0.0062	0.3308	0.4778	0.3909	{'SmallSample': True}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	37	86	124	53	0.006	0.3008	0.4111	0.3474	{'SmallSample': True}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	36	80	130	54	0.0063	0.3103	0.4	0.3495	{'SmallSample': True}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	41	88	122	49	0.006	0.3178	0.4556	0.3744	{'SmallSample': True}
+['Pokerhand', 'PD', 0.3, 'Asym', 300, 0]	S	35	88	122	55	0.0061	0.2846	0.3889	0.3286	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.5, 'Asym', 500, 0]	S	65	63	187	185	0.1733	0.5078	0.26	0.3439	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.5, 'Asym', 500, 0]	S	56	61	189	194	0.1597	0.4786	0.224	0.3052	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.5, 'Asym', 500, 0]	S	63	47	203	187	0.1753	0.5727	0.252	0.35	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.5, 'Asym', 500, 0]	S	65	51	199	185	0.1591	0.5603	0.26	0.3552	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.5, 'Asym', 500, 0]	S	64	60	190	186	0.1571	0.5161	0.256	0.3422	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	19	32	38	11	0.0432	0.3725	0.6333	0.4691	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	18	37	33	12	0.0052	0.3273	0.6	0.4235	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	15	39	31	15	0.0049	0.2778	0.5	0.3571	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	17	36	34	13	0.0052	0.3208	0.5667	0.4096	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 100, 0]	S	15	32	38	15	0.0053	0.3191	0.5	0.3896	{'SmallSample': True}
+['Pokerhand', 'IH', 0.1, 'Asym', 100, 0]	S	3	56	34	7	0.05	0.0508	0.3	0.087	{'SmallSample': True}
+['Pokerhand', 'IH', 0.1, 'Asym', 100, 0]	S	6	42	48	4	0.049	0.125	0.6	0.2069	{'SmallSample': True}
+['Pokerhand', 'IH', 0.1, 'Asym', 100, 0]	S	6	45	45	4	0.0496	0.1176	0.6	0.1967	{'SmallSample': True}
+['Pokerhand', 'IH', 0.1, 'Asym', 100, 0]	S	5	54	36	5	0.0495	0.0847	0.5	0.1449	{'SmallSample': True}
+['Pokerhand', 'IH', 0.1, 'Asym', 100, 0]	S	7	49	41	3	0.0501	0.125	0.7	0.2121	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	81	162	188	69	0.0082	0.3333	0.54	0.4122	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	73	170	180	77	0.0081	0.3004	0.4867	0.3715	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	84	165	185	66	0.0081	0.3373	0.56	0.4211	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	73	182	168	77	0.0082	0.2863	0.4867	0.3605	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.3, 'Asym', 500, 0]	S	74	183	167	76	0.008	0.2879	0.4933	0.3636	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Sym', 100, 0]	S	21	33	27	19	0.0034	0.3889	0.525	0.4468	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Sym', 100, 0]	S	19	23	37	21	0.0034	0.4524	0.475	0.4634	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Sym', 100, 0]	S	26	36	24	14	0.0034	0.4194	0.65	0.5098	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Sym', 100, 0]	S	18	33	27	22	0.0034	0.3529	0.45	0.3956	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.4, 'Sym', 100, 0]	S	20	28	32	20	0.0034	0.4167	0.5	0.4545	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Sym', 100, 0]	S	16	17	33	34	0.0591	0.4848	0.32	0.3855	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Sym', 100, 0]	S	17	14	36	33	0.0614	0.5484	0.34	0.4198	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Sym', 100, 0]	S	20	14	36	30	0.0604	0.5882	0.4	0.4762	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Sym', 100, 0]	S	16	22	28	34	0.0615	0.4211	0.32	0.3636	{'SmallSample': True}
+['Pokerhand', 'MCS', 0.5, 'Sym', 100, 0]	S	19	17	33	31	0.0616	0.5278	0.38	0.4419	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	67	163	187	83	0.1812	0.2913	0.4467	0.3526	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	76	174	176	74	0.1763	0.304	0.5067	0.38	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	73	165	185	77	0.1854	0.3067	0.4867	0.3763	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	75	156	194	75	0.1746	0.3247	0.5	0.3937	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	86	169	181	64	0.1813	0.3373	0.5733	0.4247	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Asym', 500, 0]	S	63	173	177	87	0.1811	0.2669	0.42	0.3264	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Sym', 500, 0]	S	76	143	207	74	0.1881	0.347	0.5067	0.4119	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Sym', 500, 0]	S	78	167	183	72	0.176	0.3184	0.52	0.3949	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Sym', 500, 0]	S	78	164	186	72	0.1749	0.3223	0.52	0.398	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Sym', 500, 0]	S	67	180	170	83	0.1797	0.2713	0.4467	0.3375	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Sym', 500, 0]	S	65	137	213	85	0.186	0.3218	0.4333	0.3693	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.3, 'Sym', 500, 0]	S	77	179	171	73	0.1784	0.3008	0.5133	0.3793	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Sym', 500, 0]	S	17	103	347	33	0.1621	0.1417	0.34	0.2	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Sym', 500, 0]	S	10	90	360	40	0.1588	0.1	0.2	0.1333	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Sym', 500, 0]	S	12	96	354	38	0.1575	0.1111	0.24	0.1519	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Sym', 500, 0]	S	13	102	348	37	0.1591	0.113	0.26	0.1576	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Sym', 500, 0]	S	16	92	358	34	0.1572	0.1481	0.32	0.2025	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.1, 'Sym', 500, 0]	S	14	88	362	36	0.1624	0.1373	0.28	0.1842	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Sym', 500, 0]	S	24	208	242	26	0.0079	0.1034	0.48	0.1702	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Sym', 500, 0]	S	24	225	225	26	0.0079	0.0964	0.48	0.1605	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Sym', 500, 0]	S	25	198	252	25	0.0123	0.1121	0.5	0.1832	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Sym', 500, 0]	S	29	194	256	21	0.0079	0.13	0.58	0.2125	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Sym', 500, 0]	S	27	205	245	23	0.008	0.1164	0.54	0.1915	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.1, 'Sym', 500, 0]	S	31	224	226	19	0.0079	0.1216	0.62	0.2033	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Sym', 100, 0]	S	12	41	39	8	0.3626	0.2264	0.6	0.3288	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Sym', 100, 0]	S	9	44	36	11	0.0038	0.1698	0.45	0.2466	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Sym', 100, 0]	S	9	42	38	11	0.0037	0.1765	0.45	0.2535	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Sym', 100, 0]	S	13	49	31	7	0.0036	0.2097	0.65	0.3171	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Sym', 100, 0]	S	14	46	34	6	0.0038	0.2333	0.7	0.35	{'SmallSample': True}
+['Pokerhand', 'KDN', 0.2, 'Sym', 100, 0]	S	11	33	47	9	0.0039	0.25	0.55	0.3438	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.2, 'Sym', 100, 0]	S	2	5	75	18	0.1395	0.2857	0.1	0.1481	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.2, 'Sym', 100, 0]	S	1	7	73	19	0.1302	0.125	0.05	0.0714	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.2, 'Sym', 100, 0]	S	2	8	72	18	0.129	0.2	0.1	0.1333	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.2, 'Sym', 100, 0]	S	2	6	74	18	0.129	0.25	0.1	0.1429	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.2, 'Sym', 100, 0]	S	1	10	70	19	0.1283	0.0909	0.05	0.0645	{'SmallSample': True}
+['Pokerhand', 'FKDN', 0.2, 'Sym', 100, 0]	S	1	9	71	19	0.1289	0.1	0.05	0.0667	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Sym', 100, 0]	S	24	33	27	16	0.151	0.4211	0.6	0.4948	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Sym', 100, 0]	S	21	36	24	19	0.1508	0.3684	0.525	0.433	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Sym', 100, 0]	S	19	21	39	21	0.1504	0.475	0.475	0.475	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Sym', 100, 0]	S	15	29	31	25	0.1489	0.3409	0.375	0.3571	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Sym', 100, 0]	S	21	22	38	19	0.1482	0.4884	0.525	0.506	{'SmallSample': True}
+['Pokerhand', 'RFD', 0.4, 'Sym', 100, 0]	S	23	31	29	17	0.1509	0.4259	0.575	0.4894	{'SmallSample': True}

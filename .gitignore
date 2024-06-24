@@ -12,6 +12,14 @@ dataRaw/
 datasets/
 delete/
 temp/
+BA_output/
+benchmarks/
+benchmarks_small_sample/
+figuresNew/
+old_benchmarking/
+output/
+tablesNew/
+
 
 Notebooks/AE-for-Sebastian.ipynb
 

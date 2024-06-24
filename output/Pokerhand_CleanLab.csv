@@ -2798,3 +2798,63 @@
 ['Pokerhand', 'CleanLab', 0.2, 'Sym', 10000, 7]	S	894	3685	4315	1106	0.221	0.1952	0.447	0.2718	
 ['Pokerhand', 'CleanLab', 0.2, 'Sym', 10000, 8]	S	889	3540	4460	1111	0.2147	0.2007	0.4445	0.2766	
 ['Pokerhand', 'CleanLab', 0.2, 'Sym', 10000, 9]	S	824	3323	4677	1176	0.2108	0.1987	0.412	0.2681	
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	54	125	85	36	0.0336	0.3017	0.6	0.4015	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	49	108	102	41	0.0317	0.3121	0.5444	0.3968	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	46	97	113	44	0.0331	0.3217	0.5111	0.3948	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	47	88	122	43	0.0341	0.3481	0.5222	0.4178	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	46	97	113	44	0.0307	0.3217	0.5111	0.3948	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 100, 0]	S	12	31	39	18	0.0255	0.2791	0.4	0.3288	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 100, 0]	S	15	37	33	15	0.0261	0.2885	0.5	0.3659	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 100, 0]	S	14	23	47	16	0.0256	0.3784	0.4667	0.4179	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 100, 0]	S	13	31	39	17	0.0253	0.2955	0.4333	0.3514	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 100, 0]	S	10	30	40	20	0.0245	0.25	0.3333	0.2857	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	71	167	183	79	0.0205	0.2983	0.4733	0.366	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	74	170	180	76	0.0236	0.3033	0.4933	0.3756	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	58	143	207	92	0.0346	0.2886	0.3867	0.3305	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	61	128	222	89	0.0266	0.3228	0.4067	0.3599	{}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	79	147	203	71	0.022	0.3496	0.5267	0.4202	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 500, 0]	S	135	127	123	115	0.0227	0.5153	0.54	0.5273	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 500, 0]	S	134	131	119	116	0.0217	0.5057	0.536	0.5204	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 500, 0]	S	111	108	142	139	0.0207	0.5068	0.444	0.4733	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 500, 0]	S	139	118	132	111	0.0208	0.5409	0.556	0.5483	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 500, 0]	S	123	131	119	127	0.0209	0.4843	0.492	0.4881	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 100, 0]	S	21	24	26	29	0.0248	0.4667	0.42	0.4421	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 100, 0]	S	22	23	27	28	0.0142	0.4889	0.44	0.4632	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 100, 0]	S	24	23	27	26	0.0153	0.5106	0.48	0.4948	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 100, 0]	S	31	28	22	19	0.0154	0.5254	0.62	0.5688	{}
+['Pokerhand', 'CleanLab', 0.5, 'Asym', 100, 0]	S	25	18	32	25	0.0146	0.5814	0.5	0.5376	{}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	25	26	34	15	0.0161	0.4902	0.625	0.5495	{}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	20	27	33	20	0.0155	0.4255	0.5	0.4598	{}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	19	26	34	21	0.0153	0.4222	0.475	0.4471	{}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	24	36	24	16	0.0165	0.4	0.6	0.48	{}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	18	33	27	22	0.0152	0.3529	0.45	0.3956	{}
+['Pokerhand', 'CleanLab', 0.05, 'Asym', 100, 0]	S	1	53	42	4	0.0148	0.0185	0.2	0.0339	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.05, 'Asym', 100, 0]	S	2	42	53	3	0.014	0.0455	0.4	0.0816	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.05, 'Asym', 100, 0]	S	1	55	40	4	0.0155	0.0179	0.2	0.0328	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.05, 'Asym', 100, 0]	S	3	53	42	2	0.0144	0.0536	0.6	0.0984	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.05, 'Asym', 100, 0]	S	3	39	56	2	0.0148	0.0714	0.6	0.1277	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	36	78	132	54	0.0364	0.3158	0.4	0.3529	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	42	100	110	48	0.0324	0.2958	0.4667	0.3621	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	47	109	101	43	0.0329	0.3013	0.5222	0.3821	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	45	87	123	45	0.0511	0.3409	0.5	0.4054	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 300, 0]	S	44	116	94	46	0.0326	0.275	0.4889	0.352	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	81	181	169	69	0.0402	0.3092	0.54	0.3932	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	66	151	199	84	0.0396	0.3041	0.44	0.3597	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	63	170	180	87	0.0404	0.2704	0.42	0.329	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	66	191	159	84	0.0416	0.2568	0.44	0.3243	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.3, 'Asym', 500, 0]	S	75	179	171	75	0.0407	0.2953	0.5	0.3713	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 100, 0]	S	2	45	45	8	0.0145	0.0426	0.2	0.0702	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 100, 0]	S	2	28	62	8	0.014	0.0667	0.2	0.1	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 100, 0]	S	5	45	45	5	0.0143	0.1	0.5	0.1667	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 100, 0]	S	3	53	37	7	0.0141	0.0536	0.3	0.0909	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 100, 0]	S	2	23	67	8	0.0172	0.08	0.2	0.1143	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 300, 0]	S	16	145	125	14	0.0168	0.0994	0.5333	0.1675	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 300, 0]	S	16	124	146	14	0.0189	0.1143	0.5333	0.1882	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 300, 0]	S	8	75	195	22	0.0173	0.0964	0.2667	0.1416	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 300, 0]	S	11	115	155	19	0.0175	0.0873	0.3667	0.141	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.1, 'Asym', 300, 0]	S	13	129	141	17	0.0166	0.0915	0.4333	0.1512	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	28	32	28	12	0.0209	0.4667	0.7	0.56	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	16	20	40	24	0.0255	0.4444	0.4	0.4211	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	16	22	38	24	0.0204	0.4211	0.4	0.4103	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	19	33	27	21	0.021	0.3654	0.475	0.413	{'SmallSample': True}
+['Pokerhand', 'CleanLab', 0.4, 'Asym', 100, 0]	S	21	21	39	19	0.0256	0.5	0.525	0.5122	{'SmallSample': True}

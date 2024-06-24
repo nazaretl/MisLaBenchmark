@@ -37,6 +37,9 @@ plusLayers =  int(snakemake.params.plusLayers)
 learningRate = float(snakemake.params.learningRate)
 scaling = eval(snakemake.params.scaling)
 loss = snakemake.params.loss
+selection = snakemake.params.selection
+
+#selection = True
 
 di = {'Real' : 2, 'Sym':1, 'Asym' :1}
 
@@ -44,9 +47,11 @@ df = pd.read_csv('datasets/' + name + '.csv.gz', sep = '\t',compression='zip',
                 index_col=None)
 
 df = df.fillna(0)
+df = df[[i for i in df if df[i].nunique()>1]]
+
 if scaling:
     scaler = StandardScaler()        
-    n = 2 if name in ['ClinVarReal'] else 1
+    n = 2 if name in ['ClinVarReal', 'ClinVarRealPCA'] else 1
     scaler = scaler.fit(df.iloc[:,:-n])
 
 ID = [name, model, noiseLevel, noiseType,datasetSize]
@@ -56,7 +61,7 @@ try:
     for r in range(repeats):
         
         status = 'F' # F:Failure S: Success N: No noise found
-        ExtraInfo = ""
+        ExtraInfo = {}
         ID = [name, model, noiseLevel, noiseType,datasetSize,r]
         X, y, noisyLabels = getData(df,name, noiseType, noiseLevel, datasetSize)
         
@@ -75,7 +80,6 @@ try:
             foundNoiseInd = getRModel(dR, y, noisyLabels,model = [model])
         if model=='ERL':
             foundNoiseInd, metrics = DNNwERLLoss(X,y,noisyLabels,beta,plusLayers,learningRate, loss)
-            ExtraInfo = {}
             ExtraInfo.update({'beta' :beta, 'plusLayers' :plusLayers, 'learningRate' : learningRate, 'scaling' : scaling,
                               'loss' : loss, 
                             #  'metrics' : metrics
@@ -85,20 +89,24 @@ try:
             foundNoiseInd, cms = AEFilter(X,y,noisyLabels)
           #  ExtraInfo = 'cms:{}'.format(cms)
             
-        
+        t1 = time()
+
         cv, scores = confusionMatrixScikit(y,noiseInd, foundNoiseInd)
         
         if len(foundNoiseInd)==0:
             status = 'N'
         else:
             status = 'S'
+            
+        if selection:
+            ExtraInfo.update({'SmallSample':True})
+
         
         
         cv.index = [model]
         scores.index = [model]
         cv.insert(0,'Status',status)
 
-        t1 = time()
         totalTime = t1-t0
         cv['Execution Time'] = totalTime
         

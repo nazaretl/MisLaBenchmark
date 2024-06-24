@@ -60,27 +60,31 @@ def confusionMatrixScikit(y,noiseInd,filteredNoiseInd):
        
     return cv, scores
 
-def getData(dfAll,name, a, noise_level,size):
+def getData(dfAll,name, a, noise_level,size,testAll=True):
     N = min(len(dfAll), size)
     ind = random.sample(range(len(dfAll)), N)
-    if name in ['ClinVarReal', 'EncodeReal']:
-        
-        nErrors = int(noise_level*N)
-        dfClean = dfAll[dfAll['LabelNew']==dfAll['LabelOld']]
-        dfNoisy = dfAll[dfAll['LabelNew']!=dfAll['LabelOld']]
-        
-        if (len(dfClean)-N-nErrors) > 0:
-            indClean = random.sample(list(dfClean.index), N-nErrors)
-        else:
-            indClean = random.choices(list(dfClean.index),k = N-nErrors)
+    if name in ['ClinVarReal', 'EncodeReal','ClinVarRealPCA', 'CADD']:
+        if testAll:
+            df = dfAll.sample(N)
+            print('Sampling all data, no noise level adjustment')
 
-        if (len(dfNoisy) - nErrors) > 0:
-            indNoisy = random.sample(list(dfNoisy.index), nErrors)
         else:
-            indNoisy = random.choices(list(dfNoisy.index), k = nErrors)
-            
-        ind = indClean + indNoisy
-        df = dfAll.iloc[ind,:].reset_index(drop = True).sample(frac=1)
+            nErrors = int(noise_level*N)
+            dfClean = dfAll[dfAll['LabelNew']==dfAll['LabelOld']]
+            dfNoisy = dfAll[dfAll['LabelNew']!=dfAll['LabelOld']]
+
+            if (len(dfClean)-N-nErrors) > 0:
+                indClean = random.sample(list(dfClean.index), N-nErrors)
+            else:
+                indClean = random.choices(list(dfClean.index),k = N-nErrors)
+
+            if (len(dfNoisy) - nErrors) > 0:
+                indNoisy = random.sample(list(dfNoisy.index), nErrors)
+            else:
+                indNoisy = random.choices(list(dfNoisy.index), k = nErrors)
+
+            ind = indClean + indNoisy
+            df = dfAll.iloc[ind,:].reset_index(drop = True).sample(frac=1)
 
         X = df.iloc[:,:-2]
         y = df.loc[:,'LabelNew'].astype(int)
@@ -90,6 +94,7 @@ def getData(dfAll,name, a, noise_level,size):
     else:
 
         df = dfAll.iloc[ind,:].reset_index(drop = True)
+        
         X = df.iloc[:,:-1]#.reset_index(drop = True)
         y = df.loc[:,'Label'].astype(int)#.reset_index(drop = True)
         uniform, cc, bcn = addNoiseScikit(X.fillna(0), y, noise_level = noise_level)

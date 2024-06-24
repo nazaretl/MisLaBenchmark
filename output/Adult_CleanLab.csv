@@ -1876,3 +1876,73 @@
 ['Adult', 'CleanLab', 0.7, 'Sym', 10000, 2]	S	850	1367	1633	6150	0.3202	0.3834	0.1214	0.1844	
 ['Adult', 'CleanLab', 0.7, 'Sym', 10000, 3]	S	894	1363	1637	6106	0.3489	0.3961	0.1277	0.1932	
 ['Adult', 'CleanLab', 0.7, 'Sym', 10000, 4]	S	891	1455	1545	6109	0.3536	0.3798	0.1273	0.1907	
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	51	25	185	39	0.0429	0.6711	0.5667	0.6145	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	14	14	56	16	0.0559	0.5	0.4667	0.4828	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	45	38	172	45	0.0432	0.5422	0.5	0.5202	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	54	28	182	36	0.0417	0.6585	0.6	0.6279	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	17	9	61	13	0.0323	0.6538	0.5667	0.6071	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	45	27	183	45	0.0566	0.625	0.5	0.5556	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	19	14	56	11	0.0312	0.5758	0.6333	0.6032	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	49	23	187	41	0.0434	0.6806	0.5444	0.6049	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	19	9	61	11	0.0325	0.6786	0.6333	0.6552	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	18	16	54	12	0.0333	0.5294	0.6	0.5625	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	162	49	651	138	0.0923	0.7678	0.54	0.6341	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	144	65	635	156	0.0969	0.689	0.48	0.5658	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	160	94	606	140	0.0829	0.6299	0.5333	0.5776	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	154	72	628	146	0.1022	0.6814	0.5133	0.5856	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	161	74	626	139	0.1024	0.6851	0.5367	0.6019	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	68	46	304	82	0.0546	0.5965	0.4533	0.5152	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	93	54	296	57	0.0763	0.6327	0.62	0.6263	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	81	37	313	69	0.0613	0.6864	0.54	0.6045	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	83	47	303	67	0.0551	0.6385	0.5533	0.5929	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	78	40	310	72	0.0502	0.661	0.52	0.5821	{'BenchmarkAdult': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	18	20	50	12	0.1021	0.4737	0.6	0.5294	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	22	14	56	8	0.0295	0.6111	0.7333	0.6667	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	23	19	51	7	0.0309	0.5476	0.7667	0.6389	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	16	13	57	14	0.0337	0.5517	0.5333	0.5424	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 100, 0]	S	19	19	51	11	0.0311	0.5	0.6333	0.5588	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	79	51	299	71	0.0586	0.6077	0.5267	0.5643	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	88	54	296	62	0.0554	0.6197	0.5867	0.6027	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	88	44	306	62	0.0654	0.6667	0.5867	0.6241	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	78	38	312	72	0.0785	0.6724	0.52	0.5865	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	69	41	309	81	0.0494	0.6273	0.46	0.5308	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	49	27	183	41	0.0629	0.6447	0.5444	0.5904	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	46	39	171	44	0.0599	0.5412	0.5111	0.5257	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	57	34	176	33	0.0658	0.6264	0.6333	0.6298	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	46	44	166	44	0.0575	0.5111	0.5111	0.5111	{}
+['Adult', 'CleanLab', 0.3, 'Asym', 300, 0]	S	57	25	185	33	0.0675	0.6951	0.6333	0.6628	{}
+['Adult', 'CleanLab', 0.5, 'Asym', 300, 0]	S	96	29	121	54	0.0537	0.768	0.64	0.6982	{}
+['Adult', 'CleanLab', 0.5, 'Asym', 300, 0]	S	91	24	126	59	0.0468	0.7913	0.6067	0.6868	{}
+['Adult', 'CleanLab', 0.5, 'Asym', 300, 0]	S	91	37	113	59	0.0587	0.7109	0.6067	0.6547	{}
+['Adult', 'CleanLab', 0.5, 'Asym', 300, 0]	S	92	41	109	58	0.049	0.6917	0.6133	0.6502	{}
+['Adult', 'CleanLab', 0.5, 'Asym', 300, 0]	S	92	23	127	58	0.0461	0.8	0.6133	0.6943	{}
+['Adult', 'CleanLab', 0.4, 'Asym', 300, 0]	S	72	38	142	48	0.0457	0.6545	0.6	0.6261	{}
+['Adult', 'CleanLab', 0.4, 'Asym', 300, 0]	S	71	20	160	49	0.0471	0.7802	0.5917	0.673	{}
+['Adult', 'CleanLab', 0.4, 'Asym', 300, 0]	S	72	30	150	48	0.0531	0.7059	0.6	0.6486	{}
+['Adult', 'CleanLab', 0.4, 'Asym', 300, 0]	S	62	30	150	58	0.0475	0.6739	0.5167	0.5849	{}
+['Adult', 'CleanLab', 0.4, 'Asym', 300, 0]	S	78	28	152	42	0.0471	0.7358	0.65	0.6903	{}
+['Adult', 'CleanLab', 0.05, 'Asym', 100, 0]	S	3	14	81	2	0.0812	0.1765	0.6	0.2727	{'SmallSample': True}
+['Adult', 'CleanLab', 0.05, 'Asym', 100, 0]	S	2	15	80	3	0.0567	0.1176	0.4	0.1818	{'SmallSample': True}
+['Adult', 'CleanLab', 0.05, 'Asym', 100, 0]	S	1	8	87	4	0.0304	0.1111	0.2	0.1429	{'SmallSample': True}
+['Adult', 'CleanLab', 0.05, 'Asym', 100, 0]	S	1	20	75	4	0.0355	0.0476	0.2	0.0769	{'SmallSample': True}
+['Adult', 'CleanLab', 0.05, 'Asym', 100, 0]	S	1	12	83	4	0.0323	0.0769	0.2	0.1111	{'SmallSample': True}
+['Adult', 'CleanLab', 0.5, 'Asym', 100, 0]	S	32	21	29	18	0.0327	0.6038	0.64	0.6214	{'SmallSample': True}
+['Adult', 'CleanLab', 0.5, 'Asym', 100, 0]	S	37	19	31	13	0.036	0.6607	0.74	0.6981	{'SmallSample': True}
+['Adult', 'CleanLab', 0.5, 'Asym', 100, 0]	S	34	20	30	16	0.0323	0.6296	0.68	0.6538	{'SmallSample': True}
+['Adult', 'CleanLab', 0.5, 'Asym', 100, 0]	S	41	24	26	9	0.0337	0.6308	0.82	0.713	{'SmallSample': True}
+['Adult', 'CleanLab', 0.5, 'Asym', 100, 0]	S	19	11	39	31	0.0307	0.6333	0.38	0.475	{'SmallSample': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	92	47	303	58	0.0665	0.6619	0.6133	0.6367	{'SmallSample': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	78	40	310	72	0.0666	0.661	0.52	0.5821	{'SmallSample': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	82	40	310	68	0.0663	0.6721	0.5467	0.6029	{'SmallSample': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	79	58	292	71	0.0589	0.5766	0.5267	0.5505	{'SmallSample': True}
+['Adult', 'CleanLab', 0.3, 'Asym', 500, 0]	S	95	46	304	55	0.0707	0.6738	0.6333	0.6529	{'SmallSample': True}
+['Adult', 'CleanLab', 0.4, 'Asym', 100, 0]	S	24	21	39	16	0.3645	0.5333	0.6	0.5647	{'SmallSample': True}
+['Adult', 'CleanLab', 0.4, 'Asym', 100, 0]	S	27	16	44	13	0.0425	0.6279	0.675	0.6506	{'SmallSample': True}
+['Adult', 'CleanLab', 0.4, 'Asym', 100, 0]	S	26	26	34	14	0.0436	0.5	0.65	0.5652	{'SmallSample': True}
+['Adult', 'CleanLab', 0.4, 'Asym', 100, 0]	S	27	18	42	13	0.0443	0.6	0.675	0.6353	{'SmallSample': True}
+['Adult', 'CleanLab', 0.4, 'Asym', 100, 0]	S	31	16	44	9	0.0427	0.6596	0.775	0.7126	{'SmallSample': True}
+['Adult', 'CleanLab', 0.1, 'Asym', 300, 0]	S	17	46	224	13	0.0435	0.2698	0.5667	0.3656	{'SmallSample': True}
+['Adult', 'CleanLab', 0.1, 'Asym', 300, 0]	S	20	46	224	10	0.0512	0.303	0.6667	0.4167	{'SmallSample': True}
+['Adult', 'CleanLab', 0.1, 'Asym', 300, 0]	S	12	30	240	18	0.0421	0.2857	0.4	0.3333	{'SmallSample': True}
+['Adult', 'CleanLab', 0.1, 'Asym', 300, 0]	S	14	44	226	16	0.047	0.2414	0.4667	0.3182	{'SmallSample': True}
+['Adult', 'CleanLab', 0.1, 'Asym', 300, 0]	S	16	42	228	14	0.0512	0.2759	0.5333	0.3636	{'SmallSample': True}

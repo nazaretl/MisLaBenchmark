@@ -1,0 +1,40 @@
+Abbreviation	Package	Full name	Group	Note	Reference	Included
+PD	Scikit-Clean	Partitioning Detector	Ensemble	data variation	 Khoshgoftaar and Rebours (2007)	yes
+MCS	Scikit-Clean	Markov Chain Sampling framework	Single	 	Zhao et al. (2018)	yes
+IH	Scikit-Clean	Instance Hardness	Ensemble	 	Walmsley et al. (2018)	yes
+RkDN	Scikit-Clean	Repeated k-Disagreeing Neighbors	Similarity	 	Walmsley et al. (2018)	yes
+FKDN	Scikit-Clean	Forest k-Disagreeing Neighbors	Similarity	 	Walmsley et al. (2018)	yes
+RFD	Scikit-Clean	 	Ensemble	 	Sabzevari et al. (2018)	yes
+KDN	Scikit-Clean	k-Disagreeing Neighbors	Similarity	 	Walmsley et al. (2018)	yes
+C45vF	NoiseFiltersR	C45-based voting Filter	Ensemble	data variation	Verbaeten (2002)	yes
+ORBF	NoiseFiltersR	Outlier Removal Boosting Filter	Ensemble	 	Karmaker and Kwek (2005)	yes
+CVCF	NoiseFiltersR	Cross-Validated Committees Filter	Ensemble	 	Verbaeten and Van Assche(2003)	yes
+C45itF	NoiseFiltersR	C45-based iterated Voting Filter	Ensemble	data variation	Verbaeten (2002)	no
+IPF	NoiseFiltersR	Iterative Partitioning Filter	Ensemble	 	Khoshgoftaar and Rebours (2007) , Zhu et al. (2003)	yes
+CNN	NoiseFiltersR	Condensed Nearest Neighbors	Similarity	 	(Hart, 1968)	yes
+C45rF	NoiseFiltersR	C45 based robust Filter	Single	 	Verbaeten (2002)	yes
+HARF	NoiseFiltersR	High Agreement Random Forest	Ensemble	 	Sluban et al. (2010)	yes
+BBNR	NoiseFiltersR	Blame Based Noise Reduction	Similarity	 	Delany and Cunningham (2004)	yes
+PRISM	NoiseFiltersR	PReprocessing Instances that Should be Misclassified	Similarity	 	Smith and Martinez (2011)	no
+TomekLinks	NoiseFiltersR	Tomek Links	Similarity	 	Tomek (1976), Lorena et al. (2002)	no
+PF	NoiseFiltersR	Partitioning Filter	Ensemble	 	Zhu et. Al (2003, 2006)	no
+hybridRepairFilter	NoiseFiltersR	Hybrid Repair-Remove Filter	Ensemble	 	Miranda et al. 2009	yes
+dynamicCF	NoiseFiltersR	Dynamic Classification Filter	Ensemble	classifier variation	Garcia et al. (2012)	no
+INFFC	NoiseFiltersR	Iterative Noise Filter based on the Fusion of Classifiers	Ensemble	 	 Sáez et al. (2016)	no
+DROP1	NoiseFiltersR	Decremental Reduction Optimization Procedures	Similarity	 	Wilson and Martinez (2000)	no
+EF	NoiseFiltersR	Ensemble Filter	Ensemble	classifier variation	Brodley and Friedl (1999)	no
+DROP2	NoiseFiltersR	Decremental Reduction Optimization Procedures	Similarity	 	Wilson and Martinez (2000)	no
+GE	NoiseFiltersR	Generalized Edition	Similarity	 	 Koplowitz and Brown (1981)	no
+DROP3	NoiseFiltersR	Decremental Reduction Optimization Procedures	Similarity	 	Wilson and Martinez (2000)	no
+consensusSF	NoiseFiltersR	Saturation Filters	Single	data complexity	Gamberger et al. (1999)	no
+classifSF	NoiseFiltersR	Saturation Filters	Single	data complexity	Gamberger et al. (1999)	no
+edgeBoostFilter	NoiseFiltersR	Edge Boosting Filter	Similarity	 	Freund and Schapire (1997), Wheway  (2001)	no
+AENN	NoiseFiltersR	All-k Edited Nearest Neighbors	Similarity	 	Wilson (1972)	yes
+ENN	NoiseFiltersR	Edited Nearest Neighbors	Similarity	 	Wilson (1972)	yes
+RNN	NoiseFiltersR	Reduced Nearest Neighbors	Similarity	 	Gates (1972)	no
+ModeFilter	NoiseFiltersR	Mode Filter	Similarity	 	Du and Urahama (2010)	no
+ENG	NoiseFiltersR	Editing with Neighbor Graphs	Similarity	graph-based	Sánchez et al. (1997)	no
+saturationFilter	NoiseFiltersR	Saturation Filters	Single	data complexity	Gamberger et al. (1999)	no
+EWF	NoiseFiltersR	Edge Weight Filter	Similarity	graph-based	Muhlenbach et al. (1994)	no
+ERL	GitHub	Early-Learning Regularization	Single	neural network	Liu at al. (2020)	yes
+CleanLab	CleanLab	CleanLab	Single	 	Northcutt et al. (2019)	yes

@@ -23563,3 +23563,437 @@
 ['HEPMASS', 'IH', 0.6, 'Asym', 3000, 7]	S	1017	383	817	783	0.6922	0.7264	0.565	0.6356	
 ['HEPMASS', 'IH', 0.6, 'Asym', 3000, 8]	S	989	409	791	811	0.7298	0.7074	0.5494	0.6185	
 ['HEPMASS', 'IH', 0.6, 'Asym', 3000, 9]	S	930	391	809	870	0.7179	0.704	0.5167	0.596	
+['HEPMASS', 'RkDN', 0.3, 'Asym', 300, 0]	S	42	48	162	48	0.1221	0.4667	0.4667	0.4667	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 300, 0]	S	54	60	150	36	0.1925	0.4737	0.6	0.5294	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 300, 0]	S	54	55	155	36	0.1242	0.4954	0.6	0.5427	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 300, 0]	S	48	50	160	42	0.2141	0.4898	0.5333	0.5106	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 300, 0]	S	52	40	170	38	0.1329	0.5652	0.5778	0.5714	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 300, 0]	S	60	70	140	30	0.1914	0.4615	0.6667	0.5455	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 300, 0]	S	52	57	153	38	0.1818	0.4771	0.5778	0.5226	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 300, 0]	S	63	57	153	27	0.1899	0.525	0.7	0.6	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 300, 0]	S	52	43	167	38	0.1257	0.5474	0.5778	0.5622	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 300, 0]	S	53	43	167	37	0.186	0.5521	0.5889	0.5699	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	47	18	192	43	0.0988	0.7231	0.5222	0.6065	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	48	22	188	42	0.1086	0.6857	0.5333	0.6	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	45	14	196	45	0.0974	0.7627	0.5	0.604	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	83	87	263	67	0.1333	0.4882	0.5533	0.5188	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	42	24	186	48	0.1038	0.6364	0.4667	0.5385	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	93	67	283	57	0.1338	0.5812	0.62	0.6	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	48	16	194	42	0.0993	0.75	0.5333	0.6234	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	105	91	259	45	0.1251	0.5357	0.7	0.6069	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	93	83	267	57	0.127	0.5284	0.62	0.5706	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 300, 0]	S	63	37	173	27	0.1958	0.63	0.7	0.6632	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	86	96	254	64	0.1248	0.4725	0.5733	0.5181	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 300, 0]	S	56	38	172	34	0.19	0.5957	0.6222	0.6087	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 300, 0]	S	63	35	175	27	0.1913	0.6429	0.7	0.6702	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 300, 0]	S	62	35	175	28	0.197	0.6392	0.6889	0.6631	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 300, 0]	S	54	41	169	36	0.196	0.5684	0.6	0.5838	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 500, 0]	S	84	94	256	66	0.1299	0.4719	0.56	0.5122	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 500, 0]	S	93	89	261	57	0.1239	0.511	0.62	0.5602	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 500, 0]	S	95	99	251	55	0.1272	0.4897	0.6333	0.5523	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 500, 0]	S	92	76	274	58	0.1279	0.5476	0.6133	0.5786	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	74	23	327	76	0.1006	0.7629	0.4933	0.5992	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 500, 0]	S	81	69	281	69	0.1262	0.54	0.54	0.54	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	82	44	306	68	0.1114	0.6508	0.5467	0.5942	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	85	33	317	65	0.0961	0.7203	0.5667	0.6343	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	88	38	312	62	0.1102	0.6984	0.5867	0.6377	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	85	40	310	65	0.0976	0.68	0.5667	0.6182	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 100, 0]	S	6	2	68	24	0.1393	0.75	0.2	0.3158	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 100, 0]	S	3	2	68	27	0.1293	0.6	0.1	0.1714	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 100, 0]	S	7	1	69	23	0.1277	0.875	0.2333	0.3684	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 100, 0]	S	1	2	68	29	0.127	0.3333	0.0333	0.0606	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 100, 0]	S	6	1	69	24	0.1293	0.8571	0.2	0.3243	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	98	39	311	52	0.2431	0.7153	0.6533	0.6829	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	98	65	285	52	0.245	0.6012	0.6533	0.6262	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	99	53	297	51	0.2343	0.6513	0.66	0.6556	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	92	48	302	58	0.2447	0.6571	0.6133	0.6345	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	103	71	279	47	0.25	0.592	0.6867	0.6358	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 100, 0]	S	21	19	51	9	0.2692	0.525	0.7	0.6	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 100, 0]	S	21	12	58	9	0.2442	0.6364	0.7	0.6667	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 100, 0]	S	20	8	62	10	0.2735	0.7143	0.6667	0.6897	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 100, 0]	S	22	19	51	8	0.2564	0.5366	0.7333	0.6197	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 100, 0]	S	18	8	62	12	0.2679	0.6923	0.6	0.6429	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 100, 0]	S	13	4	66	17	0.0767	0.7647	0.4333	0.5532	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 100, 0]	S	11	3	67	19	0.0903	0.7857	0.3667	0.5	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 100, 0]	S	12	7	63	18	0.0944	0.6316	0.4	0.4898	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 100, 0]	S	15	2	68	15	0.071	0.8824	0.5	0.6383	{}
+['HEPMASS', 'MCS', 0.3, 'Asym', 100, 0]	S	15	1	69	15	0.0816	0.9375	0.5	0.6522	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 100, 0]	S	16	16	54	14	0.1508	0.5	0.5333	0.5161	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 100, 0]	S	20	11	59	10	0.1512	0.6452	0.6667	0.6557	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 100, 0]	S	20	6	64	10	0.1546	0.7692	0.6667	0.7143	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 100, 0]	S	19	6	64	11	0.1515	0.76	0.6333	0.6909	{}
+['HEPMASS', 'RFD', 0.3, 'Asym', 100, 0]	S	20	18	52	10	0.1652	0.5263	0.6667	0.5882	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 300, 0]	S	62	31	179	28	0.1877	0.6667	0.6889	0.6776	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 300, 0]	S	61	32	178	29	0.1797	0.6559	0.6778	0.6667	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 300, 0]	S	66	45	165	24	0.1834	0.5946	0.7333	0.6567	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 300, 0]	S	61	30	180	29	0.1936	0.6703	0.6778	0.674	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 300, 0]	S	65	34	176	25	0.1965	0.6566	0.7222	0.6878	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	20	23	47	10	0.2083	0.4651	0.6667	0.5479	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	16	21	49	14	0.1923	0.4324	0.5333	0.4776	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	19	17	53	11	0.1947	0.5278	0.6333	0.5758	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	16	20	50	14	0.1923	0.4444	0.5333	0.4848	{}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	22	28	42	8	0.2115	0.44	0.7333	0.55	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 300, 0]	S	16	2	208	74	0.2539	0.8889	0.1778	0.2963	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 300, 0]	S	12	2	208	78	0.2644	0.8571	0.1333	0.2308	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	93	52	298	57	0.0151	0.6414	0.62	0.6305	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 300, 0]	S	18	6	204	72	0.2482	0.75	0.2	0.3158	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	108	54	296	42	0.0128	0.6667	0.72	0.6923	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 300, 0]	S	21	7	203	69	0.2468	0.75	0.2333	0.3559	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	93	46	304	57	0.0077	0.6691	0.62	0.6436	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 300, 0]	S	18	4	206	72	0.2489	0.8182	0.2	0.3214	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	88	80	270	62	0.008	0.5238	0.5867	0.5535	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	81	79	271	69	0.0079	0.5062	0.54	0.5226	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 100, 0]	S	14	10	60	16	0.0062	0.5833	0.4667	0.5185	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 100, 0]	S	14	3	67	16	0.0061	0.8235	0.4667	0.5957	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 100, 0]	S	10	12	58	20	0.0061	0.4545	0.3333	0.3846	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 100, 0]	S	12	23	47	18	0.0061	0.3429	0.4	0.3692	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 100, 0]	S	12	9	61	18	0.0063	0.5714	0.4	0.4706	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	57	24	186	33	0.0104	0.7037	0.6333	0.6667	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	55	27	183	35	0.0103	0.6707	0.6111	0.6395	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	53	45	165	37	0.01	0.5408	0.5889	0.5638	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	53	20	190	37	0.0103	0.726	0.5889	0.6503	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	49	54	156	41	0.0103	0.4757	0.5444	0.5078	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 500, 0]	S	92	73	277	58	0.211	0.5576	0.6133	0.5841	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 500, 0]	S	102	66	284	48	0.1977	0.6071	0.68	0.6415	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 500, 0]	S	113	63	287	37	0.2374	0.642	0.7533	0.6933	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 500, 0]	S	102	57	293	48	1.5296	0.6415	0.68	0.6602	{}
+['HEPMASS', 'IH', 0.3, 'Asym', 500, 0]	S	105	50	300	45	0.2136	0.6774	0.7	0.6885	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	16	21	49	14	0.1486	0.4324	0.5333	0.4776	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	16	12	58	14	0.1338	0.5714	0.5333	0.5517	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	16	23	47	14	0.1496	0.4103	0.5333	0.4638	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	17	18	52	13	0.1316	0.4857	0.5667	0.5231	{}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	22	13	57	8	0.1253	0.6286	0.7333	0.6769	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 500, 0]	S	38	10	340	112	0.2293	0.7917	0.2533	0.3838	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 500, 0]	S	41	21	329	109	0.2341	0.6613	0.2733	0.3868	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 500, 0]	S	41	9	341	109	0.2252	0.82	0.2733	0.41	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 500, 0]	S	42	10	340	108	0.2177	0.8077	0.28	0.4158	{}
+['HEPMASS', 'FKDN', 0.3, 'Asym', 500, 0]	S	34	10	340	116	0.2245	0.7727	0.2267	0.3505	{}
+['HEPMASS', 'MCS', 0.1, 'Asym', 500, 0]	S	22	62	388	28	0.1202	0.2619	0.44	0.3284	{}
+['HEPMASS', 'IH', 0.1, 'Asym', 500, 0]	S	31	63	387	19	0.2058	0.3298	0.62	0.4306	{}
+['HEPMASS', 'IH', 0.1, 'Asym', 500, 0]	S	36	76	374	14	0.2091	0.3214	0.72	0.4444	{}
+['HEPMASS', 'MCS', 0.1, 'Asym', 500, 0]	S	32	50	400	18	0.1049	0.3902	0.64	0.4848	{}
+['HEPMASS', 'IH', 0.1, 'Asym', 500, 0]	S	38	87	363	12	0.1987	0.304	0.76	0.4343	{}
+['HEPMASS', 'MCS', 0.1, 'Asym', 500, 0]	S	33	63	387	17	0.1017	0.3438	0.66	0.4521	{}
+['HEPMASS', 'IH', 0.1, 'Asym', 500, 0]	S	37	74	376	13	0.2819	0.3333	0.74	0.4596	{}
+['HEPMASS', 'MCS', 0.1, 'Asym', 500, 0]	S	27	51	399	23	0.1058	0.3462	0.54	0.4219	{}
+['HEPMASS', 'IH', 0.1, 'Asym', 500, 0]	S	38	78	372	12	0.203	0.3276	0.76	0.4578	{}
+['HEPMASS', 'MCS', 0.1, 'Asym', 500, 0]	S	23	47	403	27	0.1117	0.3286	0.46	0.3833	{}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	11	4	76	9	0.0888	0.7333	0.55	0.6286	{}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	7	7	73	13	0.0892	0.5	0.35	0.4118	{}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	8	9	71	12	0.0829	0.4706	0.4	0.4324	{}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	7	5	75	13	0.0865	0.5833	0.35	0.4375	{}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	8	4	76	12	0.0829	0.6667	0.4	0.5	{}
+['HEPMASS', 'IH', 0.05, 'Asym', 500, 0]	S	16	89	386	9	0.2046	0.1524	0.64	0.2462	{}
+['HEPMASS', 'IH', 0.05, 'Asym', 500, 0]	S	17	90	385	8	0.2043	0.1589	0.68	0.2576	{}
+['HEPMASS', 'IH', 0.05, 'Asym', 500, 0]	S	19	86	389	6	0.201	0.181	0.76	0.2923	{}
+['HEPMASS', 'IH', 0.05, 'Asym', 500, 0]	S	17	98	377	8	0.201	0.1478	0.68	0.2429	{}
+['HEPMASS', 'IH', 0.05, 'Asym', 500, 0]	S	18	82	393	7	0.2148	0.18	0.72	0.288	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	96	59	291	54	0.0084	0.6194	0.64	0.6295	{}
+['HEPMASS', 'KDN', 0.4, 'Asym', 500, 0]	S	120	92	208	80	0.1444	0.566	0.6	0.5825	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	92	58	292	58	0.0078	0.6133	0.6133	0.6133	{}
+['HEPMASS', 'KDN', 0.4, 'Asym', 500, 0]	S	130	80	220	70	0.1385	0.619	0.65	0.6341	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	94	48	302	56	0.0081	0.662	0.6267	0.6438	{}
+['HEPMASS', 'KDN', 0.4, 'Asym', 500, 0]	S	114	77	223	86	0.1288	0.5969	0.57	0.5831	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	90	54	296	60	0.0079	0.625	0.6	0.6122	{}
+['HEPMASS', 'KDN', 0.4, 'Asym', 500, 0]	S	107	75	225	93	0.1431	0.5879	0.535	0.5602	{}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	96	59	291	54	0.0081	0.6194	0.64	0.6295	{}
+['HEPMASS', 'KDN', 0.4, 'Asym', 500, 0]	S	123	74	226	77	0.1488	0.6244	0.615	0.6196	{}
+['HEPMASS', 'PD', 0.4, 'Asym', 100, 0]	S	16	14	46	24	0.0065	0.5333	0.4	0.4571	{}
+['HEPMASS', 'PD', 0.4, 'Asym', 100, 0]	S	20	13	47	20	0.0077	0.6061	0.5	0.5479	{}
+['HEPMASS', 'PD', 0.2, 'Asym', 100, 0]	S	11	10	70	9	0.0062	0.5238	0.55	0.5366	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 500, 0]	S	11	55	420	14	0.0961	0.1667	0.44	0.2418	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 100, 0]	S	11	13	67	9	0.0064	0.4583	0.55	0.5	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 500, 0]	S	13	68	407	12	0.1081	0.1605	0.52	0.2453	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 100, 0]	S	5	17	63	15	0.0064	0.2273	0.25	0.2381	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 500, 0]	S	14	67	408	11	0.1115	0.1728	0.56	0.2642	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 100, 0]	S	7	14	66	13	0.0064	0.3333	0.35	0.3415	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 500, 0]	S	19	49	426	6	0.1081	0.2794	0.76	0.4086	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 100, 0]	S	11	19	61	9	0.0064	0.3667	0.55	0.44	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 500, 0]	S	17	63	412	8	0.1091	0.2125	0.68	0.3238	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 500, 0]	S	168	56	194	82	0.2521	0.75	0.672	0.7089	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 500, 0]	S	140	50	200	110	0.2437	0.7368	0.56	0.6364	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 500, 0]	S	135	44	206	115	0.2461	0.7542	0.54	0.6294	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 500, 0]	S	157	57	193	93	0.2504	0.7336	0.628	0.6767	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 500, 0]	S	143	63	187	107	0.2586	0.6942	0.572	0.6272	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 100, 0]	S	7	19	71	3	0.1537	0.2692	0.7	0.3889	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 100, 0]	S	5	16	74	5	0.1535	0.2381	0.5	0.3226	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 100, 0]	S	5	23	67	5	0.1564	0.1786	0.5	0.2632	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 100, 0]	S	6	18	72	4	0.1509	0.25	0.6	0.3529	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 100, 0]	S	5	20	70	5	0.1508	0.2	0.5	0.2857	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 300, 0]	S	7	33	252	8	0.0994	0.175	0.4667	0.2545	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 300, 0]	S	8	35	250	7	0.0987	0.186	0.5333	0.2759	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 300, 0]	S	9	37	248	6	0.1091	0.1957	0.6	0.2951	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 300, 0]	S	8	27	258	7	0.0956	0.2286	0.5333	0.32	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 300, 0]	S	6	40	245	9	0.1061	0.1304	0.4	0.1967	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 300, 0]	S	16	50	220	14	0.0079	0.2424	0.5333	0.3333	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 300, 0]	S	18	42	228	12	0.0073	0.3	0.6	0.4	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 300, 0]	S	18	54	216	12	0.0077	0.25	0.6	0.3529	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 300, 0]	S	23	45	225	7	0.1869	0.3382	0.7667	0.4694	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 300, 0]	S	15	49	221	15	0.0077	0.2344	0.5	0.3191	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 300, 0]	S	19	52	218	11	0.1941	0.2676	0.6333	0.3762	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 300, 0]	S	21	47	223	9	0.1944	0.3088	0.7	0.4286	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 300, 0]	S	15	28	242	15	0.0095	0.3488	0.5	0.411	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 300, 0]	S	23	39	231	7	0.1869	0.371	0.7667	0.5	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.1, 'Asym', 300, 0]	S	18	50	220	12	0.1832	0.2647	0.6	0.3673	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 300, 0]	S	94	36	114	56	0.2039	0.7231	0.6267	0.6714	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 300, 0]	S	81	38	112	69	0.2032	0.6807	0.54	0.6022	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 300, 0]	S	88	40	110	62	0.2068	0.6875	0.5867	0.6331	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 300, 0]	S	84	22	128	66	0.1997	0.7925	0.56	0.6562	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.5, 'Asym', 300, 0]	S	89	34	116	61	0.1937	0.7236	0.5933	0.652	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 300, 0]	S	35	22	218	25	0.0069	0.614	0.5833	0.5983	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 300, 0]	S	39	44	196	21	0.007	0.4699	0.65	0.5455	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 300, 0]	S	36	38	202	24	0.0072	0.4865	0.6	0.5373	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 300, 0]	S	31	42	198	29	0.0072	0.4247	0.5167	0.4662	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 300, 0]	S	42	35	205	18	0.0074	0.5455	0.7	0.6131	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 500, 0]	S	35	79	371	15	0.0082	0.307	0.7	0.4268	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 500, 0]	S	32	88	362	18	0.0081	0.2667	0.64	0.3765	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 500, 0]	S	29	70	380	21	0.008	0.2929	0.58	0.3893	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 500, 0]	S	30	62	388	20	0.0081	0.3261	0.6	0.4225	{'SmallSample': True}
+['HEPMASS', 'PD', 0.1, 'Asym', 500, 0]	S	33	79	371	17	0.0079	0.2946	0.66	0.4074	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 500, 0]	S	74	73	327	26	0.008	0.5034	0.74	0.5992	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 500, 0]	S	56	66	334	44	0.013	0.459	0.56	0.5045	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 500, 0]	S	64	52	348	36	0.0079	0.5517	0.64	0.5926	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 500, 0]	S	63	50	350	37	0.0129	0.5575	0.63	0.5915	{'SmallSample': True}
+['HEPMASS', 'PD', 0.2, 'Asym', 500, 0]	S	58	69	331	42	0.0078	0.4567	0.58	0.511	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 100, 0]	S	4	4	91	1	0.0778	0.5	0.8	0.6154	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 100, 0]	S	2	13	82	3	0.078	0.1333	0.4	0.2	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 100, 0]	S	2	11	84	3	0.0859	0.1538	0.4	0.2222	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 100, 0]	S	3	3	92	2	0.0866	0.5	0.6	0.5455	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.05, 'Asym', 100, 0]	S	1	8	87	4	0.0775	0.1111	0.2	0.1429	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 500, 0]	S	65	79	321	35	0.1227	0.4514	0.65	0.5328	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 500, 0]	S	63	103	297	37	0.1263	0.3795	0.63	0.4737	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 500, 0]	S	60	98	302	40	0.1261	0.3797	0.6	0.4651	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 500, 0]	S	63	108	292	37	0.1235	0.3684	0.63	0.4649	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 500, 0]	S	54	93	307	46	0.1255	0.3673	0.54	0.4372	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.05, 'Asym', 500, 0]	S	18	68	407	7	0.2332	0.2093	0.72	0.3243	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.05, 'Asym', 500, 0]	S	17	87	388	8	0.2358	0.1635	0.68	0.2636	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.05, 'Asym', 500, 0]	S	19	80	395	6	0.2299	0.1919	0.76	0.3065	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.05, 'Asym', 500, 0]	S	18	83	392	7	0.2382	0.1782	0.72	0.2857	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.05, 'Asym', 500, 0]	S	17	84	391	8	0.2299	0.1683	0.68	0.2698	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 500, 0]	S	45	9	291	155	0.2302	0.8333	0.225	0.3543	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 500, 0]	S	43	7	293	157	0.2338	0.86	0.215	0.344	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 500, 0]	S	40	5	295	160	0.2372	0.8889	0.2	0.3265	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 500, 0]	S	29	4	296	171	0.2233	0.8788	0.145	0.2489	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 500, 0]	S	32	3	297	168	0.2342	0.9143	0.16	0.2723	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	17	11	59	13	0.1367	0.6071	0.5667	0.5862	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	20	18	52	10	0.1252	0.5263	0.6667	0.5882	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	20	22	48	10	0.1209	0.4762	0.6667	0.5556	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	13	9	61	17	0.1228	0.5909	0.4333	0.5	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.3, 'Asym', 100, 0]	S	18	11	59	12	0.1225	0.6207	0.6	0.6102	{'SmallSample': True}
+['HEPMASS', 'IH', 0.05, 'Asym', 100, 0]	S	3	12	83	2	0.1562	0.2	0.6	0.3	{'SmallSample': True}
+['HEPMASS', 'IH', 0.05, 'Asym', 100, 0]	S	2	17	78	3	0.1639	0.1053	0.4	0.1667	{'SmallSample': True}
+['HEPMASS', 'IH', 0.05, 'Asym', 100, 0]	S	2	18	77	3	0.1731	0.1	0.4	0.16	{'SmallSample': True}
+['HEPMASS', 'IH', 0.05, 'Asym', 100, 0]	S	3	20	75	2	0.1628	0.1304	0.6	0.2143	{'SmallSample': True}
+['HEPMASS', 'IH', 0.05, 'Asym', 100, 0]	S	2	17	78	3	0.1565	0.1053	0.4	0.1667	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 100, 0]	S	5	0	60	35	0.1377	1.0	0.125	0.2222	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 100, 0]	S	5	1	59	35	0.1274	0.8333	0.125	0.2174	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 100, 0]	S	6	0	60	34	0.1308	1.0	0.15	0.2609	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 100, 0]	S	3	0	60	37	0.1283	1.0	0.075	0.1395	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 100, 0]	S	4	0	60	36	0.1385	1.0	0.1	0.1818	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Asym', 300, 0]	S	38	78	162	22	0.1199	0.3276	0.6333	0.4318	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Asym', 300, 0]	S	39	55	185	21	0.1208	0.4149	0.65	0.5065	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Asym', 300, 0]	S	37	50	190	23	0.1214	0.4253	0.6167	0.5034	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Asym', 300, 0]	S	33	59	181	27	0.1221	0.3587	0.55	0.4342	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Asym', 300, 0]	S	35	54	186	25	0.1224	0.3933	0.5833	0.4698	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 300, 0]	S	15	0	180	105	0.1872	1.0	0.125	0.2222	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 300, 0]	S	7	5	175	113	0.1852	0.5833	0.0583	0.1061	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 300, 0]	S	18	3	177	102	0.1802	0.8571	0.15	0.2553	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 300, 0]	S	18	2	178	102	0.1727	0.9	0.15	0.2571	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.4, 'Asym', 300, 0]	S	16	2	178	104	0.1834	0.8889	0.1333	0.2319	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	39	13	197	51	0.1145	0.75	0.4333	0.5493	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	48	14	196	42	0.1101	0.7742	0.5333	0.6316	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	45	19	191	45	0.1164	0.7031	0.5	0.5844	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	48	17	193	42	0.104	0.7385	0.5333	0.6194	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 300, 0]	S	45	19	191	45	0.1025	0.7031	0.5	0.5844	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 100, 0]	S	10	10	70	10	0.1765	0.5	0.5	0.5	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 100, 0]	S	10	12	68	10	0.1786	0.4545	0.5	0.4762	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 100, 0]	S	14	22	58	6	0.1756	0.3889	0.7	0.5	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 100, 0]	S	13	12	68	7	0.1762	0.52	0.65	0.5778	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 100, 0]	S	8	16	64	12	0.1789	0.3333	0.4	0.3636	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 300, 0]	S	36	38	202	24	0.1881	0.4865	0.6	0.5373	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 300, 0]	S	40	37	203	20	0.177	0.5195	0.6667	0.5839	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 300, 0]	S	43	35	205	17	0.1737	0.5513	0.7167	0.6232	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 300, 0]	S	41	46	194	19	0.1757	0.4713	0.6833	0.5578	{'SmallSample': True}
+['HEPMASS', 'IH', 0.2, 'Asym', 300, 0]	S	38	45	195	22	0.1859	0.4578	0.6333	0.5315	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	77	40	310	73	0.1107	0.6581	0.5133	0.5768	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	88	28	322	62	0.121	0.7586	0.5867	0.6617	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	85	38	312	65	0.1095	0.6911	0.5667	0.6227	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	94	25	325	56	0.1162	0.7899	0.6267	0.6989	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.3, 'Asym', 500, 0]	S	83	39	311	67	0.1053	0.6803	0.5533	0.6103	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 100, 0]	S	18	8	42	32	0.0875	0.6923	0.36	0.4737	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 100, 0]	S	19	3	47	31	0.0819	0.8636	0.38	0.5278	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 100, 0]	S	22	4	46	28	0.0818	0.8462	0.44	0.5789	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 100, 0]	S	17	8	42	33	0.0992	0.68	0.34	0.4533	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 100, 0]	S	14	5	45	36	0.0822	0.7368	0.28	0.4058	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 300, 0]	S	89	49	101	61	0.1223	0.6449	0.5933	0.6181	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 300, 0]	S	87	52	98	63	0.1318	0.6259	0.58	0.6021	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 300, 0]	S	94	36	114	56	0.121	0.7231	0.6267	0.6714	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 300, 0]	S	93	60	90	57	0.1227	0.6078	0.62	0.6139	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 300, 0]	S	95	42	108	55	0.1224	0.6934	0.6333	0.662	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 500, 0]	S	149	77	173	101	0.138	0.6593	0.596	0.6261	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 500, 0]	S	153	76	174	97	0.127	0.6681	0.612	0.6388	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 500, 0]	S	133	79	171	117	0.1362	0.6274	0.532	0.5758	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 500, 0]	S	130	95	155	120	0.1291	0.5778	0.52	0.5474	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.5, 'Asym', 500, 0]	S	142	94	156	108	0.1188	0.6017	0.568	0.5844	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.05, 'Asym', 500, 0]	S	5	21	454	20	0.2094	0.1923	0.2	0.1961	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.05, 'Asym', 500, 0]	S	9	12	463	16	0.2098	0.4286	0.36	0.3913	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.05, 'Asym', 500, 0]	S	6	23	452	19	0.2148	0.2069	0.24	0.2222	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.05, 'Asym', 500, 0]	S	7	28	447	18	0.2141	0.2	0.28	0.2333	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.05, 'Asym', 500, 0]	S	5	20	455	20	0.2103	0.2	0.2	0.2	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.2, 'Asym', 300, 0]	S	41	47	193	19	0.1997	0.4659	0.6833	0.5541	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.2, 'Asym', 300, 0]	S	45	48	192	15	0.1914	0.4839	0.75	0.5882	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.2, 'Asym', 300, 0]	S	44	41	199	16	0.1885	0.5176	0.7333	0.6069	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.2, 'Asym', 300, 0]	S	42	41	199	18	0.1998	0.506	0.7	0.5874	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.2, 'Asym', 300, 0]	S	44	34	206	16	0.1956	0.5641	0.7333	0.6377	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	95	52	298	55	0.0076	0.6463	0.6333	0.6397	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	83	74	276	67	0.008	0.5287	0.5533	0.5407	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	82	61	289	68	0.0081	0.5734	0.5467	0.5597	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	83	67	283	67	0.0083	0.5533	0.5533	0.5533	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 500, 0]	S	93	52	298	57	0.0081	0.6414	0.62	0.6305	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.05, 'Asym', 100, 0]	S	4	16	79	1	0.2914	0.2	0.8	0.32	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.05, 'Asym', 100, 0]	S	4	21	74	1	0.1844	0.16	0.8	0.2667	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.05, 'Asym', 100, 0]	S	3	22	73	2	0.2279	0.12	0.6	0.2	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.05, 'Asym', 100, 0]	S	4	24	71	1	0.233	0.1429	0.8	0.2424	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.05, 'Asym', 100, 0]	S	3	20	75	2	0.1713	0.1304	0.6	0.2143	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	10	6	74	10	0.0797	0.625	0.5	0.5556	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	7	5	75	13	0.0771	0.5833	0.35	0.4375	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	8	9	71	12	0.0847	0.4706	0.4	0.4324	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	7	5	75	13	0.0787	0.5833	0.35	0.4375	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.2, 'Asym', 100, 0]	S	7	4	76	13	0.0878	0.6364	0.35	0.4516	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Asym', 500, 0]	S	14	13	437	36	0.2166	0.5185	0.28	0.3636	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Asym', 500, 0]	S	20	19	431	30	0.2176	0.5128	0.4	0.4494	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Asym', 500, 0]	S	19	26	424	31	0.2146	0.4222	0.38	0.4	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Asym', 500, 0]	S	17	16	434	33	0.2145	0.5152	0.34	0.4096	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Asym', 500, 0]	S	12	22	428	38	0.2192	0.3529	0.24	0.2857	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.4, 'Asym', 300, 0]	S	70	44	136	50	0.3134	0.614	0.5833	0.5983	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.4, 'Asym', 300, 0]	S	67	50	130	53	0.2131	0.5726	0.5583	0.5654	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.4, 'Asym', 300, 0]	S	76	39	141	44	0.2331	0.6609	0.6333	0.6468	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.4, 'Asym', 300, 0]	S	65	51	129	55	0.1887	0.5603	0.5417	0.5508	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.4, 'Asym', 300, 0]	S	68	61	119	52	0.1656	0.5271	0.5667	0.5462	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Asym', 500, 0]	S	30	106	344	20	0.1262	0.2206	0.6	0.3226	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Asym', 500, 0]	S	32	94	356	18	0.1263	0.254	0.64	0.3636	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Asym', 500, 0]	S	34	104	346	16	0.1252	0.2464	0.68	0.3617	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Asym', 500, 0]	S	27	103	347	23	0.1238	0.2077	0.54	0.3	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Asym', 500, 0]	S	27	91	359	23	0.1294	0.2288	0.54	0.3214	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 300, 0]	S	55	11	169	65	0.1276	0.8333	0.4583	0.5914	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 300, 0]	S	59	10	170	61	0.1269	0.8551	0.4917	0.6243	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 300, 0]	S	67	18	162	53	0.1319	0.7882	0.5583	0.6537	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 300, 0]	S	59	19	161	61	0.1502	0.7564	0.4917	0.596	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 300, 0]	S	60	19	161	60	0.1338	0.7595	0.5	0.603	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Asym', 300, 0]	S	73	30	150	47	0.3379	0.7087	0.6083	0.6547	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Asym', 300, 0]	S	75	41	139	45	0.3344	0.6466	0.625	0.6356	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Asym', 300, 0]	S	77	27	153	43	0.3146	0.7404	0.6417	0.6875	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Asym', 300, 0]	S	72	34	146	48	0.3342	0.6792	0.6	0.6372	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Asym', 300, 0]	S	82	31	149	38	0.3309	0.7257	0.6833	0.7039	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Asym', 100, 0]	S	28	19	41	12	0.1226	0.5957	0.7	0.6437	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Asym', 100, 0]	S	22	12	48	18	0.1241	0.6471	0.55	0.5946	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Asym', 100, 0]	S	19	11	49	21	0.1222	0.6333	0.475	0.5429	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Asym', 100, 0]	S	26	21	39	14	0.1342	0.5532	0.65	0.5977	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Asym', 100, 0]	S	26	9	51	14	0.1227	0.7429	0.65	0.6933	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 100, 0]	S	9	18	62	11	0.1781	0.3333	0.45	0.383	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 100, 0]	S	11	24	56	9	0.1264	0.3143	0.55	0.4	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 100, 0]	S	9	18	62	11	0.1809	0.3333	0.45	0.383	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 100, 0]	S	10	19	61	10	0.1267	0.3448	0.5	0.4082	{'SmallSample': True}
+['HEPMASS', 'RkDN', 0.2, 'Asym', 100, 0]	S	13	14	66	7	0.1782	0.4815	0.65	0.5532	{'SmallSample': True}
+['HEPMASS', 'IH', 0.5, 'Asym', 500, 0]	S	152	54	196	98	0.2242	0.7379	0.608	0.6667	{'SmallSample': True}
+['HEPMASS', 'IH', 0.5, 'Asym', 500, 0]	S	154	46	204	96	0.2564	0.77	0.616	0.6844	{'SmallSample': True}
+['HEPMASS', 'IH', 0.5, 'Asym', 500, 0]	S	163	25	225	87	0.2396	0.867	0.652	0.7443	{'SmallSample': True}
+['HEPMASS', 'IH', 0.5, 'Asym', 500, 0]	S	159	34	216	91	0.2382	0.8238	0.636	0.7178	{'SmallSample': True}
+['HEPMASS', 'IH', 0.5, 'Asym', 500, 0]	S	154	53	197	96	0.2407	0.744	0.616	0.674	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 300, 0]	S	80	3	147	70	0.0976	0.9639	0.5333	0.6867	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 300, 0]	S	73	8	142	77	0.1016	0.9012	0.4867	0.632	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 300, 0]	S	69	18	132	81	0.1099	0.7931	0.46	0.5823	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 300, 0]	S	82	15	135	68	0.0967	0.8454	0.5467	0.664	{'SmallSample': True}
+['HEPMASS', 'PD', 0.5, 'Asym', 500, 0]	S	132	38	212	118	0.0083	0.7765	0.528	0.6286	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Asym', 300, 0]	S	70	22	128	80	0.0988	0.7609	0.4667	0.5785	{'SmallSample': True}
+['HEPMASS', 'PD', 0.5, 'Asym', 500, 0]	S	150	41	209	100	0.013	0.7853	0.6	0.6803	{'SmallSample': True}
+['HEPMASS', 'PD', 0.5, 'Asym', 500, 0]	S	145	47	203	105	0.0082	0.7552	0.58	0.6561	{'SmallSample': True}
+['HEPMASS', 'PD', 0.5, 'Asym', 500, 0]	S	153	32	218	97	0.0081	0.827	0.612	0.7034	{'SmallSample': True}
+['HEPMASS', 'PD', 0.5, 'Asym', 500, 0]	S	149	52	198	101	0.0086	0.7413	0.596	0.6608	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	48	45	165	42	0.0072	0.5161	0.5333	0.5246	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	51	41	169	39	0.0072	0.5543	0.5667	0.5604	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	59	29	181	31	0.0073	0.6705	0.6556	0.6629	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	42	44	166	48	0.0073	0.4884	0.4667	0.4773	{'SmallSample': True}
+['HEPMASS', 'PD', 0.3, 'Asym', 300, 0]	S	55	38	172	35	0.0072	0.5914	0.6111	0.6011	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.5, 'Asym', 500, 0]	S	34	6	244	216	0.2234	0.85	0.136	0.2345	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.5, 'Asym', 500, 0]	S	33	2	248	217	0.2249	0.9429	0.132	0.2316	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.5, 'Asym', 500, 0]	S	28	10	240	222	0.2282	0.7368	0.112	0.1944	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.5, 'Asym', 500, 0]	S	39	8	242	211	0.2405	0.8298	0.156	0.2626	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.5, 'Asym', 500, 0]	S	30	4	246	220	0.2265	0.8824	0.12	0.2113	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	16	22	48	14	0.1395	0.4211	0.5333	0.4706	{'SmallSample': True}
+['HEPMASS', 'IH', 0.1, 'Asym', 100, 0]	S	8	17	73	2	0.2732	0.32	0.8	0.4571	{'SmallSample': True}
+['HEPMASS', 'IH', 0.1, 'Asym', 100, 0]	S	6	21	69	4	0.2556	0.2222	0.6	0.3243	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	16	19	51	14	0.123	0.4571	0.5333	0.4923	{'SmallSample': True}
+['HEPMASS', 'IH', 0.1, 'Asym', 100, 0]	S	7	18	72	3	0.2624	0.28	0.7	0.4	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	17	12	58	13	0.1239	0.5862	0.5667	0.5763	{'SmallSample': True}
+['HEPMASS', 'IH', 0.1, 'Asym', 100, 0]	S	6	11	79	4	0.2691	0.3529	0.6	0.4444	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	17	25	45	13	0.1239	0.4048	0.5667	0.4722	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 100, 0]	S	19	16	54	11	0.119	0.5429	0.6333	0.5846	{'SmallSample': True}
+['HEPMASS', 'IH', 0.1, 'Asym', 100, 0]	S	8	14	76	2	0.2774	0.3636	0.8	0.5	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	87	78	272	63	0.1228	0.5273	0.58	0.5524	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	91	94	256	59	0.1227	0.4919	0.6067	0.5433	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 300, 0]	S	50	49	101	100	0.1019	0.5051	0.3333	0.4016	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	99	98	252	51	0.1259	0.5025	0.66	0.5706	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 300, 0]	S	50	52	98	100	0.1136	0.4902	0.3333	0.3968	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	93	65	285	57	0.1222	0.5886	0.62	0.6039	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 300, 0]	S	39	49	101	111	0.1134	0.4432	0.26	0.3277	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.3, 'Asym', 500, 0]	S	101	96	254	49	0.1319	0.5127	0.6733	0.5821	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 300, 0]	S	38	61	89	112	0.1019	0.3838	0.2533	0.3052	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 500, 0]	S	109	43	257	91	0.1052	0.7171	0.545	0.6193	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 300, 0]	S	45	41	109	105	0.0929	0.5233	0.3	0.3814	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 500, 0]	S	111	28	272	89	0.0977	0.7986	0.555	0.6549	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 500, 0]	S	113	33	267	87	0.1036	0.774	0.565	0.6532	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 500, 0]	S	94	34	266	106	0.1014	0.7344	0.47	0.5732	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.4, 'Asym', 500, 0]	S	116	37	263	84	0.1018	0.7582	0.58	0.6572	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Sym', 100, 0]	S	25	33	27	15	0.1208	0.431	0.625	0.5102	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Sym', 100, 0]	S	27	31	29	13	0.1212	0.4655	0.675	0.551	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Sym', 100, 0]	S	20	31	29	20	0.1223	0.3922	0.5	0.4396	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Sym', 100, 0]	S	26	38	22	14	0.12	0.4062	0.65	0.5	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.4, 'Sym', 100, 0]	S	20	27	33	20	0.1232	0.4255	0.5	0.4598	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 100, 0]	S	17	10	40	33	0.0912	0.6296	0.34	0.4416	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 100, 0]	S	15	9	41	35	0.0833	0.625	0.3	0.4054	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 100, 0]	S	13	12	38	37	0.0861	0.52	0.26	0.3467	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 100, 0]	S	11	8	42	39	0.084	0.5789	0.22	0.3188	{'SmallSample': True}
+['HEPMASS', 'MCS', 0.5, 'Sym', 100, 0]	S	12	11	39	38	0.0832	0.5217	0.24	0.3288	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	108	52	298	42	0.2448	0.675	0.72	0.6968	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	94	72	278	56	0.2438	0.5663	0.6267	0.5949	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	102	76	274	48	0.2422	0.573	0.68	0.622	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	106	54	296	44	0.2482	0.6625	0.7067	0.6839	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	102	65	285	48	0.2445	0.6108	0.68	0.6435	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Asym', 500, 0]	S	104	70	280	46	0.2426	0.5977	0.6933	0.642	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Sym', 100, 0]	S	17	20	60	3	0.1329	0.4595	0.85	0.5965	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Sym', 100, 0]	S	13	24	56	7	0.1335	0.3514	0.65	0.4561	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Sym', 100, 0]	S	13	27	53	7	0.1318	0.325	0.65	0.4333	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Sym', 100, 0]	S	15	36	44	5	0.132	0.2941	0.75	0.4225	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Sym', 100, 0]	S	14	25	55	6	0.133	0.359	0.7	0.4746	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.2, 'Sym', 100, 0]	S	10	28	52	10	0.1353	0.2632	0.5	0.3448	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Sym', 500, 0]	S	116	85	265	34	0.2481	0.5771	0.7733	0.661	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Sym', 500, 0]	S	104	83	267	46	0.2447	0.5561	0.6933	0.6172	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Sym', 500, 0]	S	103	92	258	47	0.2489	0.5282	0.6867	0.5971	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Sym', 500, 0]	S	106	84	266	44	0.2429	0.5579	0.7067	0.6235	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Sym', 500, 0]	S	100	99	251	50	0.2466	0.5025	0.6667	0.5731	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.3, 'Sym', 500, 0]	S	96	103	247	54	0.2495	0.4824	0.64	0.5501	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.2, 'Sym', 100, 0]	S	4	3	77	16	0.139	0.5714	0.2	0.2963	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.2, 'Sym', 100, 0]	S	7	0	80	13	0.1344	1.0	0.35	0.5185	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.2, 'Sym', 100, 0]	S	6	4	76	14	0.1405	0.6	0.3	0.4	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.2, 'Sym', 100, 0]	S	7	3	77	13	0.1295	0.7	0.35	0.4667	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.2, 'Sym', 100, 0]	S	3	3	77	17	0.1273	0.5	0.15	0.2308	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.2, 'Sym', 100, 0]	S	8	4	76	12	0.1261	0.6667	0.4	0.5	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Sym', 100, 0]	S	16	23	37	24	0.1503	0.4103	0.4	0.4051	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Sym', 100, 0]	S	25	16	44	15	0.168	0.6098	0.625	0.6173	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Sym', 100, 0]	S	25	25	35	15	0.1495	0.5	0.625	0.5556	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Sym', 100, 0]	S	20	21	39	20	0.1515	0.4878	0.5	0.4938	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Sym', 100, 0]	S	26	21	39	14	0.1498	0.5532	0.65	0.5977	{'SmallSample': True}
+['HEPMASS', 'RFD', 0.4, 'Sym', 100, 0]	S	21	30	30	19	0.1518	0.4118	0.525	0.4615	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Sym', 500, 0]	S	20	15	435	30	0.2206	0.5714	0.4	0.4706	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Sym', 500, 0]	S	24	20	430	26	0.2193	0.5455	0.48	0.5106	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Sym', 500, 0]	S	27	24	426	23	0.2147	0.5294	0.54	0.5347	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Sym', 500, 0]	S	26	10	440	24	0.2128	0.7222	0.52	0.6047	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Sym', 500, 0]	S	30	25	425	20	0.2227	0.5455	0.6	0.5714	{'SmallSample': True}
+['HEPMASS', 'FKDN', 0.1, 'Sym', 500, 0]	S	28	16	434	22	0.2153	0.6364	0.56	0.5957	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Sym', 500, 0]	S	38	110	340	12	0.2019	0.2568	0.76	0.3838	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Sym', 500, 0]	S	34	121	329	16	0.1851	0.2194	0.68	0.3317	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Sym', 500, 0]	S	39	128	322	11	0.2039	0.2335	0.78	0.3594	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Sym', 500, 0]	S	35	123	327	15	0.2016	0.2215	0.7	0.3365	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Sym', 500, 0]	S	35	117	333	15	0.1949	0.2303	0.7	0.3465	{'SmallSample': True}
+['HEPMASS', 'KDN', 0.1, 'Sym', 500, 0]	S	34	105	345	16	0.2001	0.2446	0.68	0.3598	{'SmallSample': True}

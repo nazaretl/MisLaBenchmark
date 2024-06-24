@@ -2207,3 +2207,60 @@
 ['Chess', 'ERL', 0.3, 'Sym', 1000, 7]	S	231	346	354	69	96.3532	0.4003	0.77	0.5268	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
 ['Chess', 'ERL', 0.3, 'Sym', 1000, 8]	S	262	315	385	38	90.0902	0.4541	0.8733	0.5975	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
 ['Chess', 'ERL', 0.3, 'Sym', 1000, 9]	S	232	339	361	68	93.9027	0.4063	0.7733	0.5327	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 300, 0]	S	80	80	130	10	5.8859	0.5	0.8889	0.64	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 300, 0]	S	79	82	128	11	4.9852	0.4907	0.8778	0.6295	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 300, 0]	S	76	92	118	14	5.1014	0.4524	0.8444	0.5891	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 300, 0]	S	76	96	114	14	5.1183	0.4419	0.8444	0.5802	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 300, 0]	S	78	104	106	12	5.0509	0.4286	0.8667	0.5735	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	28	23	47	2	5.9976	0.549	0.9333	0.6914	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	29	19	51	1	6.0456	0.6042	0.9667	0.7436	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	29	29	41	1	6.0687	0.5	0.9667	0.6591	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	28	25	45	2	5.9847	0.5283	0.9333	0.6747	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	28	22	48	2	6.0293	0.56	0.9333	0.7	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 500, 0]	S	132	156	194	18	6.1704	0.4583	0.88	0.6027	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 500, 0]	S	132	148	202	18	5.9709	0.4714	0.88	0.614	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 500, 0]	S	130	140	210	20	6.0078	0.4815	0.8667	0.619	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 500, 0]	S	134	151	199	16	6.2371	0.4702	0.8933	0.6161	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.3, 'Asym', 500, 0]	S	130	143	207	20	6.094	0.4762	0.8667	0.6147	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	38	25	35	2	5.8092	0.6032	0.95	0.7379	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	35	16	44	5	4.781	0.6863	0.875	0.7692	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	36	22	38	4	4.7452	0.6207	0.9	0.7347	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	37	18	42	3	4.8281	0.6727	0.925	0.7789	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	37	21	39	3	4.7869	0.6379	0.925	0.7551	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.1, 'Asym', 500, 0]	S	34	211	239	16	5.6898	0.1388	0.68	0.2305	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.1, 'Asym', 500, 0]	S	40	191	259	10	5.5045	0.1732	0.8	0.2847	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['Chess', 'ERL', 0.4, 'Asym', 500, 0]	S	176	125	175	24	5.6483	0.5847	0.88	0.7026	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 500, 0]	S	166	139	161	34	5.5069	0.5443	0.83	0.6574	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 500, 0]	S	172	139	161	28	5.7961	0.5531	0.86	0.6732	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 500, 0]	S	171	158	142	29	5.5744	0.5198	0.855	0.6465	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 500, 0]	S	170	150	150	30	5.4286	0.5312	0.85	0.6538	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 300, 0]	S	104	86	94	16	4.9526	0.5474	0.8667	0.671	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 300, 0]	S	110	84	96	10	4.7319	0.567	0.9167	0.7006	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 300, 0]	S	111	74	106	9	4.8033	0.6	0.925	0.7279	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 300, 0]	S	103	74	106	17	4.7461	0.5819	0.8583	0.6936	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 300, 0]	S	104	75	105	16	5.0904	0.581	0.8667	0.6957	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	35	17	43	5	4.0621	0.6731	0.875	0.7609	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	35	20	40	5	3.9187	0.6364	0.875	0.7368	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	36	17	43	4	4.0231	0.6792	0.9	0.7742	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	37	22	38	3	3.9902	0.6271	0.925	0.7475	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.4, 'Asym', 100, 0]	S	40	29	31	0	4.0948	0.5797	1.0	0.7339	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 300, 0]	S	13	101	184	2	5.6593	0.114	0.8667	0.2016	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 300, 0]	S	13	128	157	2	4.5323	0.0922	0.8667	0.1667	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 300, 0]	S	13	121	164	2	4.6206	0.097	0.8667	0.1745	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 300, 0]	S	12	124	161	3	4.6866	0.0882	0.8	0.1589	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 300, 0]	S	14	120	165	1	4.6508	0.1045	0.9333	0.1879	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 500, 0]	S	17	203	272	8	6.711	0.0773	0.68	0.1388	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 500, 0]	S	23	223	252	2	5.085	0.0935	0.92	0.1697	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 500, 0]	S	18	181	294	7	5.12	0.0905	0.72	0.1607	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 500, 0]	S	20	199	276	5	4.9979	0.0913	0.8	0.1639	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.05, 'Asym', 500, 0]	S	22	181	294	3	5.165	0.1084	0.88	0.193	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	28	21	49	2	7.2558	0.5714	0.9333	0.7089	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	29	23	47	1	6.1785	0.5577	0.9667	0.7073	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	24	17	53	6	6.044	0.5854	0.8	0.6761	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	28	24	46	2	6.1199	0.5385	0.9333	0.6829	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.3, 'Asym', 100, 0]	S	29	24	46	1	6.0271	0.5472	0.9667	0.6988	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.5, 'Asym', 500, 0]	S	206	123	127	44	5.4602	0.6261	0.824	0.7116	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.5, 'Asym', 500, 0]	S	221	107	143	29	5.5738	0.6738	0.884	0.7647	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.5, 'Asym', 500, 0]	S	214	116	134	36	5.4863	0.6485	0.856	0.7379	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.5, 'Asym', 500, 0]	S	223	128	122	27	5.5826	0.6353	0.892	0.7421	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['Chess', 'ERL', 0.5, 'Asym', 500, 0]	S	213	124	126	37	5.6085	0.632	0.852	0.7257	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}

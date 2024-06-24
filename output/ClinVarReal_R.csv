@@ -8027,3 +8027,22 @@
 ['ClinVarReal', 'AENN', 0.9, 'Real', 10000, 2]	S	2773	558	442	6227	4762.4617	0.8325	0.3081	0.4498	
 ['ClinVarReal', 'AENN', 0.9, 'Real', 10000, 3]	S	2815	528	472	6185	5321.1492	0.8421	0.3128	0.4561	
 ['ClinVarReal', 'AENN', 0.9, 'Real', 10000, 4]	S	2754	517	483	6246	5575.8668	0.8419	0.306	0.4489	
+['ClinVarReal', 'C45iteratedVotingFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'CVCF', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'C45votingFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'C45robustFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'IPF', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'ORBoostFilter', 0.0, 'Real', 1000000, 0]	S	17160	434217	280675	16954	19994.417	0.038	0.503	0.0707	{}
+['ClinVarReal', 'C45robustFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'IPF', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'CVCF', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'C45iteratedVotingFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'C45votingFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'ORBoostFilter', 0.0, 'Real', 1000000, 0]	S	17160	434217	280675	16954	10220.0183	0.038	0.503	0.0707	{}
+['ClinVarReal', 'HARF', 0.0, 'Real', 1000000, 0]	S	8205	171760	543132	25909	47254.9948	0.0456	0.2405	0.0767	{}
+['ClinVarReal', 'HARF', 0.0, 'Real', 1000000, 0]	S	8188	172095	542797	25926	47659.2163	0.0454	0.24	0.0764	{}
+['ClinVarReal', 'C45iteratedVotingFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'C45votingFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'CVCF', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'C45robustFilter', 0.0, 'Real', 1000000, 0]	F									
+['ClinVarReal', 'IPF', 0.0, 'Real', 1000000, 0]	F									

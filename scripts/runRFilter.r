@@ -1,3 +1,5 @@
+print(gc(reset = TRUE))
+options(java.parameters = "-Xmx100000m")
 shhh <- suppressPackageStartupMessages
 shhh(library('NoiseFiltersR'))
 #library('NoiseFiltersR')

@@ -2,10 +2,21 @@ import pysam
 import pandas as pd
 from tqdm import tqdm
 
-file = snakemake.input.cadd
-clinvar = snakemake.input.cv
-output = str(snakemake.output)
-test = snakemake.params.test
+# file = snakemake.input.cadd
+# clinvar = snakemake.input.cv
+# output = str(snakemake.output)
+# test = snakemake.params.test
+
+test = False
+#clinvar = "dataProduced/ClinVarTwoLabels.csv.gz"
+file = "dataRaw/all_SNV_inclAnno.tsv.gz"
+caddInd = "dataRaw/all_SNV_inclAnno.tsv.gz.tbi"
+#output = "dataProduced/ClinVarAnnoLabels.csv.gz" 
+
+clinvar = "dataProduced/ClinVarTwoLabelsJune23Sample.csv.gz"
+output = "dataProduced/ClinVarAnnoTwoLabelsJune23Sample.csv.gz" 
+
+        
 if test:
     nrows = 500
 else:

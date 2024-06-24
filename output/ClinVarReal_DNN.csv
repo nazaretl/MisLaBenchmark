@@ -1228,3 +1228,5 @@
 ['ClinVarReal', 'ERL', 0.3, 'Real', 1000, 7]	S	230	189	511	70	29.7694	0.5489	0.7667	0.6398	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
 ['ClinVarReal', 'ERL', 0.3, 'Real', 1000, 8]	S	223	160	540	77	36.9519	0.5822	0.7433	0.653	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
 ['ClinVarReal', 'ERL', 0.3, 'Real', 1000, 9]	S	226	330	370	74	20.0877	0.4065	0.7533	0.528	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['ClinVarReal', 'ERL', 0.0, 'Real', 1000000, 0]	S	25339	316524	398368	8775	28263.7542	0.0741	0.7428	0.1348	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['ClinVarReal', 'ERL', 0.0, 'Real', 1000000, 0]	S	27463	353652	361240	6651	111958.4863	0.0721	0.805	0.1323	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}

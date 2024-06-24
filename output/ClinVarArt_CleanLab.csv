@@ -1660,3 +1660,36 @@
 ['ClinVarArt', 'CleanLab', 0.1, 'Sym', 10000, 2]	S	702	2210	6790	298	22.1536	0.2411	0.702	0.3589	
 ['ClinVarArt', 'CleanLab', 0.1, 'Sym', 10000, 3]	S	699	2295	6705	301	22.1215	0.2335	0.699	0.35	
 ['ClinVarArt', 'CleanLab', 0.1, 'Sym', 10000, 4]	S	706	2203	6797	294	22.228	0.2427	0.706	0.3612	
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 10000, 0]	S									
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 3000, 0]	S	592	469	1631	308	1.1585	0.558	0.6578	0.6038	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 5000, 0]	S	1010	727	2773	490	2.1513	0.5815	0.6733	0.624	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 10000, 0]	S	2030	1274	5726	970	4.5077	0.6144	0.6767	0.644	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 100, 0]	S	21	38	32	9	0.1239	0.3559	0.7	0.4719	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 300, 0]	S	59	70	140	31	0.1262	0.4574	0.6556	0.5388	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 500, 0]	S	90	82	268	60	0.3259	0.5233	0.6	0.559	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	183	161	539	117	0.3793	0.532	0.61	0.5683	{'Selection': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 100, 0]	S	24	40	30	6	0.0735	0.375	0.8	0.5106	{'SelectionNew': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 300, 0]	S	59	82	128	31	0.13	0.4184	0.6556	0.5108	{'SelectionNew': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	186	202	498	114	0.4152	0.4794	0.62	0.5407	{'SelectionNew': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 500, 0]	S	96	117	233	54	0.3264	0.4507	0.64	0.5289	{'SelectionNew': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 100, 0]	S	18	27	43	12	0.0637	0.4	0.6	0.48	{'SelectionFinal': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 300, 0]	S	65	75	135	25	0.233	0.4643	0.7222	0.5652	{'SelectionFinal': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 500, 0]	S	110	109	241	40	0.192	0.5023	0.7333	0.5962	{'SelectionFinal': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 100, 0]	S	21	30	40	9	0.1109	0.4118	0.7	0.5185	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	192	153	547	108	0.3862	0.5565	0.64	0.5953	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 300, 0]	S	62	76	134	28	0.2028	0.4493	0.6889	0.5439	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 500, 0]	S	94	125	225	56	0.2022	0.4292	0.6267	0.5095	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 100, 0]	S	19	22	48	11	0.0725	0.4634	0.6333	0.5352	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 300, 0]	S	59	74	136	31	0.2347	0.4436	0.6556	0.5291	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 500, 0]	S	90	115	235	60	0.2115	0.439	0.6	0.507	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	188	193	507	112	0.3355	0.4934	0.6267	0.5521	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 100, 0]	S	18	32	38	12	0.0739	0.36	0.6	0.45	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 300, 0]	S	53	67	143	37	0.1238	0.4417	0.5889	0.5048	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 500, 0]	S	105	99	251	45	0.2025	0.5147	0.7	0.5932	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 1000, 0]	S	208	199	501	92	0.3932	0.5111	0.6933	0.5884	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 3000, 0]	S	598	437	1663	302	1.0778	0.5778	0.6644	0.6181	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 5000, 0]	S	996	709	2791	504	3.9715	0.5842	0.664	0.6215	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 10000, 0]	S	2005	1379	5621	995	4.5844	0.5925	0.6683	0.6281	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 3000, 0]	S	592	451	1649	308	1.5646	0.5676	0.6578	0.6094	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 3000, 0]	S	601	412	1688	299	1.0486	0.5933	0.6678	0.6283	{'SelectionBench': True}
+['ClinVarArt', 'CleanLab', 0.3, 'Asym', 3000, 0]	S	564	439	1661	336	1.0325	0.5623	0.6267	0.5927	{'SelectionBench': True}

@@ -2308,3 +2308,67 @@
 ['DryBean', 'ERL', 0.3, 'Sym', 1000, 7]	S	53	41	659	247	84.6651	0.5638	0.1767	0.269	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
 ['DryBean', 'ERL', 0.3, 'Sym', 1000, 8]	S	52	50	650	248	81.4775	0.5098	0.1733	0.2587	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
 ['DryBean', 'ERL', 0.3, 'Sym', 1000, 9]	S	65	51	649	235	78.4392	0.5603	0.2167	0.3125	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	20	4	66	10	6.0214	0.8333	0.6667	0.7407	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	22	11	59	8	6.0154	0.6667	0.7333	0.6984	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	13	3	67	17	6.0548	0.8125	0.4333	0.5652	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	20	6	64	10	5.9958	0.7692	0.6667	0.7143	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	17	10	60	13	5.9983	0.6296	0.5667	0.5965	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 500, 0]	S	72	9	341	78	9.8145	0.8889	0.48	0.6234	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 500, 0]	S	72	20	330	78	9.7077	0.7826	0.48	0.595	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 500, 0]	S	70	4	346	80	9.9952	0.9459	0.4667	0.625	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 500, 0]	S	94	5	345	56	9.7377	0.9495	0.6267	0.755	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 500, 0]	S	63	8	342	87	9.6202	0.8873	0.42	0.5701	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	51	4	206	39	6.1331	0.9273	0.5667	0.7034	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	35	5	205	55	4.9016	0.875	0.3889	0.5385	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	45	8	202	45	4.8732	0.8491	0.5	0.6294	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	49	9	201	41	4.9806	0.8448	0.5444	0.6622	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	39	10	200	51	4.9675	0.7959	0.4333	0.5612	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	28	16	44	12	4.1602	0.6364	0.7	0.6667	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	29	11	49	11	4.0686	0.725	0.725	0.725	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	19	3	57	21	4.0027	0.8636	0.475	0.6129	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	24	11	49	16	4.0615	0.6857	0.6	0.64	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	22	2	58	18	4.1847	0.9167	0.55	0.6875	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.1, 'Asym', 500, 0]	S	24	22	428	26	5.7135	0.5217	0.48	0.5	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.1, 'Asym', 500, 0]	S	19	37	413	31	5.6801	0.3393	0.38	0.3585	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.2, 'Asym', 100, 0]	S	8	11	69	12	4.1866	0.4211	0.4	0.4103	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.1, 'Asym', 500, 0]	S	20	29	421	30	5.8637	0.4082	0.4	0.404	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL'}
+['DryBean', 'ERL', 0.4, 'Asym', 500, 0]	S	93	11	289	107	6.4517	0.8942	0.465	0.6118	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 500, 0]	S	114	9	291	86	6.4884	0.9268	0.57	0.7059	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 500, 0]	S	110	39	261	90	6.6483	0.7383	0.55	0.6304	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 500, 0]	S	119	12	288	81	6.2684	0.9084	0.595	0.719	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 500, 0]	S	112	13	287	88	6.2766	0.896	0.56	0.6892	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	25	4	56	15	4.2231	0.8621	0.625	0.7246	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	17	3	57	23	4.4094	0.85	0.425	0.5667	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	30	6	54	10	4.1679	0.8333	0.75	0.7895	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	26	8	52	14	4.1534	0.7647	0.65	0.7027	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.4, 'Asym', 100, 0]	S	19	12	48	21	4.2012	0.6129	0.475	0.5352	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 300, 0]	S	6	22	263	9	5.1636	0.2143	0.4	0.2791	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 300, 0]	S	7	24	261	8	4.8412	0.2258	0.4667	0.3043	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 300, 0]	S	8	12	273	7	5.2047	0.4	0.5333	0.4571	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 300, 0]	S	7	21	264	8	4.7897	0.25	0.4667	0.3256	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 300, 0]	S	5	8	277	10	4.8659	0.3846	0.3333	0.3571	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	36	5	205	54	9.9547	0.878	0.4	0.5496	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	39	17	193	51	9.6923	0.6964	0.4333	0.5342	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	45	5	205	45	9.7719	0.9	0.5	0.6429	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	43	12	198	47	9.7591	0.7818	0.4778	0.5931	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 300, 0]	S	48	9	201	42	9.8162	0.8421	0.5333	0.6531	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 500, 0]	S	10	23	452	15	6.9795	0.303	0.4	0.3448	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 500, 0]	S	9	25	450	16	5.6732	0.2647	0.36	0.3051	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 500, 0]	S	5	36	439	20	5.3943	0.122	0.2	0.1515	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 500, 0]	S	9	26	449	16	5.6539	0.2571	0.36	0.3	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 500, 0]	S	6	65	410	19	5.5986	0.0845	0.24	0.125	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.1, 'Asym', 100, 0]	S	5	5	85	5	8.2324	0.5	0.5	0.5	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.1, 'Asym', 100, 0]	F									
+['DryBean', 'ERL', 0.1, 'Asym', 100, 0]	S	3	2	88	7	8.5296	0.6	0.3	0.4	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.1, 'Asym', 100, 0]	S	7	7	83	3	8.6066	0.5	0.7	0.5833	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.1, 'Asym', 100, 0]	S	6	11	79	4	8.8081	0.3529	0.6	0.4444	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	14	10	60	16	5.6621	0.5833	0.4667	0.5185	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	13	11	59	17	4.0444	0.5417	0.4333	0.4815	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	16	3	67	14	4.2516	0.8421	0.5333	0.6531	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	14	2	68	16	4.1001	0.875	0.4667	0.6087	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.3, 'Asym', 100, 0]	S	20	17	53	10	4.2493	0.5405	0.6667	0.597	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 100, 0]	S	4	4	91	1	5.041	0.5	0.8	0.6154	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 100, 0]	S	4	15	80	1	4.032	0.2105	0.8	0.3333	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 100, 0]	S	4	12	83	1	3.9749	0.25	0.8	0.381	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 100, 0]	S	2	9	86	3	3.9634	0.1818	0.4	0.25	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
+['DryBean', 'ERL', 0.05, 'Asym', 100, 0]	S	5	7	88	0	4.0723	0.4167	1.0	0.5882	{'beta': 0.6, 'plusLayers': 3, 'learningRate': 0.001, 'scaling': True, 'loss': 'ERL', 'SmallSample': True}
